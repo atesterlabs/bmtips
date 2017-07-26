@@ -1,7 +1,7 @@
 # ----
 # Site
 
-title: Base
+title: BlueMail Help
 url: "https://orange-ape.cloudvent.net/"
 baseurl:
 google_analytics_key:
@@ -10,7 +10,7 @@ newsletter_action:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Knowledge base template for Jekyll.
+description: Help Center for BlueMail
 author:
   name:
   email:
@@ -23,7 +23,7 @@ social:
 # -----
 # Build
 
-permalink: /:categories/:title/
+permalink: /:title/
 
 gems:
   - jekyll-sitemap
@@ -84,5 +84,6 @@ social_icons:
 types:
   - Document
   - Video
+  - post
 
 _comments:
