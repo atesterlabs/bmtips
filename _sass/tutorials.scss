@@ -6,7 +6,7 @@
 }
 
 .categories {
-	display: flex;
+	display: flex-root;
 	flex-wrap:wrap;
 	flex-direction:row;
 	justify-content:flex-start;
