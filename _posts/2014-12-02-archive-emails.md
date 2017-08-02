@@ -32,8 +32,7 @@ meta:
   _yoast_wpseo_metadesc: How to Archive Emails?
   meta-sidebar-type: default
 ---
-<!--<p class="p1"><img class="alignnone wp-image-1606" src="" alt="" width="99" height="99" /></p>-->
-![ic_action_wear_archive]({{ site.baseurl }}/assets/ic_action_wear_archive.png "Image Test")
+[ic_action_wear_archive]({{ site.baseurl }}/assets/ic_action_wear_archive.png "Image Test")
 You can Archive emails for all providers:
 * You can Archive using [Swipe Options in List View](/swipe-menu-options-type-mail/)
 * You can also Archive using the [3-dot-Menu in Mail View](/3-dot-menu-options/)
