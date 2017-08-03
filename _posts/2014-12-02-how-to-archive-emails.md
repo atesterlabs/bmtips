@@ -32,7 +32,7 @@ meta:
 ---
 
 
-[ic_action_wear_archive](/assets/ic_action_wear_archive.png "Image Test")
+![ic_action_wear_archive](/assets/ic_action_wear_archive.png "Image Test")
 
 You can Archive emails for all providers:
 
