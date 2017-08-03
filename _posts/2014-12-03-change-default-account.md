@@ -20,8 +20,8 @@ meta:
   _yoast_wpseo_metadesc: How to Change my Default Account?
 ---
 
-You can change your Default Account using *More* \| *Global Settings* \| *Advanced Features* and you will have these options:
-* Default Account when Launching App - *Which Account* BlueMail will open when opening BlueMail. You can also change the *Default Account when Launching App* while reading emails using the account picker, by pressing the top left corner logo, and choosing the desired account. Every time you open BlueMail, it will be opened where you left it the last time.
-* Default From in Unified Inbox - From which account your new email will be sent.
+You can change your Default Account using *More* \| *Global Settings* \| *Advanced Features* and you will have these options:
+* Default Account when Launching App - *Which Account* BlueMail will open when opening BlueMail. You can also change the *Default Account when Launching App* while reading emails using the account picker, by pressing the top left corner logo, and choosing the desired account. Every time you open BlueMail, it will be opened where you left it the last time.
+* Default From in Unified Inbox - From which account your new email will be sent.
 
-In addition, you can also change the From Address by tapping on it within the compose and choosing another address.
+In addition, you can also change the From Address by tapping on it within the compose and choosing another address.
