@@ -9,15 +9,6 @@ categories:
 - Accounts
 tags: []
 meta:
-  _aioseop_title: Change Default Account
-  _aioseop_description: How to Change my Default Account?
-  _aioseop_keywords: 'Change Default Account BlueMail, BlueMail Default Account, BlueMail
-  _st_post_views_count: '4311'
-  _yoast_wpseo_title: Change Default Account
-  st_post_sidebar: sidebar-off
-  _yoast_wpseo_metakeywords: Change Default Account BlueMail, BlueMail Default Account,
-    BlueMail Change default account,
-  _yoast_wpseo_metadesc: How to Change my Default Account?
 ---
 
 You can change your Default Account using *More* \| *Global Settings* \| *Advanced Features* and you will have these options:
