@@ -30,7 +30,7 @@ meta:
 ---
 To ask for a read-receipt, please press the 3-dots menu in the compose screen and choose **Enable Read Receipt**.
 
-You can also set the this option as default by using *Accounts `| tap the account `| Advanced Account Settings `|* **Enable Read Receipt**.
+You can also set the this option as default by using *Accounts* \| *tap the account* \| *Advanced Account Settings* \| **Enable Read Receipt**.
 
 Please note that only recipients using email servers that support this capability at the other side such as Exchange servers will report back read-receipt messages to BlueMail.
 
