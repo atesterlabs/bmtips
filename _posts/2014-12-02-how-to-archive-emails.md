@@ -1,12 +1,12 @@
 ---
 layout: post
 title: How to Archive Emails?
-date: 2014-12-02 10:10:39.000000000 +02:00
+date: 2014-12-02 08:10:39
 type: post
 published: true
 status: publish
 categories:
-- Basic Actions
+  - Basic Actions
 tags: []
 meta:
   ratings_average: '1'
@@ -16,8 +16,7 @@ meta:
   _yoast_wpseo_primary_category: '7'
   _aioseop_title: Archive Emails
   _aioseop_description: How to Archive Emails?
-  _aioseop_keywords: 'Archive Emails Blue Mail, Blue Mail Archive Emails, Archive
-    an Email Blue Mail, Blue Mail Archive, '
+  _aioseop_keywords: 'Archive Emails Blue Mail, Blue Mail Archive Emails, Archive an Email Blue Mail, Blue Mail Archive, '
   _app-name: field_557848dd38a7a
   app-name: Blue Mail
   _wp_old_slug: archive-emails-type-mail
@@ -27,12 +26,15 @@ meta:
   _st_post_views_count: '6612'
   st_post_sidebar: sidebar-off
   _yoast_wpseo_title: Archive Emails
-  _yoast_wpseo_metakeywords: Archive Emails Blue Mail, Blue Mail Archive Emails, Archive
-    an Email Blue Mail, Blue Mail Archive,
+  _yoast_wpseo_metakeywords: 'Archive Emails Blue Mail, Blue Mail Archive Emails, Archive an Email Blue Mail, Blue Mail Archive,'
   _yoast_wpseo_metadesc: How to Archive Emails?
   meta-sidebar-type: default
 ---
-[ic_action_wear_archive]({{ site.baseurl }}/assets/ic_action_wear_archive.png "Image Test")
+
+
+[ic_action_wear_archive](/assets/ic_action_wear_archive.png "Image Test")
+
 You can Archive emails for all providers:
+
 * You can Archive using [Swipe Options in List View](/swipe-menu-options-type-mail/)
 * You can also Archive using the [3-dot-Menu in Mail View](/3-dot-menu-options/)
