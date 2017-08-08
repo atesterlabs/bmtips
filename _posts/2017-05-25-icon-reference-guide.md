@@ -11,12 +11,13 @@ tags: []
 meta:
 ---
 
-<img src="/assets/BlueMail_Swipe_Glass-1.png" alt="Main View" usemap="#mainView" />
-<map name="mainView">
-{% for s in site.mainView %}
-    <area shape="poly" coords="{{ s.coord }}"
-          href="{{ site.baseurl }}{{ s.href }}"
-          alt="{{ s.name }}" title="{{ s.name }}" >
+<img src="/assets/BlueMail_Swipe_Glass-1.png" alt="Main View" usemap="#mainview" />
+
+<map name="mainview">
+{% for imagemap in site.data.imagemaps %}
+    <area shape="poly" coords="{{ imagemap.coord }}"
+          href="{{ site.baseurl }}{{ imagemap.href }}"
+          alt="{{ imagemap.name }}" title="{{ imagemap.name }}" >
 {% endfor %}
 </map>
 
