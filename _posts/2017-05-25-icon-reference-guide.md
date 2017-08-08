@@ -14,9 +14,9 @@ meta:
 <img src="/assets/BlueMail_Swipe_Glass-1.png" alt="Main View" usemap="#mainView" />
 <map name="mainView">
 {% for s in site.collections['mainView'] %}
-    <area shape="poly" coords="{{ s.map.coord }}"
-          href="{{ site.baseurl }}{{ s.href }}"
-          alt="{{ s.name }}" title="{{ s.name }}" >
+    <area shape="poly" coords="{{ s.mailView.coord }}"
+          href="{{ site.baseurl }}{{ s.mailView.href }}"
+          alt="{{ s.mailview.name }}" title="{{ s.mailView.name }}" >
 {% endfor %}
 </map>
 
