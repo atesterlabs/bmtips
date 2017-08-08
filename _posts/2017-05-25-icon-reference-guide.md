@@ -206,31 +206,31 @@ meta:
 <th>Meaning</th>
 </tr>
 <tr>
-<td style="width: 25%;"><img class="aligncenter wp-image-8647" src="{{ site.baseurl }}/assets/item_attachment.png" alt="" width="35" height="35" /></td>
+<td><img class="aligncenter wp-image-8647" src="{{ site.baseurl }}/assets/item_attachment.png" alt="" width="35" height="35" /></td>
 <td>Email contains an attachment</td>
 </tr>
 <tr>
-<td style="width: 25%;"><img class="aligncenter wp-image-8647" src="{{ site.baseurl }}/assets/cluster_plusxxxhdpi.png" alt="" width="35" height="35" /></td>
+<td><img class="aligncenter wp-image-8647" src="{{ site.baseurl }}/assets/cluster_plusxxxhdpi.png" alt="" width="35" height="35" /></td>
 <td>Cluster is Closed</td>
 </tr>
 <tr>
-<td style="width: 25%;"><img class="aligncenter wp-image-8647" src="{{ site.baseurl }}/assets/cluster_minusxxxhdpi.png" alt="" width="35" height="35" /></td>
+<td><img class="aligncenter wp-image-8647" src="{{ site.baseurl }}/assets/cluster_minusxxxhdpi.png" alt="" width="35" height="35" /></td>
 <td>Cluster is Opened</td>
 </tr>
 <tr>
-<td style="width: 25%;"><img class="aligncenter wp-image-8649" src="{{ site.baseurl }}/assets/item_star.png" alt="" width="35" height="35" /></td>
+<td><img class="aligncenter wp-image-8649" src="{{ site.baseurl }}/assets/item_star.png" alt="" width="35" height="35" /></td>
 <td><a href="/starred-email-label-email/">Email is Starred</a></td>
 </tr>
 <tr>
-<td style="width: 25%;"><img class="aligncenter wp-image-8652" src="{{ site.baseurl }}/assets/next_message_gray.png" alt="" width="35" height="35" /></td>
+<td><img class="aligncenter wp-image-8652" src="{{ site.baseurl }}/assets/next_message_gray.png" alt="" width="35" height="35" /></td>
 <td>Replies in email thread</td>
 </tr>
 <tr>
-<td style="width: 25%;"><img class="aligncenter wp-image-8654" src="{{ site.baseurl }}/assets/edit_mode_mark_as_unread-150x150.png" alt="" width="35" height="35" /></td>
+<td><img class="aligncenter wp-image-8654" src="{{ site.baseurl }}/assets/edit_mode_mark_as_unread-150x150.png" alt="" width="35" height="35" /></td>
 <td><a href="/mark-an-email-as-read/">Email is Unread</a>. The number indicates the amount of unread emails in the Cluster</td>
 </tr>
 <tr>
-<td style="width: 25%;"><img class="aligncenter wp-image-8653" src="{{ site.baseurl }}/assets/edit_mode_mark_as_read-150x150.png" alt="" width="35" height="35" /></td>
+<td><img class="aligncenter wp-image-8653" src="{{ site.baseurl }}/assets/edit_mode_mark_as_read-150x150.png" alt="" width="35" height="35" /></td>
 <td><a href="/mark-an-email-as-read/">Email is Read</a></td>
 </tr>
 </tbody>
