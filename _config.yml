@@ -38,8 +38,9 @@ exclude:
   - LICENCE
 
 collections:
+  - mailView
   sets:
-  - mainView
+
 
 
 jekyll-archives:
