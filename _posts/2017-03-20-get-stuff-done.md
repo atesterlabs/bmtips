@@ -87,7 +87,7 @@ You can change the default setting for *Later Today* using *More...* \| *Global 
 {: .center}
 ![Picker](/assets/BlueMail_PressKit_Picker-1-1.png)
 
-Learn how to change the [default filter]/how-do-i-change-the-default-filter/).
+Learn how to change the [default filter](/how-do-i-change-the-default-filter/).
 
 ## What is the Difference between Snooze+ Filter and Tasks View?
 

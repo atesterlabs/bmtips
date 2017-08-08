@@ -14,6 +14,7 @@ meta:
 What is BlueMail and all the awesome features it includes? - BlueMail is a free and beautifully designed universal email client that is capable of managing an unlimited number of email accounts from all sorts of providers. This allows for smart push notifications while enabling personalization across multiple email accounts. BlueMail is the perfect replacement for your stock email app.
 
 ## All of Your Emails in One Place
+
 {: .center}
 ![Unified Box](/assets/Box_thumb.png)
 
@@ -24,6 +25,7 @@ What is BlueMail and all the awesome features it includes? - BlueMail is a fre
 * Material Design and Lollipop
 
 ## Enhanced Features
+
 {: .center}
 ![Dark Theme](/assets/Dark_Theme_thumb.png)
 With a powerful Unified Account experience packaged in an intuitive and easy to use design, BlueMail provides a top notch email service.
@@ -37,6 +39,7 @@ With a powerful Unified Account experience packaged in an intuitive and easy to 
 * Configurable Menus– Customize your swipe menu and email view actions with what matter to you the most
 
 ## Simplifying Email With Clusters
+
 {: .center}
 ![Cluster](/assets/Clusters.png)
 Clusters, like books, keep  your loose emails in order and in one place.
@@ -47,6 +50,7 @@ Clusters, like books, keep  your loose emails in order and in one place.
 * Multi-Edit - Use multi-edit to quickly move, delete, or Block clusters
 
 ## Getting Stuff Done
+
 {: .center}
 ![Tasks](/assets/Tasks_thumb.png)
 Gone are the days of remembering to respond to an important email.
@@ -56,6 +60,7 @@ Gone are the days of remembering to respond to an important email.
 * Quick Filters - Easily filter emails by unread/starred
 
 ## Visually Appealing
+
 {: .center}
 ![Visually Appealing](/assets/Visual-Appealing.png)
 With an endless amount of customization possibilities, there is something for everyone to enjoy.
@@ -66,6 +71,7 @@ With an endless amount of customization possibilities, there is something for ev
 * Color Coding - Makes it all simple
 
 ## Security Above All
+
 {: .center}
 ![Security](/assets/Security.png)
 BlueMail takes your security and privacy seriously by offering industry proven solutions.
