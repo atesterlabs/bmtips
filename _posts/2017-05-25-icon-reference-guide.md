@@ -25,7 +25,6 @@ meta:
 ## Account Status
 
 | Icon | Meaning |
-| ---- | ------- |
 | {: .icon}![Sync](/assets/account_status_sync.png) | Account is Syncing |
 | {: .icon}![Silenced](/assets/account_status_moon.png) | Account is silenced |
 | {: .icon}![Error](/assets/account_state_error.png) | Account is not connected |
