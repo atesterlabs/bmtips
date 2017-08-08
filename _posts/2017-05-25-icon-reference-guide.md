@@ -10,6 +10,44 @@ categories:
 tags: []
 meta:
 ---
+
+<h1>Tap Where The Icon is Located to Learn More</h1>
+<img id="mapimage" class="aligncenter" src="{{ site.baseurl }}/assets/BlueMail_Swipe_Glass-1.png" alt="" usemap="#Map1" />
+<img class="aligncenter" src="{{ site.baseurl }}/assets/Compose_Glass.png" alt="" usemap="#Map2" />
+<img class="aligncenter" src="{{ site.baseurl }}/assets/Account_Settings_Glass-1.png" alt="" usemap="#Map3" />
+<img class="aligncenter" src="{{ site.baseurl }}/assets/Mail_View_Glass-1.png" alt="" usemap="#Map4" />
+
+<map id="Map1" name="Map1">
+<area class="imgmap" title="Swipes" alt="" coords="0,153,179,211" shape="rect" href="/icon-reference-guide/#swipe" />
+<area title="Mail Status Indicators" alt="" coords="263,88,298,496" shape="rect" href="/icon-reference-guide/#stat-indicator" />
+<area title="Vertical 3-Dot Menu" alt="" coords="274,33,295,33,294,59,273,55" shape="poly" href="/icon-reference-guide/#vertical-3-dot" />
+<area title="Account Picker" alt="" coords="117,28,118,58,189,59,190,27" shape="poly" href="/icon-reference-guide/#picker" />
+<area title="Bottom Bar" alt="" coords="297,500,294,530,6,530,3,503" shape="poly" href="/icon-reference-guide/#bottom-bar" />
+<area title="Avatar Icons" alt="" coords="0,86,24,150" shape="rect" href="/icon-reference-guide/#avatar" />
+<area title="Avatar Icons" alt="" coords="0,210,24,496" shape="rect" href="/icon-reference-guide/#avatar" />
+<area title="People Switch" alt="" coords="220,33,264,34,262,58,219,56" shape="poly" href="/icon-reference-guide/#people" /> </map>
+<map id="Map2" name="Map2">
+<area title="Compose Menu" alt="" coords="209,23,299,65" shape="rect" href="/icon-reference-guide/#compose" />
+<area title="Compose Options" alt="" coords="258,93,298,135" shape="rect" href="/icon-reference-guide/#compose" />
+<area title="Rich Text Editor" alt="" coords="259,162,299,217" shape="rect" href="/icon-reference-guide/#rich-text" />
+<area title="Navigation" alt="" coords="0,30,44,65" shape="rect" href="/icon-reference-guide/#nav-mail" /> </map>
+<map id="Map3" name="Map3">
+<area title="Vertical 3-Dot Options" alt="" coords="271,31,299,63" shape="rect" href="/icon-reference-guide/#various-acct" />
+<area title="Edit Account" alt="" coords="118,78,146,102" shape="rect" href="/icon-reference-guide/#edit-acct" />
+<area title="Edit Account" alt="" coords="263,77,291,103" shape="rect" href="/icon-reference-guide/#edit-acct" />
+<area title="Edit Account" alt="" coords="113,231,146,259" shape="rect" href="/icon-reference-guide/#edit-acct" />
+<area title="Account Status" alt="" coords="5,195,291,221" shape="rect" href="/icon-reference-guide/#acct-status" />
+<area title="Account Status" alt="" coords="7,349,294,375" shape="rect" href="/icon-reference-guide/#acct-status" />
+<area title="Bottom Bar" alt="" coords="2,497,297,530" shape="rect" href="/icon-reference-guide/#bottom-bar" />
+<area title="Navigation" alt="" coords="1,26,48,66" shape="rect" href="/icon-reference-guide/#nav-mail" /> </map>
+<map id="Map4" name="Map4">
+<area title="Navigation Mail View" alt="" coords="229,28,295,64" shape="rect" href="/icon-reference-guide/#nav-mail" />
+<area title="Bottom Bar" alt="" coords="0,500,300,531" shape="rect" href="/icon-reference-guide/#bottom-mail" />
+<area title="Mail View Status" alt="" coords="259,73,298,150" shape="rect" href="/icon-reference-guide/#mail-view-status" />
+<area title="Navigation Mail View" alt="" coords="42,24,0,67" shape="rect" href="/icon-reference-guide/#nav-mail" /></map>
+
+
+
 <h1>Account Picker</h1>
 <table>
 <tbody>
