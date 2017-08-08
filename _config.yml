@@ -38,7 +38,7 @@ exclude:
   - LICENCE
 
 collections:
-  - _mainView
+  - _mainview
   # sets:
 
 
