@@ -10,23 +10,29 @@ categories:
 tags: []
 meta:
 ---
-
-<img src="/assets/BlueMail_Swipe_Glass-1.png" alt="Main View" alt usemap="#mainview" />
-<map id="mainview" name="mainview">
-{% for imagemap in site.data.imagemaps %}
-    <area title="{{ imagemap.name }}" alt coords="{{ imagemap.coord }}"
-    shape="poly" href="{{ site.baseurl }}{{ imagemap.href }}" >
-{% endfor %}
-</map>
-
-
 <h1>Tap Where The Icon is Located to Learn More</h1>
-<p>[tabs][tab title="Email List View"]<img id="mapimage" class="aligncenter" src="{{ site.baseurl }}/assets/BlueMail_Swipe_Glass-1.png" alt="" usemap="#Map1" /><br />
-[/tab][tab title="Compose View"]<img class="aligncenter" src="{{ site.baseurl }}/assets/Compose_Glass.png" alt="" usemap="#Map2" /><br />
-[/tab]<br />
-[tab title="Account Settings"]<img class="aligncenter" src="{{ site.baseurl }}/assets/Account_Settings_Glass-1.png" alt="" usemap="#Map3" /></p>
-<p>[/tab][tab title="Mail View"]<img class="aligncenter" src="{{ site.baseurl }}/assets/Mail_View_Glass-1.png" alt="" usemap="#Map4" /></p>
-<p>[/tab][/tabs]</p>
+<div id="tabscontainer">
+    <input type="radio" name="radiogroupfortabs" id="radiofortab1" checked/>
+    <label id="tab-label1" for="radiofortab1">Email List View</label>
+    <div id="tab-content1">
+     <img id="mapimage" class="aligncenter" src="{{ site.baseurl }}/assets/BlueMail_Swipe_Glass-1.png" alt="" usemap="#Map1" />
+    </div>
+    <input type="radio" name="radiogroupfortabs" id="radiofortab2"/>
+    <label id="tab-label2" for="radiofortab2">Compose View</label>
+    <div id="tab-content2">
+      <img class="aligncenter" src="{{ site.baseurl }}/assets/Compose_Glass.png" alt="" usemap="#Map2" />
+    </div>
+    <input type="radio" name="radiogroupfortabs" id="radiofortab3"/>
+    <label id="tab-label3" for="radiofortab3">Account Settings</label>
+    <div id="tab-content3">
+      <img class="aligncenter" src="{{ site.baseurl }}/assets/Account_Settings_Glass-1.png" alt="" usemap="#Map3" />
+    </div>
+    <input type="radio" name="radiogroupfortabs" id="radiofortab4"/>
+    <label id="tab-label4" for="radiofortab4">Mail View</label>
+    <div id="tab-content4">
+        <img class="aligncenter" src="{{ site.baseurl }}/assets/Mail_View_Glass-1.png" alt="" usemap="#Map4" />
+    </div>
+</div>
 <map id="Map1" name="Map1">
 <area class="imgmap" title="Swipes" alt="" coords="0,153,179,211" shape="rect" href="/icon-reference-guide/#swipe" />
 <area title="Mail Status Indicators" alt="" coords="263,88,298,496" shape="rect" href="/icon-reference-guide/#stat-indicator" />
