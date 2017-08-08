@@ -11,7 +11,7 @@ tags: []
 meta:
 ---
 
-<h1>Tap Where The Icon is Located to Learn More</h1>
+### Tap Where The Icon is Located to Learn More
 <img id="mapimage" class="aligncenter" src="{{ site.baseurl }}/assets/BlueMail_Swipe_Glass-1.png" alt="" usemap="#Map1" />
 <img class="aligncenter" src="{{ site.baseurl }}/assets/Compose_Glass.png" alt="" usemap="#Map2" />
 <img class="aligncenter" src="{{ site.baseurl }}/assets/Account_Settings_Glass-1.png" alt="" usemap="#Map3" />
