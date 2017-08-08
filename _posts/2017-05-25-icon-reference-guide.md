@@ -15,8 +15,8 @@ meta:
 
 | Icon | Meaning |
 | :----: | ------- |
-| {: .icon}![All Mail Filter](/assets/menu_item_all-150x150.png) | [All Mail Filter](/top-bar-left-triangle-menu/) |
-| {: .icon}![Unread Filter](/assets/menu_item_unread-150x150.png) | Un/read Filter |
+| {: .icon} ![All Mail Filter](/assets/menu_item_all-150x150.png) | [All Mail Filter](/top-bar-left-triangle-menu/) |
+| {: .icon} ![Unread Filter](/assets/menu_item_unread-150x150.png) | Un/read Filter |
 | {: .icon}![Star Filter](/assets/menu_item_star-150x150.png) | Un/Star Filter |
 | {: .icon}![Incoming](/assets/menu_item_incoming-150x150.png) | [Incoming Filter](/faq/keep-email-on-server/) |
 | {: .icon}![Cluster](/assets/picker_cluster_toggle-150x150.png) | [Cluster Settings](/what-is-cluster-mode/) |
@@ -25,7 +25,7 @@ meta:
 ## Account Status
 
 | Icon | Meaning |
-| :----: | ------- |
+| ---- | ------- |
 | {: .icon}![Sync](/assets/account_status_sync.png) | Account is Syncing |
 | {: .icon}![Silenced](/assets/account_status_moon.png) | Account is silenced |
 | {: .icon}![Error](/assets/account_state_error.png) | Account is not connected |
@@ -162,7 +162,7 @@ Here you can configure different settings that apply to the specific account y
 
 ## Where Can I Learn More?
 
-BlueMail is constantly adding new and exciting features for many different devices. To learn more about upcoming news, features, or even device specific solutions, please visit us at one of the links below.</p>
+BlueMail is constantly adding new and exciting features for many different devices. To learn more about upcoming news, features, or even device specific solutions, please visit us at one of the links below.
 
 * [BlueMail Reviews](https://bluemailreviews.com) - Here you can read what users and members of the press have to say about BlueMail
 * [BlueMail Info](https://bluemail.info) - Here is where you can find all sorts of news regarding features both upcoming and present
