@@ -9,24 +9,18 @@ categories:
 - A Feature Overview
 tags: []
 meta:
-  meta-sidebar-type: default
-  ratings_users: '7'
-  ratings_average: '0.43'
-  ratings_score: '3'
-  _yst_is_cornerstone: ''
-  st_post_sidebar: sidebar-right
-  _yoast_wpseo_primary_category: '3'
-  ampforwp_custom_content_editor: ''
-  ampforwp_custom_content_editor_checkbox: ''
-  ampforwp-amp-on-off: default
-  _st_post_views_count: '1312'
-author:
-  login: andrew
-  email: domains@fortislabs.com
-  display_name: andrew
-  first_name: ''
-  last_name: ''
 ---
+
+<img src="/assets/BlueMail_Swipe_Glass-1.png" alt="Main View" usemap="#mainView" />
+<map name="mainView">
+{% for s in site.collections['_mainView'] %}
+    <area shape="poly" coords="{{ s.map.coord }}"
+          href="{{ site.baseurl }}{{ s.href }}"
+          alt="{{ s.name }}" title="{{ s.name }}" >
+{% endfor %}
+</map>
+
+
 <h1>Tap Where The Icon is Located to Learn More</h1>
 <p>[tabs][tab title="Email List View"]<img id="mapimage" class="aligncenter" src="{{ site.baseurl }}/assets/BlueMail_Swipe_Glass-1.png" alt="" usemap="#Map1" /><br />
 [/tab][tab title="Compose View"]<img class="aligncenter" src="{{ site.baseurl }}/assets/Compose_Glass.png" alt="" usemap="#Map2" /><br />

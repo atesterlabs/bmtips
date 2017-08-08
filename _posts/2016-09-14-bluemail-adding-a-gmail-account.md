@@ -9,22 +9,8 @@ categories:
 - Accounts
 tags: []
 meta:
-  meta-sidebar-type: default
-  _edit_last: '1'
-  st_post_sidebar: sidebar-off
-  st_video_oembed: https://www.youtube.com/watch?v=D2tJHUsoCAI
-  _aioseop_title: Adding a Gmail Account
-  _st_post_views_count: '1601'
-  _yoast_wpseo_title: Adding a Gmail Account
-  ratings_users: '1'
-  ratings_score: "-1"
-  ratings_average: "-1"
-author:
-  login: andrew
-  email: domains@fortislabs.com
-  display_name: andrew
-  first_name: ''
-  last_name: ''
 ---
-<p>In this episode of <em>Making BlueMail Work For You</em>, we learn how to add a Gmail account.</p>
-<p>To add a Gmail account, tap <em>Unified | More | Add an Account | Enter your Google Account info | Allow | Add your Name and Description</em></p>
+
+In this episode of *Making BlueMail Work For You*, we learn how to add a Gmail account.
+
+To add a Gmail account, tap *Unified* \| *More* \| *Add an Account* \| *Enter your Google Account info* \| *Allow \| ***Add your Name and Description***
