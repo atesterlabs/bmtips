@@ -28,6 +28,7 @@ What is BlueMail and all the awesome features it includes? - BlueMail is a fre
 
 {: .center}
 ![Dark Theme](/assets/Dark_Theme_thumb.png)
+
 With a powerful Unified Account experience packaged in an intuitive and easy to use design, BlueMail provides a top notch email service.
 
 * Smart Mobile Notifications - Quiet Hours, Custom Sounds, Vibrate, LED Light, Snooze Alerts and other preferences *per each of your accounts*
@@ -42,6 +43,7 @@ With a powerful Unified Account experience packaged in an intuitive and easy to 
 
 {: .center}
 ![Cluster](/assets/Clusters.png)
+
 Clusters, like books, keep  your loose emails in order and in one place.
 
 * Smart Clusters – Automatically combine relevant emails into a single expanding slot
@@ -53,6 +55,7 @@ Clusters, like books, keep  your loose emails in order and in one place.
 
 {: .center}
 ![Tasks](/assets/Tasks_thumb.png)
+
 Gone are the days of remembering to respond to an important email.
 
 * Snooze Emails - Quickly mark emails to be handled later and set reminders so you do not miss them
@@ -63,6 +66,7 @@ Gone are the days of remembering to respond to an important email.
 
 {: .center}
 ![Visually Appealing](/assets/Visual-Appealing.png)
+
 With an endless amount of customization possibilities, there is something for everyone to enjoy.
 
 * Sender's Image - Your friends and contacts photos to help you process your incoming mail faster
@@ -74,6 +78,7 @@ With an endless amount of customization possibilities, there is something for ev
 
 {: .center}
 ![Security](/assets/Security.png)
+
 BlueMail takes your security and privacy seriously by offering industry proven solutions.
 
 * Industry Leading Encryption - With BlueMail your data is always encrypted to protect all your email communications and information secured. BlueMail uses leading industry protocols to secure and protect your data.
