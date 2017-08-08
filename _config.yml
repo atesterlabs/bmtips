@@ -38,8 +38,8 @@ exclude:
   - LICENCE
 
 collections:
-  mailView:
-  sets:
+  - _mainView
+  # sets:
 
 
 
