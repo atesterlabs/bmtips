@@ -12,7 +12,6 @@ meta:
 ---
 
 <img src="/assets/BlueMail_Swipe_Glass-1.png" alt="Main View" usemap="#mainview" />
-
 <map name="mainview">
 {% for imagemap in site.data.imagemaps %}
     <area shape="poly" coords="{{ imagemap.coord }}"
