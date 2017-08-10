@@ -12,6 +12,7 @@ meta:
 ---
 {: .center}
 ![Done](/assets/ic_action_done.png)
+
 You can mark an email as Done with those methods:
 
 * Using the [Bottom Bar Actions in Mail View](/bottom-bar-options-type-mail/).
