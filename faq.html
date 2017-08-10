@@ -33,7 +33,15 @@ faq:
 <div id="accordion">
     <h3>What is the People View?</h3>
     <div>
-        <p>The People View is a new and original way to view your Inbox and reduce its clutter. It arranges your emails into three types, People, Groups, and Services.</p>
+        <p>The People View is a new and original way to view your Inbox and reduce its clutter.<br />
+            It arranges your emails into three types:</p>
+        <ul>
+            <li>People &#8211; Tapping on one of the People will <span class="s1">open a list of all your conversations with that person.</span></li>
+            <li>Groups &#8211; Tapping one of the groups will display all the Group&#8217;s email threads.</li>
+            <li>Services &#8211;  Opening a Service from the People view will open a list of all the emails you got from that Service.</li>
+        </ul>
+        <p>Learn more about <a href="//bluemail.help/people-view/">People View</a></p>
+        <p>&nbsp;</p>
     </div>
     <h3>How to get to Multi-Edit from Search Results?</h3>
     <div>
@@ -41,13 +49,35 @@ faq:
     </div>
     <h3>How to Delete from the Client and not from the Server in IMAP?</h3>
     <div>
-        <p>POP3 users are used to a client setting, that allows emails deleted from the client to be kept on the server. Modern IMAP servers support multiple clients efficiently and delete from the server as soon as you delete from the client (to make sure all other clients are in sync).</p>
-    </div>
+        <p class="p1"><span class="s1">POP3 users are used to a client setting, that allows emails deleted from the client to be kept on the server. Modern IMAP servers support multiple clients efficiently and delete from the server as soon as you delete from the client (to make sure all other clients are in sync).</span></p>
+        <p><span style="color: #000000">BlueMail</span> features a cool mechanism to enjoy both worlds: both seamless IMAP sync and ability to &#8220;delete from the client only&#8221;.</p>
+        <p>To keep emails on server while still being able to delete them if you wish, please follow the following steps:</p>
+        <ol>
+            <li>Change the inbox <a title="What are the filters on the Top Bar Menu: All, Unread, Starred, Incoming, Later, Done?" href="/top-bar-left-triangle-menu/">Filter</a> to <em>Incoming</em> instead of <em>All</em> – this will show only unprocessed emails (you can set this filter to show by always default from the settings o o o<em> | Global Settings | Default Filter in Message List | Incoming</em>).</li>
+            <li>Instead of deleting, <a title="How to Mark an Email as Done?" href="/mark-an-email-as-done/">Mark as Done</a> those you do not want to see on the client any longer, but would like to keep on the server.</li>
+        </ol>
+        <p>Those emails will not be removed from the server, as you never deleted them &#8211; so they would be accessible to other clients, but the really nice thing is that you will now not see them in <em>Incoming</em> (as they were marked <em>Done</em>) from this client.</p>    </div>
     <h3>How to Move Emails to a Specific Folder?</h3>
     <div>
-        <p>Go to Accounts \| Tap your Account \| Folder Mapping \| Archive folder and match it to the folder you like for that account. You will be able to use the Archive action and directly move mails to that folder in one click! </p>
+        <p>Go to <em>Accounts | Tap your Account | Folder Mapping | Archive folder</em> and match it to the folder you like for that account. You will be able to use the Archive action and directly move mails to that folder in one click!</p>
+        <p>Note: This trick does not apply to Gmail accounts, as they have a predefined archive folder called &#8220;All Mail&#8221;.</p>
+    </div>
+    <h3>Resizing the Scrollable Widget</h3>
+    <div>
+        <p>When you initially add a scrollable widget, it takes 3&#215;3 box as default on your home screen.</p>
+        <p>You can resize it to any dimension up to stretching it to the full size of your home screen, by dragging the resize handles, as long as it has space free of other widgets on that home screen page. Below is a fully stretched widget.</p>    </div>
+    <h3>How to Mark an email as Done? How to keep emails on the Server?</h3>
+    <div>
+        <p>While using an IMAP account, BlueMail keeps your emails on your provider&#8217;s server by default so you can retrieve them from multiple devices. Only when you delete an email, will it be deleted from the server and that action will be synced to your other clients and devices.</p>
+        <p>In order to help you get a hold of your mail while not deleting emails, you can mark an email as ‘Done’. You will still be able to delete the email if you wish. This is why we added the Incoming filter to view Unread and Undone emails.</p>
+        <p>To view the Incoming filter, tap on the name of the account while in List View (at the top-center of the screen) and choose the filter “Incoming”.</p>
+        <p>Instead of deleting emails, mark them as “Done” if you do not want to see them in the BlueMail any longer, but would like to keep them on the server. You&#8217;ll still be able to see them under the &#8220;All&#8221; filter.</p>
+        <p style="text-align: center"><a href="/assets/GIF_Tasks_and_Done-1.gif"><img class="alignnone size-full wp-image-4124" src="/assets/GIF_Tasks_and_Done-1.gif" alt="GIF_Tasks_and_Done" width="253" height="450" /></a></p>
+        <p>You can set this filter as your default view. Go to <em>More… | Global Settings | Default Filter.</em></p>    </div>
+    <h3>Is BlueMail Coming to Windows?</h3>
+    <div>
+        <p>Certainly! BlueMail for Windows 7, Windows 8 and Windows 10 is almost ready and will be ready for release soon. You can sign up to try the beta, and when it is ready, we will reach out to you.</p>
+        <p><a href="//bluemail.me/beta/windows">BlueMail for Windows Beta</a></p>
     </div>
 </div>
-
-
 </body>
