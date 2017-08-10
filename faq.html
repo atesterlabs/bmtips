@@ -18,15 +18,36 @@ faq:
 
 <h1>FAQ</h1>
 
-<section class="faq">
-	<ul>
-		{% for item in page.faq %}
-			<li><a href="#{{ item.question | slugify }}">{{ item.question }}</a></li>
-		{% endfor %}
-	</ul>
+<link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+<link rel="stylesheet" href="/resources/demos/style.css">
+<script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+<script>
+    $( function() {
+        $( "#accordion" ).accordion({
+            collapsible: true
+        });
+    } );
+</script>
+<body>
+<div id="accordion">
+    <h3>What is the People View?</h3>
+    <div>
+        <p>The People View is a new and original way to view your Inbox and reduce its clutter. It arranges your emails into three types, People, Groups, and Services.</p>
+    </div>
+    <h3>How to get to Multi-Edit from Search Results?</h3>
+    <div>
+        <p>To get to multi edit in search results, just long tap any of the results.</p>
+    </div>
+    <h3>How to Delete from the Client and not from the Server in IMAP?</h3>
+    <div>
+        <p>POP3 users are used to a client setting, that allows emails deleted from the client to be kept on the server. Modern IMAP servers support multiple clients efficiently and delete from the server as soon as you delete from the client (to make sure all other clients are in sync).</p>
+    </div>
+    <h3>How to Move Emails to a Specific Folder?</h3>
+    <div>
+        <p>Go to Accounts \| Tap your Account \| Folder Mapping \| Archive folder and match it to the folder you like for that account. You will be able to use the Archive action and directly move mails to that folder in one click! </p>
+    </div>
+</div>
 
-	{% for item in page.faq %}
-		<h2 id="{{ item.question | slugify}}">{{ item.question }}<a class="header-link" href="#{{ item.question | slugify }}">#</a></h2>
-		{{ item.answer | markdownify }}
-	{% endfor %}
-</section>
+
+</body>
