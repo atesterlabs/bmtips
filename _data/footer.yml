@@ -1,16 +1,16 @@
 - name:
-  link: https://facebook.com/
+  link: 'https://www.facebook.com/BlueMailApp/'
   new_window: true
   social_icon: Facebook
 - name:
-  link: https://twitter.com/
+  link: 'https://twitter.com/BlueMail'
   social_icon: Twitter
   new_window: true
 - name:
-  link: https://youtube.com/
+  link: 'https://www.youtube.com/channel/UCeo0ItKB5HQq8-eZS1vT7Kg'
   social_icon: YouTube
   new_window: true
-- name: 
+- name:
   link: /feed.xml
   social_icon: RSS
   new_window: false
