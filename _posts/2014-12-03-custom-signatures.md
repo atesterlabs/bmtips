@@ -24,14 +24,14 @@ To do so, please go to *More* \| *Signature* \| scroll to the account you would
 
 You can design your signature using Bold, Italic and Underline text, change the text font and color, and also add an image.
 
-| ![Bold](/assets/Bold.png) | Bold |
-| ![Italics](/assets/Italics.png) | Italics |
-| ![Underline](/assets/Underline.png) | Underline |
-| ![Increase Text Size](/assets/Text_Size.png) | Increase Text Size |
-| ![Typeset](/assets/Typeset.png) | Change Fonts |
-| ![Text Color](/assets/Text_Color.png) | Change Text Size |
-| ![Add Image](/assets/Add_Image.png) | Insert Image |
-| ![Add Hyperlink](/assets/Insert_link.png) | Add Hyperlink |
+| ![Bold](/assets/Bold.png){:width="100px"} | Bold |
+| ![Italics](/assets/Italics.png){:width="100px"} | Italics |
+| ![Underline](/assets/Underline.png){:width="100px"} | Underline |
+| ![Increase Text Size](/assets/Text_Size.png){:width="100px"} | Increase Text Size |
+| ![Typeset](/assets/Typeset.png){:width="100px"} | Change Fonts |
+| ![Text Color](/assets/Text_Color.png){:width="100px"} | Change Text Size |
+| ![Add Image](/assets/Add_Image.png){:width="100px"} | Insert Image |
+| ![Add Hyperlink](/assets/Insert_link.png){:width="100px"} | Add Hyperlink |
 
 Can't see some options? Try sliding the menu to reveal other options.
 

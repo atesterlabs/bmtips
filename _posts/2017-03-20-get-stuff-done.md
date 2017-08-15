@@ -18,7 +18,7 @@ Getting Stuff Done is a method of organization that helps to make achieving task
 ## What is Snooze? How to Snooze+ an Email?
 
 {: .center}
-![Later](/assets/ic_action_later-.png)
+![Later](/assets/ic_action_later-.png){:width="100px"}
 
 Sometimes you are in a context when handling the mail is not effective, possible or reasonable. You may need to wait to a certain time, be in a certain place, or have certain resources or pre-requisites. For those emails you can defer the handling. BlueMail has ready made time frames set for you: later today, end of day, next day / week/ month, or someday in the future. You can also pick a specific date/time, which is useful when you know exactly when would be the most suitable time to handle this mail.
 
@@ -44,7 +44,7 @@ Once you have snoozed some mails, they appear as tasks with due time, sorted by 
 ## What is Done? How to Mark an Email as Done?
 
 {: .center}
-![Done](/assets/ic_action_done.png)
+![Done](/assets/ic_action_done.png){:width="100px"}
 
 [Mark as Done](/mark-an-email-as-done/) moves the mail to the “Done” tab and marks it like that. It means there is nothing more to do with this mail, but it is still valuable for you to keep.
 
@@ -85,7 +85,7 @@ You can change the default setting for *Later Today* using *More...* \| *Global 
 * *Incoming* – Similar to the ‘All’ filter, without the Snoozed and Done emails, so they don’t get mixed in with the rest of your emails.
 
 {: .center}
-![Picker](/assets/BlueMail_PressKit_Picker-1-1.png)
+![Picker](/assets/BlueMail_PressKit_Picker-1-1.png){:width="350px"}
 
 Learn how to change the [default filter](/how-do-i-change-the-default-filter/).
 

@@ -24,4 +24,4 @@ IMAP and Exchange Accounts - Folder Operations will be synced to your Mail Serve
 POP3 Accounts - Folders are local and exist only on your device. If you Create, Rename or Delete a Folder, it will only exist in BlueMail on that device.
 
 {: .center}
-![BlueMail Create Folder](/assets/BlueMail_Create_Folder1.gif)
+![BlueMail Create Folder](/assets/BlueMail_Create_Folder1.gif){:width="350px"}

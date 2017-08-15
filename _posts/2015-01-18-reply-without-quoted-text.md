@@ -15,4 +15,4 @@ When you reply to an email, tap the top right Arrow icon under the subject for t
 
 This will compose a new empty mail to the same recipients without any quoted text.
 
-![Reply Plus New](/assets/reply_plus_new.jpg)
+![Reply Plus New](/assets/reply_plus_new.jpg){:width="350px"}

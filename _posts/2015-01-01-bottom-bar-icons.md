@@ -13,8 +13,8 @@ meta:
 
 Below are the bottom bar icons and their description:
 
-| ![Inbox](/assets/inbox_grey.png) | Mail |
-| ![People](/assets/people_tab_icon.png) | People |
-| ![Compose](/assets/ic_compose_tab.png) | Compose |
-| ![Tasks](/assets/tasks_tab_grey.png) | Tasks |
-| ![More](/assets/ic_more_grey.png) | More |
+| ![Inbox](/assets/inbox_grey.png){:width="100px"} | Mail |
+| ![People](/assets/people_tab_icon.png){:width="100px"} | People |
+| ![Compose](/assets/ic_compose_tab.png){:width="100px"} | Compose |
+| ![Tasks](/assets/tasks_tab_grey.png){:width="100px"} | Tasks |
+| ![More](/assets/ic_more_grey.png){:width="100px"} | More |

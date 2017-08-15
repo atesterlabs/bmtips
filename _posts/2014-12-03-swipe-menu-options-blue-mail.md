@@ -18,4 +18,4 @@ Swiping the email left reveals three options: *Mark Read* / *Unread* , *Arc
 You can [Configure the Swipe Menus](/configure-left-right-swipe-menu/).
 
 {: .center}
-[Swipes](/assets/swipes1-1.jpg)
+![Swipes](/assets/swipes1-1.jpg){:width="350px"}

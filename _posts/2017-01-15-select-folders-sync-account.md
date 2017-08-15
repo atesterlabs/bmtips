@@ -16,7 +16,7 @@ How Do I Select Which Folders to Sync for My Exchange/ActiveSync Account?
 Some Exchange users may have the ability to *choose which folders* they would like to have synced. For users with large mailboxes, this can help you to choose which folders you would prefer to have synced in BlueMail and which ones you may not.
 
 {: .center}
-![Folder Management](/assets/FolderManagement-575x1024.png)
+![Folder Management](/assets/FolderManagement-575x1024.png){:width="350px"}
 
 To select which folders you would like to sync while you are using an Exchange/ActiveSync account simply tap *More...* \| *Various Account Settings* \| *Select The Desired Account* \| *Folder Management*
 

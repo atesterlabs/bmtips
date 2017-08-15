@@ -12,7 +12,7 @@ meta:
 ---
 
 {: .center}
-![Trash Folder](/assets/folder_trash.png)
+![Trash Folder](/assets/folder_trash.png){:width="100px"}
 
 You can Delete an email with these methods:
 

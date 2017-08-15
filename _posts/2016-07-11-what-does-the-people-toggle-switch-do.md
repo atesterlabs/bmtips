@@ -14,7 +14,7 @@ meta:
 The People toggle switch found in the upper right-hand corner is a quick and easy way to hide Services from the mail list. With a flip of the toggle switch, all services are hidden from the mail list leaving only emails from People or Groups. By hiding Services from the mail list, navigating your inbox is much easier and allows you to find the emails you need from the people you want to talk to.
 
 {: .center}
-![Switch](/assets/switch_portrait_v2-1.png)
+![Switch](/assets/switch_portrait_v2-1.png){:width="350px"}
 
 If it is your first time using the People Switch, or you have recently added a new account, it may take a couple of minutes for BlueMail to setup your new People Switch view.
 

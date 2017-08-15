@@ -18,4 +18,4 @@ In Mail View, tap the 3-dot menu and choose **Star**.
 You can also set a Star Swipe Action by [configuring the Swipe Actions](/configure-left-right-swipe-menu/)
 
 {: .center}
-![email 3 dots star](/assets/email3dots_star.gif)
+![email 3 dots star](/assets/email3dots_star.gif){:width="350px"}

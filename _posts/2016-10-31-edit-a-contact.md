@@ -14,7 +14,7 @@ meta:
 To edit a contact's settings in BlueMail, tap *More...* \| *Edit Profile, Groups &amp; Contacts* \| *tap the People tab* \| *choose the contact* you wish to edit settings for.
 
 {: .center}
-![People Profile](/assets/BM_People_Profile-576x1024.png)
+![People Profile](/assets/BM_People_Profile-576x1024.png){:width="350px"}
 
 Within the settings menu you can:
 
@@ -24,4 +24,4 @@ Within the settings menu you can:
 * View your conversations with the contact.
 
 {: .center}
-![People Tip](/assets/BlueMail_Tip_People_2.png)
+![People Tip](/assets/BlueMail_Tip_People_2.png){:width="350px"}

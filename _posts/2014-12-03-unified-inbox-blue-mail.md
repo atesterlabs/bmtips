@@ -14,4 +14,4 @@ meta:
 Unified Inbox allows you to manage all your accounts from a single inbox. Colors designate each account so you can visually identify each account quickly.
 
 {: .center}
-![Blue Mail Picker](/assets/BlueMail_Picker.png)
+![Blue Mail Picker](/assets/BlueMail_Picker.png){:width="350px"}

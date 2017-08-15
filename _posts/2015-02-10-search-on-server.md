@@ -22,4 +22,4 @@ We search your subject, body, and recipients so you can use words from any of th
 Once you get search results you can tap to see a specific mail, or long tap to multi edit and perform actions on some or all of the results. See more in [Multi-Edit](/faq/how-to-get-to-multi-edit-for-search-results)
 
 {: .center}
-![Search](/assets/Search_BM.gif)
+![Search](/assets/Search_BM.gif){:width="350px"}

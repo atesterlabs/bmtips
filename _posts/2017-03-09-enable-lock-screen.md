@@ -14,7 +14,7 @@ meta:
 In the event that your device is not in your immediate control, BlueMail has created the Lock Screen using both a PIN and fingerprint passcode to better safeguard your private emails.
 
 {: .center}
-![Lockscreen](/assets/LockscreenBlue-601x1024.jpg)
+![Lockscreen](/assets/LockscreenBlue-601x1024.jpg){:width="350px"}
 
 ### Passcode Security
 

@@ -20,7 +20,7 @@ Simply tap Done to turn that “To-Do” list into a “To-Done” list. The ema
 The "Done" and "Snooze" filters are now available from within the Tasks view to help you better organise your task list. By tapping on the picker located underneath "Tasks", you are able to view emails that have been marked as "Done" or "Snooze" for emails that still require your attention.
 
 {: .center}
-![Done](/assets/BlueMail_Tip_Tasks_Done.gif)
+![Done](/assets/BlueMail_Tip_Tasks_Done.gif){:width="350px"}
 
 By selecting the Auto Mark as Done setting under Global Settings, you can have replied messages be automatically marked as done.
 

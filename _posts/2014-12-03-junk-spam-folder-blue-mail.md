@@ -12,4 +12,5 @@ meta:
 ---
 
 Emails from Senders or Domains that are **Blocked** within BlueMail or marked as spam on your email provider, will be sent to the *Junk* Folder, also known as *Spam* or *Bulk*.
+
 You can [View your Folders](/navigate-between-folders/) using: Swipe from left edge or by tapping the top left corner icon, and choosing the desired account, then choosing *Junk* / *Spam* folder.

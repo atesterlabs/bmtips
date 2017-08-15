@@ -26,4 +26,4 @@ To print an email, simply tap the vertical 3-dot menu located on the bottom bar 
 From here, we can select which printer to use and configure the details of the print job.
 
 {: .center}
-![BlueMail Print](/assets/BlueMail-Print-placeholder.png)
+![BlueMail Print](/assets/BlueMail-Print-placeholder.png){:width="350px"}

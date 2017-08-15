@@ -11,7 +11,7 @@ tags: []
 meta:
 ---
 {: .center}
-![Done](/assets/ic_action_done.png)
+![Done](/assets/ic_action_done.png){:width="100px"}
 
 
 You can mark an email as Done with those methods:

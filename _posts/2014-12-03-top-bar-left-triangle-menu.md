@@ -19,6 +19,6 @@ meta:
 * **Incoming** – Similar to the ‘All’ filter, without the Snoozed and Done emails, so they don’t get mixed in with the rest of your emails.
 
 {: .center}
-![BlueMail Picker](/assets/BlueMail_PressKit_Picker-1-1.png)
+![BlueMail Picker](/assets/BlueMail_PressKit_Picker-1-1.png){:width="350px"}
 
 Learn how to change the *[default filter.](/how-do-i-change-the-default-filter/)*

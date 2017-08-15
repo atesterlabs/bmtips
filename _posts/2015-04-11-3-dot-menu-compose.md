@@ -21,4 +21,4 @@ On the top bar 3-dot menu in compose mode you have the following options:
 * Enable Read Receipt
 
 {: .center}
-![Compose](/assets/BlueMail_3_Dot_Composition.gif)
+![Compose](/assets/BlueMail_3_Dot_Composition.gif){:width="350px"}

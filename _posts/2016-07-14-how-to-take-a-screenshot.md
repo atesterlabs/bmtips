@@ -14,6 +14,6 @@ meta:
 To take a screenshot on the Samsung S7, simultaneously press both the power button (found on the top right) and the home button (found on the bottom center of your device). A shutter sound as a quick flash on the screen will let you know the screenshot has been successfully taken. Screenshots are by default saved in the Gallery app or your Google Photos.
 
 {: .center}
-![S7 Screenshot](/assets/S7_BM.png)
+![S7 Screenshot](/assets/S7_BM.png){:width="350px"}
 
 [Looking for your device?](http://bluemaildevices.com)

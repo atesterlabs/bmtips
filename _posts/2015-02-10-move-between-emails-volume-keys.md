@@ -19,4 +19,4 @@ You can get to previous or next email from the current email view using:
 Note: Pull down action will return you to the Inbox, so that you can use BlueMail with a single hand more conveniently.
 
 {: .center}
-![BlueMail Scroll](/assets/BlueMail_scroll.png)
+![BlueMail Scroll](/assets/BlueMail_scroll.png){:width="350px"}

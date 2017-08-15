@@ -32,7 +32,7 @@ meta:
 ---
 
 {: .center}
-![ic_action_wear_archive](/assets/ic_action_wear_archive.png){:height="36px" width="36px"}
+![ic_action_wear_archive](/assets/ic_action_wear_archive.png){:height="100px" width="100px"}
 
 You can Archive emails for all providers:
 

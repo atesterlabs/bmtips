@@ -11,7 +11,7 @@ tags: []
 meta:
 ---
 
-![Sync](/assets/SES_Sync_v6.png)
+![Sync](/assets/SES_Sync_v6.png){:width="350px"}
 
 Calendar and contact sync are supported in BlueMail for various exchange servers.
 

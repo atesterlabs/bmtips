@@ -15,7 +15,7 @@ To change the appearance of outgoing emails in BlueMail, please tap the gray rec
 
 You can tap the arrow icon again to hide this toolbar.
 
-![Google Play Rich Text](/assets/BlueMail_Google_Play_Rich_Text.png)
+![Google Play Rich Text](/assets/BlueMail_Google_Play_Rich_Text.png){:width="350px"}
 
 In addition to **B** *I* and <span style="text-decoration: underline;">U</span>, the additional icons perform the following functions:
 

@@ -40,7 +40,7 @@ You have few tries and when you are able to enter the right code you have verifi
 Now the verification process starts! You will get a system message in BlueMail on your old device, with the identification of your phone number and request to *Insert Code*.
 
 {: .center}
-![Verification](/assets/4-1-2.png)
+![Verification](/assets/4-1-2.png){:width="238px"}
 
 Please insert the same code and if done correctly – your accounts will sync to the new device!
 

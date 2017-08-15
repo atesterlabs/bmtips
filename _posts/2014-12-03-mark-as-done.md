@@ -12,7 +12,7 @@ meta:
 ---
 
 {: .center}
-![Action Done](/assets/ic_action_done.png)
+![Action Done](/assets/ic_action_done.png){:width="100px"}
 
 [Mark as Done](/mark-an-email-as-done/) moves the mail to the "Done" tab and marks it like that. It means there is nothing more to do with this mail, but it is still valuable for you to keep.
 

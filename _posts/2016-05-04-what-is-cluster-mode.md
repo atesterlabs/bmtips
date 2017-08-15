@@ -19,8 +19,8 @@ You can disable Clusters by simply tapping the top action bar in the middle (o
 * Clusters Only Services – Clusters emails from services, while disabling clusters for people and groups
 * Clusters Off – Disables Clusters for all type of emails
 
-
-![Picker](/assets/BlueMail_PressKit_Picker-1.png)
+{: .center}
+![Picker](/assets/BlueMail_PressKit_Picker-1.png){:width="350px"}
 
 You can re-enable Clusters at any time from the same menu.
 

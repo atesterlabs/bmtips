@@ -14,7 +14,7 @@ meta:
 BlueMail marks emails as read or unread:
 
 {: .center}
-![BlueMail Read Unread](/assets/ReadUnread-1024x839.png)
+![BlueMail Read Unread](/assets/ReadUnread-1024x839.png){:width="350px"}
 
 An empty circle is read, and a filled one designates an unread email. Also, the sender and subject of an unread email will be bold. The color itself identifies the account, and helps you prioritize when using Unified Inbox so you can easily identify the account of that email.
 

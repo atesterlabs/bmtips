@@ -15,7 +15,7 @@ meta:
 
 An **Alias** is an alternate email address that points to your existing email account. This means that an email sent *to* your alias would appear in the same email inbox as your main email address. You can also send an email *from* your alternate email address without switching accounts.
 
-![Alias](/assets/Aliases_v4.png)
+![Alias](/assets/Aliases_v4.png){:width="350px"}
 
 From talking to home buyers, selling your car, or looking for a job, aliases are a perfect solution for when you may want to use a temporary email address.
 

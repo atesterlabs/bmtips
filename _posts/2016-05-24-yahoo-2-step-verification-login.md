@@ -18,7 +18,7 @@ This will let you know about generating an ‘App Password’ which you can use 
 Follow Step by Step Instructions below the image
 
 {: .center}
-![Yahoo](/assets/GIF_Yahoo.gif)
+![Yahoo](/assets/GIF_Yahoo.gif){:width="350px"}
 
 1. Go to [https://login.yahoo.com/account/security](https://login.yahoo.com/account/security) and sign in to Yahoo Mail with your **DESKTOP** or **LAPTOP**.
 2. Go to the ‘Account Security’ tab - You may have to re-enter your password.

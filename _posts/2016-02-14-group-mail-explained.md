@@ -22,4 +22,4 @@ It makes a lot of sense to speed up the process of mobile email communications w
 Group Mail by BlueMail is a big leap forward for mobile email users.
 
 {: .center}
-![Groups](/assets/BlueMail_groups.png)
+![Groups](/assets/BlueMail_groups.png){:width="350px"}

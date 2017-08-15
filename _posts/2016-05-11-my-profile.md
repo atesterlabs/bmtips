@@ -17,4 +17,4 @@ BlueMail enables you to add your own photo for each of your accounts. This is
 To edit your profile, tap *More...* \| *Edit Profile, Groups &amp; Contacts* \| *My Profile*. Tap the "Edit" on each of the left circles to upload your own profile photo per account. Then, press Back to confirm the changes.
 
 {: .center}
-![My Profile](/assets/GIF_MyProfile.gif)
+![My Profile](/assets/GIF_MyProfile.gif){:width="350px"}

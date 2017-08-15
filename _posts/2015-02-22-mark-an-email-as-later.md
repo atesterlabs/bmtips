@@ -11,7 +11,7 @@ tags: []
 meta:
 ---
 
-![Later](/assets/ic_action_later-.png)
+![Later](/assets/ic_action_later-.png){:width="100px"}
 
 You can add an email to tasks / snooze an email using these methods:
 

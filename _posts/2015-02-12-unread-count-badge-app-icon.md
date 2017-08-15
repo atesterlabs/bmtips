@@ -20,4 +20,4 @@ To select which account's unread count to present on your main app icon: set it 
 For other cases please check [Alternatives to Unread Count Badge on the App Icon](/alternatives-unread-count-badge/).
 
 {: .center}
-![](/assets/badge_Blue_Mail.jpg)
+![](/assets/badge_Blue_Mail.jpg){:width="350px"}

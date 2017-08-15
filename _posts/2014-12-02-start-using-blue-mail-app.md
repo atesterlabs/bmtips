@@ -28,4 +28,4 @@ meta:
 6. There you Go!
 
 {: .center}
-![Downloading BlueMail](/assets/Downloading_BlueMail.gif)
+![Downloading BlueMail](/assets/Downloading_BlueMail.gif){:width="350px"}

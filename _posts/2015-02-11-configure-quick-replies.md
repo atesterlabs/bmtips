@@ -14,4 +14,4 @@ meta:
 In order to edit or add a Quick Reply, tap *More...* \| *Global Settings* \| *Customize Menus* \| **Configure Quick Replies**:
 
 {: .center}
-![](/assets/configure_quick_replies.jpg)
+![](/assets/configure_quick_replies.jpg){:width="350px"}

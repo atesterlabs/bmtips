@@ -27,7 +27,7 @@ Once you have enabled 2FA for your iCloud account, you can now generate an app-
 
 **Please note:** Two-factor authentication is currently available to iCloud users with at least one device that's using iOS 9 or OS X El Capitan or later.
 
-If you don't have access to any of your Apple devices, please see the [Apple support instructions]https://support.apple.com/en-il/HT204921) below:
+If you don't have access to any of your Apple devices, please see the [Apple support instructions](https://support.apple.com/en-il/HT204921) below:
 
 > **If you can't access any of your devices**
 

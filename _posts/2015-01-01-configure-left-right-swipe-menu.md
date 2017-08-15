@@ -16,7 +16,7 @@ meta:
 Dual Swipe is composed of Short and Long Swipe gestures while maintaining one movement. Short Swipe presents three options in each direction for a total of six available actions which you can use to take command of your inbox. Long Swipe performs one action in each direction and enables you to blitz through your inbox with ease.
 
 {: .center}
-![Swipe Reduced](/assets/BlueMail_Swipe_reduced.gif)
+![Swipe Reduced](/assets/BlueMail_Swipe_reduced.gif){:width="350px"}
 
 # Short Swipe Actions
 
@@ -28,21 +28,21 @@ Here you can select the three actions you would like to access via the swipe men
 
 Please note: already selected actions will be grayed out.
 
-| ![Snooze](/assets/ic_action_later--150x150.png) | Snooze+ |
-| ![Trash](/assets/folder_trash.png) | Delete |
-| ![Snooze Default](/assets/ic_action_later_default.png) | Snooze Default |
-| ![Reply All](/assets/ic_action_reply_all.png) | Reply All |
-| ![More](/assets/more_option_add_account.png) | More |
-| ![Reply](/assets/ic_action_wear_reply.png) | Reply |
-| ![Done](/assets/ic_action_done.png) | Done/Undone |
-| ![Forward](/assets/ic_action_forward.png) | Forward |
-| ![Mark Read](/assets/ic_action_wear_mark_as_read.png) | Mark Read |
-| ![Move](/assets/ic_action_move.png) | Move |
-| ![Unread](/assets/menu_item_unread.png) | Mark Unread |
-| ![Star](/assets/menu_item_star.png) | Star/Unstar |
-| ![Archive](/assets/ic_action_wear_archive.png) | Archive |
-| ![Spam](/assets/ic_action_spam.png) | Spam |
-| ![Reply](/assets/settings_swipe_quick_reply1.png) | Quick Replies |
+| ![Snooze](/assets/ic_action_later--150x150.png){:width="100px"} | Snooze+ |
+| ![Trash](/assets/folder_trash.png){:width="100px"} | Delete |
+| ![Snooze Default](/assets/ic_action_later_default.png){:width="100px"} | Snooze Default |
+| ![Reply All](/assets/ic_action_reply_all.png){:width="100px"} | Reply All |
+| ![More](/assets/more_option_add_account.png){:width="100px"} | More |
+| ![Reply](/assets/ic_action_wear_reply.png){:width="100px"} | Reply |
+| ![Done](/assets/ic_action_done.png){:width="100px"} | Done/Undone |
+| ![Forward](/assets/ic_action_forward.png){:width="100px"} | Forward |
+| ![Mark Read](/assets/ic_action_wear_mark_as_read.png){:width="100px"} | Mark Read |
+| ![Move](/assets/ic_action_move.png){:width="100px"} | Move |
+| ![Unread](/assets/menu_item_unread.png){:width="100px"} | Mark Unread |
+| ![Star](/assets/menu_item_star.png){:width="100px"} | Star/Unstar |
+| ![Archive](/assets/ic_action_wear_archive.png){:width="100px"} | Archive |
+| ![Spam](/assets/ic_action_spam.png){:width="100px"} | Spam |
+| ![Reply](/assets/settings_swipe_quick_reply1.png){:width="100px"} | Quick Replies |
 
 ### Removing a Short Swipe Action
 To remove a Short Swipe action from your Dual Swipe menu, tap *More...* \| *Global Settings* \| *Customize Menus* \| *Configure Action Buttons* \| *Configure Right / Left Swipe Menu*. Tap **X** to remove an action from the list.

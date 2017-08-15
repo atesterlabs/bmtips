@@ -18,6 +18,6 @@ Next tap the vertical 3-dot menu in the bottom right corner and select *Show Or
 Press both the volume up and down keys at the same time. This will enable a 3-dot menu in the top right of your screen.
 
 {: .center}
-![Report Email](/assets/BlueMail_report-mail_slower.gif)
+![Report Email](/assets/BlueMail_report-mail_slower.gif){:width="350px"}
 
 Select *Report Issue* and tap *OK*.

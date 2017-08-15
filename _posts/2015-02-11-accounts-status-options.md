@@ -21,4 +21,4 @@ There are four different account's status options:
 Note that *Updated* and *Syncing* statuses are more common in *Fetch* or *Manual*. [What are BlueMail’s Synchronization Modes?](/sync-options-type-mail/)
 
 {: .center}
-![](/assets/accounts_status1.jpg)
+![](/assets/accounts_status1.jpg){:width="350px"}

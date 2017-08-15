@@ -14,6 +14,6 @@ meta:
 To update or change the password on your Outlook account, simply tap *More...* \| *Various Account Settings* \| *Select your Outlook account* \| *Update Password*
 
 {: .center}
-![BlueMail Outlook](/assets/BlueMail_Outlook_Screen_1-576x1024.jpg)
+![BlueMail Outlook](/assets/BlueMail_Outlook_Screen_1-576x1024.jpg){:width="350px"}
 
 A screen will display prompting you to sign into your Outlook account. After updating your new credentials, your account will be ready once again.

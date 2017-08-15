@@ -17,11 +17,11 @@ There are two ways to enable Dark Theme:
 
 * From the pull-down picker, tap Dark Mode On
 
-![DarkTheme](/assets/BlueMail_Tip_DarkTheme_v1.gif)
+![DarkTheme](/assets/BlueMail_Tip_DarkTheme_v1.gif){:width="350px"}
 
 * Tap *More...* \| *Global Settings* \| *Customize Appearance* \| *Dark Mode* \| *Dark Mode: Dark*
 
-![Dark Theme 2](/assets/BlueMail_Tip_DarkTheme_v2.gif)
+![Dark Theme 2](/assets/BlueMail_Tip_DarkTheme_v2.gif){:width="350px"}
 
 By default dark mode will apply to your mail view, however, if you wish to keep mail view in light mode, simply tap *Mail View Theme* and select *Light*.
 

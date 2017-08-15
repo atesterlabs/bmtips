@@ -17,6 +17,6 @@ Email has a priority header and this sets it to high. Some clients (e.g. Outlook
 BlueMail marks high priority emails with a blue circle and an arrow up with in.
 
 {: .center}
-![](/assets/HighPriority-921x1024.png)
+![](/assets/HighPriority-921x1024.png){:width="350px"}
 
 You can also [Send Emails with High Priority](/send-email-with-high-priority/) from BlueMail.

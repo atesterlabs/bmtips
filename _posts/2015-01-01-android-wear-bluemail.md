@@ -14,7 +14,7 @@ meta:
 ## Android Wear Users
 
 {: .center}
-![Android Wear BlueMail](/assets/android_wear_smart_watch_blue.png)
+![Android Wear BlueMail](/assets/android_wear_smart_watch_blue.png){:width="100px"}
 
 BlueMail supports Android Wear devices and enables you to access your emails wherever you need them!
 

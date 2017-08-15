@@ -29,4 +29,4 @@ In mail view it offers:
 * Re-download Message
 * [Configure Menu](/how-to-configure-the-bottom-bar-actions/) (you can configure the bottom bar actions using this option)
 
-![](/assets/BlueMail_3_Dot_Email_View-1.gif)
+![](/assets/BlueMail_3_Dot_Email_View-1.gif){:width="350px"}

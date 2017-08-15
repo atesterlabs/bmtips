@@ -22,4 +22,4 @@ To send an email to a Group tap the *Compose* button and start typing the name o
 The email will be sent to all the Group members.
 
 {: .center}
-![Auto Complete](/assets/BlueMail_Auto_Complete_update_2017.gif)
+![Auto Complete](/assets/BlueMail_Auto_Complete_update_2017.gif){:width="350px"}

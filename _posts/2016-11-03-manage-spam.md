@@ -37,7 +37,7 @@ This specific mail will be moved to Spam and all **future** emails from that se
 **Please note:** Other emails currently in the Inbox with this domain or address, will now display a Red Spam Indicator on the avatar.
 
 {: .center}
-![Spam](/assets/BlueMail_GIF_Spam.gif)
+![Spam](/assets/BlueMail_GIF_Spam.gif){:width="350px"}
 
 ## How to Unblock a Sender?
 
@@ -48,7 +48,7 @@ If your *provider* identified the email as spam, it will not have a Red Spam In
 The Red Spam Indicator appears for emails Blocked using **BlueMail’s** Spam Manager. The Red Spam Indicator will not appear on Emails that your provider has filtered as spam.
 
 {: .center}
-![BlueMail Mark Spam](/assets/BlueMail-Spam.png)
+![BlueMail Mark Spam](/assets/BlueMail-Spam.png){:width="350px"}
 
 ## How Do I Unblock a Sender or Unblock a Domain From The Block List?
 
@@ -57,6 +57,6 @@ Email Addresses and Domains that were *previously* Blocked on **BlueMail** are d
 To edit the Block List in **BlueMail**, please tap *More...* \| *Various Account Settings* \| *select the account* \| *Block List* \| *select either ***Addresses*** or ***Domains**** \| *tap the red X*
 
 {: .center}
-![BlueMail Spam Addresses](/assets/BlueMail_Spam_Addresses.png)
+![BlueMail Spam Addresses](/assets/BlueMail_Spam_Addresses.png){:width="350px"}
 
 By tapping the red (X), you can Unblock that Sender or Domain and continue to receive emails from those addresses.
