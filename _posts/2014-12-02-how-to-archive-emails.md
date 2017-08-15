@@ -31,8 +31,8 @@ meta:
   meta-sidebar-type: default
 ---
 
-{: .center}{width="50px"}
-![ic_action_wear_archive](/assets/ic_action_wear_archive.png "Image Test")
+{: .center}
+![ic_action_wear_archive](/assets/ic_action_wear_archive.png =50px)
 
 You can Archive emails for all providers:
 
