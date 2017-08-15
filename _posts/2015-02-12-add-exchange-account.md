@@ -24,7 +24,7 @@ To add an exchange account: Tap *More...* \| *Various Account Settings* \| *Add 
 
 **Note:** If you already have an account installed and would like to see the current protocol that is being used, tap *More...* \| *Various Account Settings* \| *Choose Account* \| *Edit Account* \| **Protocol**
 
-If your account was previously added as EWS and you would like to switch it to EAS (if supported by your provider), please remove it by tapping *More...* \| *Various Account Settings* \| *Select the account you would like to remove* \| *Edit Account* | **Remove Account**, then add the account as EAS with the instructions above.
+If your account was previously added as EWS and you would like to switch it to EAS (if supported by your provider), please remove it by tapping *More...* \| *Various Account Settings* \| *Select the account you would like to remove* \| *Edit Account* \| **Remove Account**, then add the account as EAS with the instructions above.
 
 {: .center}
 ![](/assets/add_Exchange_new.png)
