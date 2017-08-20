@@ -17,7 +17,7 @@ Normally, your provider uses very specialized software and techniques to preven
 ## Does BlueMail Support Spam Management?
 
 **BlueMail** offers a Spam Management tool to *supplement* your provider’s existing spam filter by providing an option to **Block** emails that your provider’s “spam filter” did not catch. These Blocked emails will be added to your **Block List** (spam list) and future emails from this Sender, Domain, or Suffix (as per your choice) will go directly to the Spam folder bypassing your inbox.
-Note: The Block List for **BlueMail** is *personal* and *local* only for you while using **BlueMail***[]:
+Note: The Block List for **BlueMail** is *personal* and *local* only for you while using **BlueMail**
 
 ## How to Block a Sender?
 
@@ -60,7 +60,7 @@ The Red Spam Indicator appears for emails Blocked using **BlueMail’s** Spam Ma
 
 Email Addresses, Domains, and Suffixes that were *previously* Blocked on **BlueMail** are displayed in the Block List.
 
-To edit the Block List in **BlueMail**, please tap *More...* \| *Various Account Settings* \| *select the account* \| *Block List* \| *select either **Address**, **Domain**, or **Suffix** \| *tap the red X*
+To edit the Block List in **BlueMail**, please tap *More...* \| *Various Account Settings* \| *select the account* \| *Block List* \| *select either* **Address**, **Domain**, *or* **Suffix** \| *tap the red X*
 
 {: .center}
 ![BlueMail Spam Addresses](/assets/BlueMail_Spam_Addresses-2.png){:width="350px"}

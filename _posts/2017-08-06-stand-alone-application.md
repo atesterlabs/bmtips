@@ -6,7 +6,7 @@ type: post
 published: true
 status: publish
 categories:
-- 15. Troubleshooting
+- Troubleshooting
 tags: []
 meta:
 ---
