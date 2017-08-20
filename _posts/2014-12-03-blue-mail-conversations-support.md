@@ -8,18 +8,8 @@ status: publish
 categories:
 - Features &amp; Usability
 tags: []
-meta:
-  app-name: Blue Mail
-  _aioseop_keywords: 'sort, sort conversations, order, order conversations, Conversations
-    Blue Mail for iOS, Conversations View Blue Mail for iOS, Disable Conversations
-    in Blue Mail for iOS, '
-  _aioseop_description: Do you Support Conversations? How do I Disable/Enable Conversations?
-  _aioseop_title: 'Conversations '
-  _yoast_wpseo_metadesc: Do you Support Conversations? How do I Disable/Enable Conversations?
-  _yoast_wpseo_metakeywords: Sort, sort conversations, order, order conversations,
-    Conversations Blue Mail, Conversations View Blue Mail, Disable Conversations in
-    Blue Mail,
-  _yoast_wpseo_title: Conversations
+lang: en
+permalink: /blue-mail-conversations-support/
 ---
 
 BlueMail fully supports Conversations and smartly aggregates all of your emails that are Sent and Received in the same conversation, and threads them into one conversation for your convenience. You can perform bulk operations on the entire conversation as well.

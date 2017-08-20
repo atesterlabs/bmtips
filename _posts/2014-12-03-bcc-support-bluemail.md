@@ -8,14 +8,8 @@ status: publish
 categories:
 - Basic Actions
 tags: []
-meta:
-  _aioseop_keywords: 'BCC Blue Mail for iOS, Blue Mail for iOS BCC, BCC support '
-  _aioseop_description: Do you Support BCC?
-  _aioseop_title: BCC Support
-  _yoast_wpseo_metadesc: Do you Support BCC?
-  _yoast_wpseo_metakeywords: BCC Blue Mail, Blue Mail BCC, BCC support Blue,
-  _yoast_wpseo_title: BCC Support
-  _yoast_wpseo_primary_category: '7'
+lang: en
+permalink: /bcc-support-bluemail/
 ---
 
 BlueMail supports BCC. In compose mode, choose the 3-dots menu and select *Add Cc/Bcc*, it will fold additional lines for CC and BCC where you can add recipients.

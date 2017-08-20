@@ -8,15 +8,8 @@ status: publish
 categories:
 - Specific Providers
 tags: []
-meta:
-  _aioseop_keywords: 'View All Mail in Blue Mail for iOS, Blue Mail for iOS View All
-    Emails, Blue Mail for iOS View All, '
-  _aioseop_description: How do I See “All Mail” in Gmail?
-  _aioseop_title: View All Mail
-  _yoast_wpseo_metadesc: How do I See “All Mail” in Gmail?
-  _yoast_wpseo_metakeywords: View All Mail in Blue Mail, Blue Mail View All Emails,
-    Blue Mail View All,
-  _yoast_wpseo_title: View All Mail
+lang: en
+permalink: all-mail-in-gmail-bluemail/
 ---
 
 If the "All Mail" folder isn't displayed in BlueMail, follow these steps to resolve it:

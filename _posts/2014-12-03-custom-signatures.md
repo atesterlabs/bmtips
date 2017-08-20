@@ -8,14 +8,8 @@ status: publish
 categories:
 - Settings
 tags: []
-meta:
-  _aioseop_keywords: 'Blue Mail Signature, Signature settings Blue Mail,BlueMail Signature, '
-  _aioseop_description: How to set your own Signature?
-  _aioseop_title: Signature settings
-  _yoast_wpseo_metadesc: How to set your own Signature?
-  _yoast_wpseo_metakeywords: Blue Mail Signature, Signature settings Blue Mail,BlueMail
-    Signature,
-  _yoast_wpseo_title: Signature settings
+lang: en
+permalink: /custom-signatures/
 ---
 
 With BlueMail you can create your own custom signature.

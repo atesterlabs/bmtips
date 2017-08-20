@@ -8,15 +8,8 @@ status: publish
 categories:
 - Settings
 tags: []
-meta:
-  _aioseop_keywords: 'Change Font Size in Blue Mail for iOS, Change Font size, Blue
-    Mail for iOS change font size, '
-  _aioseop_description: How to Change the Font Size?
-  _aioseop_title: Change Font Size
-  _yoast_wpseo_metadesc: How to Change the Font Size?
-  _yoast_wpseo_metakeywords: Change Font Size in Blue Mail, Change Font size in Blue,
-    Blue Mail change font size,
-  _yoast_wpseo_title: Change Font Size
+lang: en
+permalink: /change-font-size-blue-mail/
 ---
 
 BlueMail allows you to customize the font sizes.

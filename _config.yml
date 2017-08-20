@@ -23,6 +23,11 @@ social:
 # -----
 # Build
 
+languages: ["en", "de"]
+default_lang: "en"
+exclude_from_localization: ["javascript", "images", "css"]
+parallel_localization: true
+
 permalink: /:title/
 
 gems:

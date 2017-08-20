@@ -9,17 +9,8 @@ status: publish
 categories:
 - Features &amp; Usability
 tags: []
-meta:
-  _aioseop_keywords: 'Multipel Emails Blue Mail, Blue Mail Multiple Mail, Blue Mail
-    Multiple mail actions, '
-  _aioseop_description: How to do Operations on Multiple Mails, in Bulk? How to Archive/Delete
-    Multiple Emails?
-  _aioseop_title: Multiple Emails Operations
-  _yoast_wpseo_metadesc: How to do Operations on Multiple Mails, in Bulk? How to Archive/Delete
-    Multiple Emails?
-  _yoast_wpseo_metakeywords: Multipel Emails Blue Mail, Blue Mail Multiple Mail, Blue
-    Mail Multiple mail actions,
-  _yoast_wpseo_title: Multiple Emails Operations
+lang: en
+permalink: /actions-multiple-emails-blue-mail/
 ---
 
 You can perform an action on multiple emails at once by using **Multi Edit** mode.

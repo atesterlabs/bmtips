@@ -8,17 +8,8 @@ status: publish
 categories:
 - Features &amp; Usability
 tags: []
-meta:
-  _aioseop_keywords: 'Offline Mode Blue Mail, No connection Blue Mail, Wifi only Blue
-    Mail,Blue Mail Wifi connection, Blue Mail Offline Mode, '
-  _aioseop_description: Does Blue Mail Work only in WiFi? Does Blue Work in Offline
-    Mode?
-  _aioseop_title: Wifi Offline Mode
-  _yoast_wpseo_metadesc: Does Blue Mail Work only in WiFi? Does Blue Work in Offline
-    Mode?
-  _yoast_wpseo_metakeywords: Offline Mode Blue Mail, No connection Blue Mail, Wifi
-    only Blue Mail,Blue Mail Wifi connection, Blue Mail Offline Mode,
-  _yoast_wpseo_title: Wifi Offline Mode
+lang: en
+permalink: /blue-mail-wifi-offline-mode/
 ---
 
 BlueMail works well with WiFi, 3G and any other cellular networks, and also offline!

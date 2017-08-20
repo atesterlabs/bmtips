@@ -7,16 +7,8 @@ published: true
 status: publish
 categories:
 - Accounts
-meta:
-  _yoast_wpseo_title: Using Blue Mail
-  _yoast_wpseo_metakeywords: Start using Blue Mail, Blue Mail first use, Blue Mail
-    start using, Start using Blue Mail,
-  _yoast_wpseo_metadesc: What do I Need to do to Start using Blue Mail?
-  app-name: Blue Mail
-  _aioseop_description: What do I Need to do to Start using Blue Mail?
-  _aioseop_keywords: 'Start using Blue Mail, Blue Mail first use, Blue Mail start
-    using, Start using Blue Mail, '
-  _aioseop_title: Using Blue Mail
+lang: en
+permalink: /start-using-blue-mail/
 ---
 
 

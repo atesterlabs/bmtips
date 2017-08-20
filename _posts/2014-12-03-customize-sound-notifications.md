@@ -8,7 +8,8 @@ status: publish
 categories:
 - Settings
 tags: []
-meta:
+lang: en
+permalink: /customize-sound-notifications/
 ---
 
 In order to customize the sound notifications, please follow these steps:

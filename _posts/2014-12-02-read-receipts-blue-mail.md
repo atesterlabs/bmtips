@@ -8,25 +8,8 @@ status: publish
 categories:
 - Enhanced Features
 tags: []
-meta:
-  _yoast_wpseo_primary_category: '15'
-  _aioseop_title: Read Receipt Request
-  _aioseop_description: How to Request a Read Receipt?
-  _aioseop_keywords: 'BlueMail Read Receipt, Add a read receipt BlueMail, Request
-    a Read Receipt BlueMail, BlueMail adding a Read Receipt, '
-  _app-name: field_557848dd38a7a
-  app-name: Blue Mail
-  _edit_last: '1'
-  _wp_old_slug: read-receipts-type-mail
-  hefo_after: '0'
-  hefo_before: '0'
-  _st_post_views_count: '3022'
-  st_post_sidebar: sidebar-off
-  _yoast_wpseo_title: Read Receipt Request
-  _yoast_wpseo_metakeywords: BlueMail Read Receipt, Add a read receipt BlueMail, Request
-    a Read Receipt BlueMail, BlueMail adding a Read Receipt,
-  _yoast_wpseo_metadesc: How to Request a Read Receipt?
-  meta-sidebar-type: default
+lang: en
+permalink: /read-receipts-blue-mail/
 ---
 To ask for a read-receipt, please press the 3-dots menu in the compose screen and choose **Enable Read Receipt**.
 
