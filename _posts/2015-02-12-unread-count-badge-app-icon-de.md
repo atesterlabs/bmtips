@@ -17,7 +17,7 @@ Die Fähigkeit, ein Abzeichen auf dem App-Symbol zu präsentieren, ist eine Eige
 
 Wir unterstützen App-Abzeichen für die native Trägerraketen von vielen Geräten, sowie einige gemeinsame Drittanbieter-Trägerraketen.
 
-Um zu wählen, welches Konto ungelesene Zählung auf Ihrem Haupt-App-Symbol vorhanden ist: setze es mit * Mehr ... * \| ein * Globale Einstellungen * \| * Ungelesener Zähler * \| *** App Badge Number *** und wähle dein gewünschtes Konto aus.
+Um zu wählen, welches Konto ungelesene Zählung auf Ihrem Haupt-App-Symbol vorhanden ist: setze es mit *Mehr ...* \| ein *Globale Einstellungen* \| *Ungelesener Zähler* \| ***App Badge Number*** und wähle dein gewünschtes Konto aus.
 
 Für andere Fälle bitte [Alternativen zum Ungelesenen Count-Badge auf dem App Icon](/alternatives-unread-count-badge/).
 

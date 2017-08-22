@@ -15,7 +15,7 @@ meta:
 
 Sie können bestimmte E-Mails als wichtig für Sie benennen, indem Sie sie markieren / markieren.
 
-Tippen Sie in der Mail-Ansicht auf das 3-Punkt-Menü und wählen Sie ** Star **.
+Tippen Sie in der Mail-Ansicht auf das 3-Punkt-Menü und wählen Sie **Star**.
 
 Sie können auch eine Star-Swipe-Aktion durch [Konfigurieren der Swipe-Aktionen](/configure-left-right-swipe-menu/)
 

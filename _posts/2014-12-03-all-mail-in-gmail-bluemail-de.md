@@ -15,7 +15,7 @@ permalink: /all-mail-in-gmail-bluemail/
 Wenn der Ordner "Alle Mail" in BlueMail nicht angezeigt wird, folgen Sie diesen Schritten, um ihn zu beheben:
 
 1. Melden Sie sich von Ihrem Desktop / Webbrowser zu Gmail an.
-2. Klicken Sie auf * Optionen * \| * Einstellungen * \| * IMAP * - und IMAP aktivieren.
-3. Gehen Sie zu * Labels * - suchen Sie nach "Alle Mail" und wählen Sie * In IMAP anzeigen *.
+2. Klicken Sie auf *Optionen* \| *Einstellungen* \| *IMAP* - und IMAP aktivieren.
+3. Gehen Sie zu *Labels* - suchen Sie nach "Alle Mail" und wählen Sie *In IMAP anzeigen*.
 
 Dann solltest du den Gmail-Ordner "All Mail" in BlueMail sehen.

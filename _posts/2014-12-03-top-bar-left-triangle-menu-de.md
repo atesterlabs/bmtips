@@ -13,14 +13,14 @@ permalink: /top-bar-left-triangle-menu/
 meta:
 ---
 
-* Filter * können Sie schnell Nachrichten finden, die für Sie von Ihren Kontakten, Diensten und sogar Nachrichten, die Sie nicht gelesen haben, wichtig sind.
+*Filter* können Sie schnell Nachrichten finden, die für Sie von Ihren Kontakten, Diensten und sogar Nachrichten, die Sie nicht gelesen haben, wichtig sind.
 
-* ** Alle ** - Zeigt alle E-Mails im Posteingang an. Fertig, Snooze etc.
-* ** Ungelesen ** - Zeigt ungelesene E-Mails an, so dass du niemals eine E-Mail gesendet hast.
-* ** Starred ** - Zeigt alle Ihre markierten, markierten, wichtigen E-Mails an.
-* ** Incoming ** - Ähnlich dem 'All' Filter, ohne die Snoozed und Done E-Mails, so dass sie nicht mit dem Rest Ihrer E-Mails gemischt werden.
+* **Alle** - Zeigt alle E-Mails im Posteingang an. Fertig, Snooze etc.
+* **Ungelesen** - Zeigt ungelesene E-Mails an, so dass du niemals eine E-Mail gesendet hast.
+* **Starred** - Zeigt alle Ihre markierten, markierten, wichtigen E-Mails an.
+* **Incoming** - Ähnlich dem 'All' Filter, ohne die Snoozed und Done E-Mails, so dass sie nicht mit dem Rest Ihrer E-Mails gemischt werden.
 
 {: .center}
 ![BlueMail Picker](/assets/BlueMail_PressKit_Picker-1-1.png){:width="350px"}
 
-Erfahren Sie, wie Sie den * [Standardfilter ändern können.](/how-do-i-change-the-default-filter/) *
+Erfahren Sie, wie Sie den *[Standardfilter ändern können.](/how-do-i-change-the-default-filter/)*

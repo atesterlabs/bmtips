@@ -13,4 +13,4 @@ permalink: /mark-an-email-as-read/
 meta:
 
 ---
-Um eine E-Mail als gelesen / ungelesen zu markieren, gehen Sie links auf die E-Mail-Nachricht und wählen Sie * Mark Read * / * Mark Ungelesen *.
+Um eine E-Mail als gelesen / ungelesen zu markieren, gehen Sie links auf die E-Mail-Nachricht und wählen Sie *Mark Read* / *Mark Ungelesen*.

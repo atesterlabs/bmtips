@@ -13,6 +13,6 @@ permalink: /myself-bcc-automatically/
 meta:
 ---
 
-Um diese Option festzulegen, tippen Sie auf * Mehr ... * \| * Verschiedene Kontoeinstellungen * \| * Wählen Sie Konto * \| * Erweiterte Kontoeinstellungen * \| * Immer BCC * \| * Geben Sie Ihre eigene Adresse * ein.
+Um diese Option festzulegen, tippen Sie auf *Mehr ...* \| *Verschiedene Kontoeinstellungen* \| *Wählen Sie Konto* \| *Erweiterte Kontoeinstellungen* \| *Immer BCC* \| *Geben Sie Ihre eigene Adresse* ein.
 
 Sie können es für einen oder mehrere Ihrer Konten tun, um Ihnen maximale Flexibilität zu geben.

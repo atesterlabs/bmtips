@@ -13,4 +13,4 @@ permalink: /select-account-badge/
 meta:
 ---
 
-Für Geräte, die Abzeichen auf dem App-Symbol unterstützen, können Sie das E-Mail-Konto für Abzeichen mit * Mehr ... * \| auswählen * Globale Einstellungen * \| * Ungelesener Zähler * \| ** App Badge Number ** und wähle dein gewünschtes Konto aus.
+Für Geräte, die Abzeichen auf dem App-Symbol unterstützen, können Sie das E-Mail-Konto für Abzeichen mit *Mehr ...* \| auswählen *Globale Einstellungen* \| *Ungelesener Zähler* \| **App Badge Number** und wähle dein gewünschtes Konto aus.

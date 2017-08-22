@@ -16,4 +16,4 @@ Um sich bei BlueClam bei iCloud anzumelden, musst du deine Apple ID E-Mail Adres
 
 Sie sollten keine angeschlossene E-Mail-Adresse verwenden, wie Sie es für Web haben können, da BlueMail Ihre Apple Mail-Anmeldeinformationen benötigt, um eine Verbindung zu Ihrer Mail mit IMAP herzustellen.
 
-Sie können ein neues iCloud-Konto hinzufügen mit: * More * \| * Kontoeinstellungen verwalten * \| * + Konto hinzufügen * \| * Anderes Konto hinzufügen * \| **iCloud**.
+Sie können ein neues iCloud-Konto hinzufügen mit: *More* \| *Kontoeinstellungen verwalten* \| *+ Konto hinzufügen* \| *Anderes Konto hinzufügen* \| **iCloud**.

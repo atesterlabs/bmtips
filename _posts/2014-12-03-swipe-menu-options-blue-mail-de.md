@@ -15,7 +15,7 @@ meta:
 
 Swiping die E-Mail rechts zeigt zwei Optionen: Fertig, die Ihnen erlaubt, eine E-Mail als Done markieren, und Snooze +, mit dem Sie eine Verzögerungszeit aus einem Menü auswählen können.
 
-Swiping die E-Mail links zeigt drei Optionen: * Mark Lesen * / * Ungelesen *, * Archiv * und * Löschen *.
+Swiping die E-Mail links zeigt drei Optionen: *Mark Lesen* / *Ungelesen*, *Archiv* und *Löschen*.
 
 Sie können [Deaktivieren der Menüs](/configure-left-right-swipe-menu/).
 

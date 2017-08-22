@@ -13,4 +13,4 @@ permalink: /set-fetch-polling-interval/
 meta:
 ---
 
-Mit BlueMail können Sie die Polling-Zeit einstellen, indem Sie folgende Schritte ausführen: Tippen Sie auf * Mehr ... * \| * Benachrichtigungen * \| * Sofortige Push-Einstellungen * \| * Push oder Fetch * \| * Wählen Sie Fetch * \| *** Fetch Interval *** und wähle, wie oft du nach neuen E-Mails suchen willst. 
+Mit BlueMail können Sie die Polling-Zeit einstellen, indem Sie folgende Schritte ausführen: Tippen Sie auf *Mehr ...* \| *Benachrichtigungen* \| *Sofortige Push-Einstellungen* \| *Push oder Fetch* \| *Wählen Sie Fetch* \| ***Fetch Interval*** und wähle, wie oft du nach neuen E-Mails suchen willst.

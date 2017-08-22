@@ -16,7 +16,7 @@ meta:
 {: .center}
 ![](/assets/BlueMail_MultiEdit_Hold.gif){:width="350px"}
 
-Um Multi-Edit-Aktionen zu konfigurieren, tippen Sie in der Mail-Ansicht auf * Mehr ... * \| * Globale Einstellungen * \| * Anpassen von Menüs * \| * Aktionstasten konfigurieren * \| * Konfigurieren von Multi Edit Actions *.
+Um Multi-Edit-Aktionen zu konfigurieren, tippen Sie in der Mail-Ansicht auf *Mehr ...* \| *Globale Einstellungen* \| *Anpassen von Menüs* \| *Aktionstasten konfigurieren* \| *Konfigurieren von Multi Edit Actions*.
 
 Wählen Sie 4 Aktionen.
 

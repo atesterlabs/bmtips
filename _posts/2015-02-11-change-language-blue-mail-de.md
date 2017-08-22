@@ -18,4 +18,4 @@ BlueMail verwendet Ihre Telefonsprache, um die Sprache in BlueMail zu ändern
 1. Force schließen BlueMail.
 2. Gehen Sie zu den Einstellungen Ihres Android-Geräts und ändern Sie die Sprache.
 3. Starten Sie BlueMail, und es wird Ihre ausgewählte Sprache verwenden.
-4. Sie können immer zwischen der Sprache Ihres Telefons und Englisch mit * Mehr ... * \| * Globale Einstellungen * \| * Sprache ändern * \| **Englisch**.
+4. Sie können immer zwischen der Sprache Ihres Telefons und Englisch mit *Mehr ...* \| *Globale Einstellungen* \| *Sprache ändern* \| **Englisch**.

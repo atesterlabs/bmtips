@@ -15,4 +15,4 @@ meta:
 
 Ihre gesendeten Gegenstände werden mit dem Server Ihres Anbieters synchronisiert.
 
-Sie können [Ihre Ordner anzeigen](/navigate-between-folders/) mit: Wischen Sie von der linken Kante oder durch Antippen der oberen linken Ecke Logo, und wählen Sie das gewünschte Konto. Wählen Sie * Gesendet *, um Ihre gesendeten E-Mails zu sehen.
+Sie können [Ihre Ordner anzeigen](/navigate-between-folders/) mit: Wischen Sie von der linken Kante oder durch Antippen der oberen linken Ecke Logo, und wählen Sie das gewünschte Konto. Wählen Sie *Gesendet*, um Ihre gesendeten E-Mails zu sehen.

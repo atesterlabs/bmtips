@@ -17,4 +17,4 @@ Gmail hat einen Standard-Archiv-Ordner namens All Mail, der bereits alle Mails v
 
 Wenn du die 'Delete'-Funktionalität ändern möchtest, so würde es auch deine E-Mails archivieren, anstatt sie in den Papierkorb zu verschieben, kannst du die Ordner Mapping ändern:
 
-Gehen Sie zu * More * \| * Verschiedene Kontoeinstellungen * \| * Wählen Sie Ihr Google Mail-Konto * \| * Ordnerverwaltung * \| * Ordner Mapping * \| * Papierkorb * \| ** Wählen Sie Gmail Alle Mail **
+Gehen Sie zu *More* \| *Verschiedene Kontoeinstellungen* \| *Wählen Sie Ihr Google Mail-Konto* \| *Ordnerverwaltung* \| *Ordner Mapping* \| *Papierkorb* \| **Wählen Sie Gmail Alle Mail**

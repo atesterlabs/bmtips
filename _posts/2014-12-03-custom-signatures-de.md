@@ -14,12 +14,12 @@ permalink: /custom-signatures/
 
 Mit BlueMail kannst du deine eigene Unterschrift erstellen.
 
-Um dies zu tun, gehen Sie bitte zu * Mehr * \| * Unterschrift * \| Blättern Sie zu dem Konto, das Sie aktualisieren möchten.
+Um dies zu tun, gehen Sie bitte zu *Mehr* \| *Unterschrift* \| Blättern Sie zu dem Konto, das Sie aktualisieren möchten.
 
 Sie können Ihre Signatur mit Bold, Italic und Underline Text, ändern Sie die Textschrift und Farbe, und fügen Sie auch ein Bild.
 
 | ![Bold](/assets/Bold.png){:width="100px"} | Fett |
-| ! [Kursiv](/assets/Italics.png){:width="100px"} | Kursiv |
+| ![Kursiv](/assets/Italics.png){:width="100px"} | Kursiv |
 | ![Unterstrich](/assets/Underline.png){:width="100px"} | Unterstreichen |
 | ![Text vergrößern](/assets/Text_Size.png){:width="100px"} | Textgröße vergrößern |
 | ![Typeset](/assets/Typeset.png){:width="100px"} | Schriftarten ändern |

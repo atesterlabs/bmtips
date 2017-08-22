@@ -19,11 +19,11 @@ Das Drucken einer E-Mail in BlueMail wird durch die Verwendung von Google Cloud 
 
 Um dies zu aktivieren, müssen Sie [Google Cloud Print](https://play.google.com/store/apps/details?id=com.google.android.apps.cloudprint) aus dem Play Store installieren
 
-Sie müssen auch auf Ihre Telefoneinstellungen gehen und den Druckvorgang aktivieren. Im Allgemeinen ist auf vielen Geräten der Pfad * Einstellungen * \| * Verbindungen * \| * Netzwerke * \| * Drucken * und drehen ** auf ** Google Cloud Print, aber dies kann von Gerät zu Gerät variieren.
+Sie müssen auch auf Ihre Telefoneinstellungen gehen und den Druckvorgang aktivieren. Im Allgemeinen ist auf vielen Geräten der Pfad *Einstellungen* \| *Verbindungen* \| *Netzwerke* \| *Drucken* und drehen **auf** Google Cloud Print, aber dies kann von Gerät zu Gerät variieren.
 
 ## E-Mail drucken
 
-Um eine E-Mail zu drucken, tippen Sie einfach auf das vertikale 3-Punkt-Menü in der unteren Leiste und tippen Sie auf * Mehr Optionen * \| **Drucken**.
+Um eine E-Mail zu drucken, tippen Sie einfach auf das vertikale 3-Punkt-Menü in der unteren Leiste und tippen Sie auf *Mehr Optionen* \| **Drucken**.
 
 Von hier aus können wir auswählen, welcher Drucker die Details des Druckauftrags verwenden und konfigurieren soll.
 

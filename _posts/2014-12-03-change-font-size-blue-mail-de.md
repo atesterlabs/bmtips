@@ -13,8 +13,8 @@ permalink: /change-font-size-blue-mail/
 ---
 
 Mit BlueMail können Sie die Schriftgrößen anpassen.
-Um dies zu tun, folgen Sie bitte diesen Schritten: * Mehr (o o o) * \| * Globale Einstellungen * \| * Anpassen des Aussehens * \| **Textgröße**.
+Um dies zu tun, folgen Sie bitte diesen Schritten: *Mehr (o o o)* \| *Globale Einstellungen* \| *Anpassen des Aussehens* \| **Textgröße**.
 
 Sie können die Schriftgröße der Mail List, Mail View und New Mail (Compose) ändern.
 
-Die Optionen, die Sie haben, sind * Default, Smaller, Small, Medium, Large, Larger *.
+Die Optionen, die Sie haben, sind *Default, Smaller, Small, Medium, Large, Larger*.

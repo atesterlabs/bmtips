@@ -13,6 +13,6 @@ permalink: /disable-outgoing-sound/
 meta:
 ---
 
-Sie können den ausgehenden Ton pro Konto deaktivieren, indem Sie * Mehr ... * \| verwenden * Verschiedene Kontoeinstellungen * \| * Tippen Sie auf das Konto * \| * Sound einfügen * \| * Turn ** OFF ** Ausgehender Sound *.
+Sie können den ausgehenden Ton pro Konto deaktivieren, indem Sie *Mehr ...* \| verwenden *Verschiedene Kontoeinstellungen* \| *Tippen Sie auf das Konto* \| *Sound einfügen* \| *Turn **OFF** Ausgehender Sound*.
 
-Sie können auch den ausgehenden Ton mit * Custom Outgoing Sounds * \| ändern * Wählen Sie Ihren bevorzugten Sound und tippen Sie auf ** OK ***.
+Sie können auch den ausgehenden Ton mit *Custom Outgoing Sounds* \| ändern *Wählen Sie Ihren bevorzugten Sound und tippen Sie auf **OK***.

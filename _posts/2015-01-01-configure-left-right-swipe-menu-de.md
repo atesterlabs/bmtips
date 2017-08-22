@@ -24,7 +24,7 @@ Dual Swipe besteht aus Short und Long Swipe Gesten unter Beibehaltung einer Bewe
 
 # Short Swipe Aktionen
 
-Um dem Dual-Swipe-Menü Short Swipe-Aktionen hinzuzufügen, tippen Sie auf * Mehr ... * \| * Globale Einstellungen * \| * Anpassen von Menüs * \| * Aktionstasten konfigurieren * \| * Konfigurieren Sie rechts / links Wischmenü *. Tippen Sie auf das Symbol (+), um der Liste eine Aktion hinzuzufügen, und verwenden Sie das Symbol [Hamburger](/assets/Hamburger-Menu-Blue.jpg), um das Menü nach Ihren Wünschen neu zu ordnen.
+Um dem Dual-Swipe-Menü Short Swipe-Aktionen hinzuzufügen, tippen Sie auf *Mehr ...* \| *Globale Einstellungen* \| *Anpassen von Menüs* \| *Aktionstasten konfigurieren* \| *Konfigurieren Sie rechts / links Wischmenü*. Tippen Sie auf das Symbol (+), um der Liste eine Aktion hinzuzufügen, und verwenden Sie das Symbol [Hamburger](/assets/Hamburger-Menu-Blue.jpg), um das Menü nach Ihren Wünschen neu zu ordnen.
 
 Hier können Sie die drei Aktionen auswählen, auf die Sie über das Swipe-Menü zugreifen möchten.
 
@@ -47,20 +47,20 @@ Bitte beachten Sie, dass bereits ausgewählte Aktionen ausgegraut werden.
 | ![Reply](/assets/settings_swipe_quick_reply1.png){:width="100px"} | Quick Replies |
 
 ### Ein kurzes Wischen entfernen
-Um eine Short Swipe-Aktion aus Ihrem Dual-Swipe-Menü zu entfernen, tippen Sie auf * Mehr ... * \| * Globale Einstellungen * \| * Anpassen von Menüs * \| * Aktionstasten konfigurieren * \| * Konfigurieren Sie rechts / links Wischmenü *. Tippen Sie auf ** X **, um eine Aktion aus der Liste zu entfernen.
+Um eine Short Swipe-Aktion aus Ihrem Dual-Swipe-Menü zu entfernen, tippen Sie auf *Mehr ...* \| *Globale Einstellungen* \| *Anpassen von Menüs* \| *Aktionstasten konfigurieren* \| *Konfigurieren Sie rechts / links Wischmenü*. Tippen Sie auf **X**, um eine Aktion aus der Liste zu entfernen.
 
 # Long Swipe Aktionen
 
 ### Der richtige Lange Swipe
 
-Um Ihre Long Swipe Action auf dem ** Right ** Swipe Menu zu konfigurieren, tippen Sie auf * More ... * \| * Globale Einstellungen * \| * Anpassen von Menüs * \| * Aktionstasten konfigurieren * \| * Konfigurieren des rechten Swipe-Menüs *. Ziehen Sie dann die Aktion, die Sie verwenden möchten, auf das ** Top ** des ausgewählten Aktionsmenüs, indem Sie das Symbol [Hamburger](/assets/Hamburger-Menu-Blue.jpg) tippen und halten.
+Um Ihre Long Swipe Action auf dem ** Right ** Swipe Menu zu konfigurieren, tippen Sie auf *More ...* \| *Globale Einstellungen* \| *Anpassen von Menüs* \| *Aktionstasten konfigurieren* \| *Konfigurieren des rechten Swipe-Menüs*. Ziehen Sie dann die Aktion, die Sie verwenden möchten, auf das **Top** des ausgewählten Aktionsmenüs, indem Sie das Symbol [Hamburger](/assets/Hamburger-Menu-Blue.jpg) tippen und halten.
 
 ### Der Linke Lange Wischen
 
-Um Ihre Long Swipe Action auf dem ** Links ** Swipe Menü zu konfigurieren, tippen Sie auf * Mehr ... * \| * Globale Einstellungen * \| * Anpassen von Menüs * \| * Aktionstasten konfigurieren * \| * Konfigurieren des rechten Swipe-Menüs *. Ziehen Sie dann die Aktion, die Sie verwenden möchten, auf die ** Unten ** des ausgewählten Aktionsmenüs, indem Sie das Symbol [Hamburger](/assets/Hamburger-Menu-Blue.jpg) tippen und halten.
+Um Ihre Long Swipe Action auf dem ** Links ** Swipe Menü zu konfigurieren, tippen Sie auf *Mehr ...* \| *Globale Einstellungen* \| *Anpassen von Menüs* \| *Aktionstasten konfigurieren* \| *Konfigurieren des rechten Swipe-Menüs*. Ziehen Sie dann die Aktion, die Sie verwenden möchten, auf die **Unten** des ausgewählten Aktionsmenüs, indem Sie das Symbol [Hamburger](/assets/Hamburger-Menu-Blue.jpg) tippen und halten.
 
 ### Deaktivieren von Long-Swipe-Aktionen
 
-Um die Dual-Swipe-Aktion zu deaktivieren, tippen Sie auf * Mehr ... * \| * Globale Einstellungen * \| * Anpassen von Menüs * \| * Aktionstasten konfigurieren * \| * Rech- / Links-Regler-Menü konfigurieren * \| * Selected Long Swipe Action * und deaktivieren Sie das Kontrollkästchen neben der ausgewählten Aktion.
+Um die Dual-Swipe-Aktion zu deaktivieren, tippen Sie auf *Mehr ...* \| *Globale Einstellungen* \| *Anpassen von Menüs* \| *Aktionstasten konfigurieren* \| *Rech- / Links-Regler-Menü konfigurieren* \| *Selected Long Swipe Action* und deaktivieren Sie das Kontrollkästchen neben der ausgewählten Aktion.
 
-** Bitte beachten Sie: ** Sie können diese Einstellungen wieder zurücksetzen, indem Sie auf * Mehr ... * \| * Globale Einstellungen * \| * Anpassen von Menüs * \| * Wiederherstellungs-Aktionstasten und schnelle Antworten auf Standardwerte *
+**Bitte beachten Sie:** Sie können diese Einstellungen wieder zurücksetzen, indem Sie auf *Mehr ...* \| *Globale Einstellungen* \| *Anpassen von Menüs* \| *Wiederherstellungs-Aktionstasten und schnelle Antworten auf Standardwerte*

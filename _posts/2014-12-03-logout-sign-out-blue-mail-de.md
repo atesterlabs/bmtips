@@ -15,4 +15,4 @@ meta:
 
 Moderne E-Mail-Lösungen unterstützen mehrere Geräte und die Möglichkeit, gleichzeitig auf Ihre E-Mails zuzugreifen und sich unnötig zu machen. Wenn du BlueMail ausschalten willst, tippe einfach auf die Home-Taste und schiebe BlueMail seitwärts.
 
-Wenn Sie sicherstellen möchten, dass niemand Ihre Mail liest, können Sie unseren Sperrbildschirm verwenden, um den Zugriff auf BlueMail zu verhindern, tippen Sie auf * Mehr * \| * Globale Einstellungen * \| * Lock Screen (Passcode) *.
+Wenn Sie sicherstellen möchten, dass niemand Ihre Mail liest, können Sie unseren Sperrbildschirm verwenden, um den Zugriff auf BlueMail zu verhindern, tippen Sie auf *Mehr* \| *Globale Einstellungen* \| *Lock Screen (Passcode)*.

@@ -13,4 +13,4 @@ permalink: /update-gmail-outlook-accounts-password/
 meta:
 ---
 
-Aus verschiedenen Sicherheitsgründen können Sie das mit dem Konto verknüpfte Passwort nicht von BlueMail ändern. Für bestimmte Provider, die OAuth nicht unterstützen, können Sie das Passwort für ein vorhandenes Konto auf BlueMail aktualisieren, um mit den Provider-Servern übereinzustimmen: * Mehr * \ | * Verschiedene Kontoeinstellungen * \ | * Tippen Sie auf das Konto, das Sie aktualisieren möchten * \ | * Konto bearbeiten * \ | ***Kennwort aktualisieren***.
+Aus verschiedenen Sicherheitsgründen können Sie das mit dem Konto verknüpfte Passwort nicht von BlueMail ändern. Für bestimmte Provider, die OAuth nicht unterstützen, können Sie das Passwort für ein vorhandenes Konto auf BlueMail aktualisieren, um mit den Provider-Servern übereinzustimmen:  *Mehr* \| *Verschiedene Kontoeinstellungen* \| *Tippen Sie auf das Konto, das Sie aktualisieren möchten* \| *Konto bearbeiten* \| ***Kennwort aktualisieren***.

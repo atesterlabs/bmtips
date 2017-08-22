@@ -12,8 +12,8 @@ lang: de
 permalink: /bcc-support-bluemail/
 ---
 
-BlueMail unterstützt BCC. Im Compose-Modus wählen Sie das 3-Punkte-Menü und wählen Sie * Add Cc / Bcc *, wird es fügen Sie zusätzliche Zeilen für CC und BCC, wo Sie Empfänger hinzufügen können.
+BlueMail unterstützt BCC. Im Compose-Modus wählen Sie das 3-Punkte-Menü und wählen Sie *Add Cc / Bcc*, wird es fügen Sie zusätzliche Zeilen für CC und BCC, wo Sie Empfänger hinzufügen können.
 
-Sie können diese Option auch als Standard festlegen, indem Sie * Mehr ... * \| verwenden * Verschiedene Kontoeinstellungen * \| * Tippen Sie auf das Konto * \| * Erweiterte Kontoeinstellungen * \| ** Verwenden Sie hohe Bedeutung **.
+Sie können diese Option auch als Standard festlegen, indem Sie *Mehr ...* \| verwenden *Verschiedene Kontoeinstellungen* \| *Tippen Sie auf das Konto* \| *Erweiterte Kontoeinstellungen* \| **Verwenden Sie hohe Bedeutung**.
 
 Hinweis: Sie können auch [sich selbst zu BCC automatisch hinzufügen](/myself-bcc-automatically/)

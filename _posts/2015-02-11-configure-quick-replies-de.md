@@ -13,7 +13,7 @@ permalink: /configure-quick-replies/
 meta:
 ---
 
-Um eine Schnellantwort zu bearbeiten oder hinzuzufügen, tippen Sie auf * Mehr ... * \| * Globale Einstellungen * \| * Anpassen von Menüs * \| ** Schnelle Antworten konfigurieren **:
+Um eine Schnellantwort zu bearbeiten oder hinzuzufügen, tippen Sie auf *Mehr ...* \| *Globale Einstellungen* \| *Anpassen von Menüs* \| **Schnelle Antworten konfigurieren**:
 
 {: .center}
 ![](/assets/configure_quick_replies.jpg){:width="350px"}

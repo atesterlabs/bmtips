@@ -22,4 +22,4 @@ Sie können in diesen Modus auf zwei Arten kommen:
 
 Einmal in diesem Modus können Sie die Mails auswählen, auf die Sie eine Aktion anwenden möchten, und führen Sie dann die Aktion auf alle von ihnen sofort aus.
 
-Die Aktionen beinhalten * Markieren Sie alle, Löschen, Verschieben, Archivieren, Markieren als Lesen / Ungelesen, Markieren als Done / Undone, Star / Unstar * und andere je nach Kontext und E-Mail-Provider.
+Die Aktionen beinhalten *Markieren Sie alle, Löschen, Verschieben, Archivieren, Markieren als Lesen / Ungelesen, Markieren als Done / Undone, Star / Unstar* und andere je nach Kontext und E-Mail-Provider.

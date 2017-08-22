@@ -14,7 +14,7 @@ permalink: /customize-sound-notifications/
 
 Um die Tonbenachrichtigungen anzupassen, gehen Sie bitte folgendermaßen vor:
 
-* Konten * \| * Tippen Sie auf das Konto, das Sie aktualisieren möchten * \| ** Custom Incoming Sounds ** und wähle den neuen Posteingang.
+*Konten* \| *Tippen Sie auf das Konto, das Sie aktualisieren möchten* \| **Custom Incoming Sounds** und wähle den neuen Posteingang.
 
 Hinweis: Überprüfen Sie, ob Sie sich nicht im stillen Modus befinden, wenn Sie Tonbenachrichtigungen überprüfen.
 

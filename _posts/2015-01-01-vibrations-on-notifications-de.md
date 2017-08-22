@@ -13,7 +13,7 @@ permalink: /vibrations-on-notifications/
 meta:
 ---
 
-Um auf Vibrations-Setup pro Konto zuzugreifen, gehen Sie zu * Mehr ... * \| * Benachrichtigungen * \| * Blättern Sie zu dem Konto, das Sie aktualisieren möchten * \| * Sound \| Vibrieren \| LED * \| **Vibrieren**
+Um auf Vibrations-Setup pro Konto zuzugreifen, gehen Sie zu *Mehr ...* \| *Benachrichtigungen* \| *Blättern Sie zu dem Konto, das Sie aktualisieren möchten* \| *Sound \| Vibrieren \| LED* \| **Vibrieren**
 
 * Vibration Patterns - wählen Sie die Länge Option
 * Wiederholen Sie Vibration - wählen Sie die Anzahl der Wiederholungen

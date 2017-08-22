@@ -13,7 +13,7 @@ permalink: /edit-account/
 meta:
 ---
 
-Mit * Mehr ... * \| * Verschiedene Kontoeinstellungen * \| * Tippen Sie auf das Konto, das Sie bearbeiten möchten * \| **Konto bearbeiten**.
+Mit *Mehr ...* \| *Verschiedene Kontoeinstellungen* \| *Tippen Sie auf das Konto, das Sie bearbeiten möchten* \| **Konto bearbeiten**.
 
 Sie können Ihre E-Mail-Adresse und Ihren Provider sehen.
 
@@ -29,4 +29,4 @@ Darüber hinaus können Sie folgende Details aktualisieren:
 [Wie aktualisiere ich mein Passwort auf meinem Yahoo-Konto mit OAuth?](/oauth-yahoo/)
 [Wie aktualisiere ich mein Passwort auf meinem Google Mail-Konto mit OAuth?](/oauth-gmail/)
 
-** Hinweis: ** * Update Password * Option ist für bestimmte Provider nicht unterstützt [OAuth](/what-is-oauth/).
+**Hinweis:** *Update Password* Option ist für bestimmte Provider nicht unterstützt [OAuth](/what-is-oauth/).

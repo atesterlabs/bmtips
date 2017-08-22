@@ -13,7 +13,7 @@ permalink: /reply-without-quoted-text/
 meta:
 ---
 
-Wenn Sie auf eine E-Mail antworten, tippen Sie auf das obere rechte Pfeil-Symbol unter dem Betreff für das Menü "Antwortoptionen" und wählen Sie ** Neu **.
+Wenn Sie auf eine E-Mail antworten, tippen Sie auf das obere rechte Pfeil-Symbol unter dem Betreff für das Menü "Antwortoptionen" und wählen Sie **Neu**.
 
 Dies wird eine neue leere Mail zu denselben Empfängern ohne einen zitierten Text verfassen.
 

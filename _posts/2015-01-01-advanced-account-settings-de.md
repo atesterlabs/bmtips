@@ -15,7 +15,7 @@ meta:
 
 Um auf die erweiterten Einstellungen Ihres Kontos zuzugreifen, gehen Sie zu:
 
-Mit * Mehr ... * \| * Verschiedene Kontoeinstellungen * \| * Tippen Sie auf das Konto, das Sie bearbeiten möchten * \| **Konto bearbeiten**.
+Mit *Mehr ...* \| *Verschiedene Kontoeinstellungen* \| *Tippen Sie auf das Konto, das Sie bearbeiten möchten* \| **Konto bearbeiten**.
 
 Die Optionen sind wie folgt:
 

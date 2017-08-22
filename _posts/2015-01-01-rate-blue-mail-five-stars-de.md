@@ -13,6 +13,6 @@ permalink: /rate-blue-mail-five-stars/
 meta:
 ---
 
-Sie können uns von Google Play Store oder von BlueMail mit * Mehr ... * \| * Feedback senden * \| *** Zeigen Sie Ihre Liebe zu BlueMail ***.
+Sie können uns von Google Play Store oder von BlueMail mit *Mehr ...* \| *Feedback senden* \| ***Zeigen Sie Ihre Liebe zu BlueMail***.
 
 Wir schätzen die Zeit, die Sie nehmen, um anderen zu helfen, BlueMail zu genießen, so viel wie Sie!

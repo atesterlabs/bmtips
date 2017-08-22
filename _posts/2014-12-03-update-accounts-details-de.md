@@ -15,11 +15,11 @@ meta:
 
 Um Ihre Kontoeinstellungen zu verwalten, gehen Sie zu:
 
-Mit * Mehr ... * \| * Verschiedene Kontoeinstellungen * \| * Tippen Sie auf das Konto, das Sie bearbeiten möchten * \| **Konto bearbeiten**.
+Mit *Mehr ... * \| * Verschiedene Kontoeinstellungen * \| * Tippen Sie auf das Konto, das Sie bearbeiten möchten * \| **Konto bearbeiten**.
 
-* ** [Konto bearbeiten](/edit-account /) **
-* ** [Ordner Mapping](/map-folder-to-provider/) **
-* ** [Sound komponieren](/deaktivieren-outgoing-sound/) **
-* ** Bilder immer anzeigen **
-* ** [Erweiterte Kontoeinstellungen](/advanced-account-settings/) **
-* ** Nachrichten auf dem Server löschen (nur für POP3-Konten verfügbar) **
+* **[Konto bearbeiten](/edit-account/)**
+* **[Ordner Mapping](/map-folder-to-provider/)**
+* **[Sound komponieren](/deaktivieren-outgoing-sound/)**
+* **Bilder immer anzeigen**
+* **[Erweiterte Kontoeinstellungen](/advanced-account-settings/)**
+* **Nachrichten auf dem Server löschen (nur für POP3-Konten verfügbar)**

@@ -14,4 +14,5 @@ meta:
 ---
 
 Mit BlueMail können Sie eine E-Mail verfassen und einen Ihrer Konten als Absender auswählen. Um die Absenderadresse zu ändern, schreiben oder auf eine E-Mail antworten und auf die Absenderadresse tippen, um sie zu ändern.
+
 Sie können auch einen [Default From Account](/set-default-account-unified-inbox/)

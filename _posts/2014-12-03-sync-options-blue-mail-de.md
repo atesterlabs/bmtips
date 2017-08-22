@@ -15,7 +15,7 @@ meta:
 
 Um die Synchronisierungseinstellungen anzuzeigen oder zu ändern, gehen Sie zu:
 
-* Mehr ... * \| * Benachrichtigungen * \| * Wählen Sie das Konto * \| * Sofortige Push-Einstellungen * \| * Push oder Fetch * \| * Wählen Sie aus den vier Hauptoptionen:
+*Mehr ...* \| *Benachrichtigungen* \| *Wählen Sie das Konto* \| *Sofortige Push-Einstellungen* \| *Push oder Fetch* \| Wählen Sie aus den vier Hauptoptionen:
 
 * Push - Empfangen Sie E-Mails sofort.
 * Push (keine Vorschau) - E-Mails sofort ohne Vorschau erhalten, um den Batterieverbrauch zu senken.

@@ -12,4 +12,4 @@ meta:
 lang: de
 permalink: /delete-an-account-blue-mail/
 ---
-Mit * Mehr ... * \| * Verschiedene Kontoeinstellungen * \| * Tippen Sie auf das Konto, das Sie bearbeiten möchten * \| **Konto bearbeiten**.
+Mit *Mehr ...* \| *Verschiedene Kontoeinstellungen* \| *Tippen Sie auf das Konto, das Sie bearbeiten möchten* \| **Konto bearbeiten**.

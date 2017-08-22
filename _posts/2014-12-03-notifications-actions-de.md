@@ -15,6 +15,6 @@ meta:
 
 Direkt aus Benachrichtigungen können Sie das Wesen der Nachricht lesen, als gelesen markieren oder als Antwort (standardmäßig). Wenn Sie auf die Benachrichtigung im "Benachrichtigungscenter" klicken, werden Sie mit den folgenden Optionen aufgefordert: Antwort, Markieren als Fertig und Löschen.
 
-Sie können diese Aktion im Notification Center anpassen, indem Sie auf * More * (o o o) klicken * Globale Einstellungen * \| * Anpassen von Menüs * \| * Aktionstasten konfigurieren * \| *** Benachrichtigungsaktionen konfigurieren ***
+Sie können diese Aktion im Notification Center anpassen, indem Sie auf *More* (o o o) klicken *Globale Einstellungen* \| *Anpassen von Menüs* \| *Aktionstasten konfigurieren* \| ***Benachrichtigungsaktionen konfigurieren***
 
-Sie können diese Aktion im Notification Center anpassen, indem Sie auf * More * (o o o) klicken * Globale Einstellungen * \| * Anpassen von Menüs * \| * Aktionstasten konfigurieren * \| *** Benachrichtigungsaktionen konfigurieren ***
+Sie können diese Aktion im Notification Center anpassen, indem Sie auf *More* (o o o) klicken *Globale Einstellungen* \| *Anpassen von Menüs* \| *Aktionstasten konfigurieren* \| ***Benachrichtigungsaktionen konfigurieren***

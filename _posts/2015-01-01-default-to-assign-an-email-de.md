@@ -23,6 +23,6 @@ Mit [Snooze +](/mark-as-later/) kannst du Handling-E-Mails zu einem späteren Ze
 * Ein Tag fügt die E-Mail an die Aufgabenliste ohne ein bestimmtes Fälligkeitsdatum hinzu
 * Pick Date erlaubt Ihnen, das Datum und die Uhrzeit zu wählen
 
-Hinweis: Vor 09:00 Uhr ist die Option für * Morgen Morgen * wird * Heute Morgen *, was bedeutet, dass es heute auf 9:00 Uhr eingestellt ist.
+Hinweis: Vor 09:00 Uhr ist die Option für *Morgen Morgen* wird *Heute Morgen*, was bedeutet, dass es heute auf 9:00 Uhr eingestellt ist.
 
-Sie können die Voreinstellung für * Später Heute * mit * Mehr ... * \| ändern * Globale Einstellungen * \| * Später Heute Standard *.
+Sie können die Voreinstellung für *Später Heute* mit *Mehr ...* \| ändern *Globale Einstellungen* \| *Später Heute Standard*.

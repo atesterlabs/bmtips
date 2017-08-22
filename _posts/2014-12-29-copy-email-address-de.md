@@ -15,9 +15,9 @@ meta:
 
 BlueMail bietet hierfür ein paar Möglichkeiten:
 
-* Sie können schnell auf den Avatar / Bild des Absenders aus der Mail-Liste tippen, und Sie sehen die Option zu * Fügen Sie diesen Kontakt *.
+* Sie können schnell auf den Avatar / Bild des Absenders aus der Mail-Liste tippen, und Sie sehen die Option zu *Fügen Sie diesen Kontakt*.
 * Sie können das gleiche aus der Mail-Ansicht selbst machen.
-* Sie können schnell auf den Avatar / Bild des Absenders aus der Mail-Liste tippen, und Sie sehen die Option zu * Fügen Sie diesen Kontakt *.
+* Sie können schnell auf den Avatar / Bild des Absenders aus der Mail-Liste tippen, und Sie sehen die Option zu *Fügen Sie diesen Kontakt*.
 * Schließlich und wieder von Mail-Ansicht können Sie tippen Sie auf Mehr Details , lang jeden Kontakt tippen und dann die Kopieren E-Mail-Adresse Option. 
 
 Um [E-Mail-Adresse zu Ihren Telefonkontakten hinzuzufügen](/add-email-address-phonebook-contacts/)

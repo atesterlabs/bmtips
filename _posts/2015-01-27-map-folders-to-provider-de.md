@@ -13,7 +13,7 @@ permalink: /map-folders-to-provider/
 meta:
 ---
 
-Um Ihre Ordner zu verwalten, tippen Sie auf * Mehr ... * \| * Verschiedene Kontoeinstellungen * \| * Tippen Sie auf Ihr Konto * \| * Ordnerverwaltung * \| ** Ordner Mapping **.
+Um Ihre Ordner zu verwalten, tippen Sie auf *Mehr ...* \| *Verschiedene Kontoeinstellungen* \| *Tippen Sie auf Ihr Konto* \| *Ordnerverwaltung* \| **Ordner Mapping**.
 
 Um die Ordnerzuordnung zu ändern, tippen Sie einfach auf den Ordner, den Sie abbilden möchten, und wählen Sie den Ordner aus, den Sie abbilden möchten.
 

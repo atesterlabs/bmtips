@@ -14,13 +14,13 @@ meta:
 ---
 
 {: .center}
-[Trash Folder] (/ assets / folder_trash.png) {: width = "100px"}
+[Trash Folder](/assets/folder_trash.png) {:width="100px"}
 
 Sie können eine E-Mail mit diesen Methoden löschen:
 
 * Verwenden der [Bottom Bar-Aktionen in der Mail-Ansicht](/bottom-bar-options-type-mail/)
 * Verwenden der [Bottom Bar-Aktionen in der Mail-Ansicht](/bottom-bar-options-type-mail/)
 
-Sie können vor dem Löschen bestätigen, indem Sie * Mehr * \| verwenden * Globale Einstellungen * \| * Erweiterte Funktionen * \| ** Vor dem Löschen bestätigen **
+Sie können vor dem Löschen bestätigen, indem Sie *Mehr* \| verwenden *Globale Einstellungen* \| *Erweiterte Funktionen* \| **Vor dem Löschen bestätigen**
 
 Anmerkung: Für Gmail-Konten können Sie die Lösch-Aktion so konfigurieren, dass [Archive statt Delete](/gmails-all-mail-folder-typemail/) mit den Einstellungen.

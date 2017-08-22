@@ -20,7 +20,7 @@ Es gibt vier verschiedene Konto-Status-Optionen:
 * Verbunden - Das Konto erhält E-Mail sofort.
 * Verbunden + Ruhig - Das Konto erhält E-Mail sofort, aber keine neue E-Mail-Benachrichtigung erscheint.
 
-Beachten Sie, dass * Updated * und * Syncing * Status sind häufiger in * Fetch * oder * Manual *. [Was sind die Synchronisierungsmodi von BlueMail?](/sync-options-type-mail/)
+Beachten Sie, dass *Updated* und *Syncing* Status sind häufiger in *Fetch* oder *Manual*. [Was sind die Synchronisierungsmodi von BlueMail?](/sync-options-type-mail/)
 
 {: .center}
 ![](/assets/accounts_status1.jpg){:width="350px"}

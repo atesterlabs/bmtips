@@ -17,7 +17,7 @@ Mit BlueMail können Sie ganz einfach durchsuchen, indem Sie das Symbol des Verg
 
 Unsere Suche sucht nach Ihrem Abfrage-String in einem bestimmten Ordner, den Sie gerade sehen, und sucht sowohl Client heruntergeladen als auch Server-E-Mails ("alte" E-Mails in diesem Ordner).
 
-Um E-Mails auf dem Server zu finden, geh zum * Unified * Account \| Geben Sie Ihr Keyword in die Suche ein Wenn Sie mit den Ergebnissen aufgefordert werden, wählen Sie das Konto, auf dem Sie auf dem Server weiter unten suchen möchten.
+Um E-Mails auf dem Server zu finden, geh zum *Unified* Account \| Geben Sie Ihr Keyword in die Suche ein Wenn Sie mit den Ergebnissen aufgefordert werden, wählen Sie das Konto, auf dem Sie auf dem Server weiter unten suchen möchten.
 
 Wir suchen Ihr Thema, Körper und Empfänger, so dass Sie Wörter aus jedem dieser Felder verwenden können, um Ihre E-Mails zu finden.
 

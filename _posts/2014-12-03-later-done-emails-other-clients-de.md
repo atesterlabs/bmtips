@@ -13,4 +13,4 @@ permalink: /later-done-emails-other-clients/
 meta:
 ---
 
-** Snooze + ** und ** Done ** sind interne Features von BlueMail. Wir verschieben diese E-Mails nicht anderswo in Ihren Ordnern.
+**Snooze +** und **Done** sind interne Features von BlueMail. Wir verschieben diese E-Mails nicht anderswo in Ihren Ordnern.
