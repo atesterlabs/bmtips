@@ -1,5 +1,5 @@
 ---
-layout: ost
+layout: post
 title: Was sind die Bottom Bar Optionen in Mail View?
 date: 2014-12-03 09:53:46.000000000 +02:00
 type: post

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Was ist die Option zur Synchronisierung? Wie kann ich mehr Offline-E-Mails auf meinem speichern? Gerät?
-date: 2015-01-01 17: 39: 20.000000000 +02: 00
+date: 2015-01-01 17:39:20.000000000 +02:00
 type: post
 published: true
 status: publish

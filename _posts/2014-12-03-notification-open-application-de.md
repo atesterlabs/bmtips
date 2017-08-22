@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Würde die Benachrichtigung die Bewerbung öffnen?
-date: 2014-12-03 10: 30: 09.000000000 +02: 00
+date: 2014-12-03 10:30:09.000000000 +02:00
 type: post
 published: true
 status: publish

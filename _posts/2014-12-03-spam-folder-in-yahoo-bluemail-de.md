@@ -1,5 +1,5 @@
 ---
-layout: Post
+layout: post
 title: Wo ist Spam-Ordner in Yahoo?
 date: 2014-12-03 09:46:00.000000000 +02:00
 type: post
