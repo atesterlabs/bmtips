@@ -17,5 +17,5 @@ permalink: /how-to-archive-emails/
 
 You can Archive emails for all providers:
 
-* You can Archive using [Swipe Options in List View](/swipe-menu-options-type-mail/)
-* You can also Archive using the [3-dot-Menu in Mail View](/3-dot-menu-options/)
+* You can Archive using [Swipe Options in List View.](/swipe-menu-options-type-mail/)
+* You can also Archive using the [3-dot-Menu in Mail View.](/3-dot-menu-options/)
