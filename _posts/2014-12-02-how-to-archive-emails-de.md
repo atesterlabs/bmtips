@@ -17,5 +17,5 @@ permalink: /how-to-archive-emails/
 
 Sie können E-Mails für alle Anbieter Archiv:
 
-* Sie können mit [Swipe-Optionen in der Listenansicht Archiv.](/swipe-menu-options-type-mail/)
-* Sie können auch [die 3-Punkt-Menü in Mail Archiv mit.](/3-dot-menu-options/)
+* Sie können mit [Swipe-Optionen in der Listenansicht Archiv](/swipe-menu-options-type-mail/)
+* Sie können auch [die 3-Punkt-Menü in Mail Archiv mit](/3-dot-menu-options/)
