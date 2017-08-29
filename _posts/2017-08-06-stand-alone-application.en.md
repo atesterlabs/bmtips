@@ -3,8 +3,8 @@ layout: post
 title: Do I need to keep my previous email app on my mobile to have BlueMail function?
 date: 2017-08-06 17:14:53.000000000 +03:00
 type: post
-published: false
-status: draft
+published: true
+status: publish
 categories:
 - Troubleshooting
 tags: []
