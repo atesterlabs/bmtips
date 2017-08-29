@@ -6,7 +6,7 @@ type: post
 published: true
 status: publish
 categories:
-- Accounts
+- Konten
 lang: de
 meta: /start-using-blue-mail/
 ---

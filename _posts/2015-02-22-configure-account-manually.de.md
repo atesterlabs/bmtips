@@ -6,7 +6,7 @@ type: post
 published: true
 status: publish
 categories:
-- Accounts
+- Konten
 tags: []
 lang: de
 meta: /configure-account-manually/
