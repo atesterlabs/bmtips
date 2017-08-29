@@ -9,8 +9,7 @@ categories:
 - Features &amp; Usability
 tags: []
 lang: de
-slug: /left-side-circle/
-meta:
+permalink: /left-side-circle/
 ---
 
 Dieser Kreis identifiziert den Absender, genannt *avatar*.

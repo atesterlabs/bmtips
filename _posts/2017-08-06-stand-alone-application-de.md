@@ -9,9 +9,9 @@ categories:
 - Troubleshooting
 tags: []
 lang: de
-slug: /stand-alone-application/
-meta:
+permalink: /stand-alone-application/
 ---
+
 **BlueMail** funktioniert unabhängig von allen anderen E-Mail-Anwendungen. Sie erhalten Instant Notifications, automatische E-Mail-Synchronisierung und haben die Möglichkeit, Ihre E-Mail zu lesen, ohne sich auf eine andere App zu verlassen!
 
 In der Tat, da **BlueMail** auf eigene Faust funktioniert, besteht keine Notwendigkeit, jeden anderen E-Mail-Client auf Ihrem Gerät zu halten. Auf diese Weise erhalten Sie eine E-Mail-Benachrichtigung nur einmal mit **BlueMail's** Instant Push!

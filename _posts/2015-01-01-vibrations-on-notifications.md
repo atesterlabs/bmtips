@@ -8,8 +8,7 @@ status: publish
 categories:
 - Enhanced Features
 tags: []
-slug: /vibrations-on-notifications/
-meta:
+permalink: /vibrations-on-notifications/
 ---
 
 To access vibrate setup per account go to *More...* \| *Notifications* \| *Scroll to the account you want to update* \| *Sound\|Vibrate\|LED* | **Vibrate**

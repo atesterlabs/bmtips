@@ -8,8 +8,7 @@ status: publish
 categories:
 - Enhanced Features
 tags: []
-slug: /android-wear-bluemail/
-meta:
+permalink: /android-wear-bluemail/
 ---
 
 ## Android Wear Users

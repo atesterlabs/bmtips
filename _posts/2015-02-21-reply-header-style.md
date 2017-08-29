@@ -8,8 +8,7 @@ status: publish
 categories:
 - General
 tags: []
-slug: /reply-header-style/
-meta:
+permalink: /reply-header-style/
 ---
 
 When you reply to a mail, the original mail is often shown with a preamble that gives some contextual information on that mail.

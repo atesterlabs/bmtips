@@ -8,8 +8,7 @@ status: publish
 categories:
 - Troubleshooting
 tags: []
-slug: /rate-blue-mail-five-stars/
-meta:
+permalink: /rate-blue-mail-five-stars/
 ---
 
 You can rate us from Google Play Store or from BlueMail using *More...* \| *Send Feedback* \| ***Show your love to BlueMail***.

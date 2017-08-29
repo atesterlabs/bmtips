@@ -9,8 +9,7 @@ categories:
 - General
 tags: []
 lang: de
-slug: /enable-lock-screen/
-meta:
+permalink: /enable-lock-screen/
 ---
 
 Für den Fall, dass Ihr Gerät nicht in Ihrer unmittelbaren Kontrolle ist, hat BlueMail den Lock Screen mit PIN und Fingerabdruck Passcode erstellt, um Ihre privaten E-Mails besser zu schützen.

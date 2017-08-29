@@ -8,8 +8,7 @@ status: publish
 categories:
 - Menus &amp; Toolbars
 tags: []
-slug: /rich-text-compose/
-meta:
+permalink: /rich-text-compose/
 ---
 
 To change the appearance of outgoing emails in BlueMail, please tap the gray rectangle with an arrow icon located just below and to the right of the Subject line.

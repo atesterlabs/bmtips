@@ -9,8 +9,7 @@ categories:
 - Groups
 tags: []
 lang: de
-slug: /send-an-email-to-a-group/
-meta:
+permalink: /send-an-email-to-a-group/
 ---
 
 Um eine E-Mail an eine Gruppe zu senden, tippen Sie auf die Schaltfläche *Compose* und geben den Namen der Gruppe im Feld *To* ein.

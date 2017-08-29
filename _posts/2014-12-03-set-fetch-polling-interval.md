@@ -8,9 +8,7 @@ status: publish
 categories:
 - Push
 tags: []
-
-slug: /set-fetch-polling-interval/
-meta:
+permalink: /set-fetch-polling-interval/
 ---
 
 With BlueMail you can set the polling time by following these steps: Tap *More...* \| *Notifications* \| *Instant Push Settings* \| *Push or Fetch* \| *Choose Fetch* \| ***Fetch Interval*** and choose how often you wish to check for new emails.</span></p>

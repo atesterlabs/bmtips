@@ -8,8 +8,7 @@ status: publish
 categories:
 - Folders
 tags: []
-slug: /junk-spam-folder-blue-mail/
-meta:
+permalink: /junk-spam-folder-blue-mail/
 ---
 
 Emails from Senders or Domains that are **Blocked** within BlueMail or marked as spam on your email provider, will be sent to the *Junk* Folder, also known as *Spam* or *Bulk*.

@@ -9,8 +9,7 @@ categories:
 - Features &amp; Usability
 tags: []
 lang: de
-slug: /different-account-to-send-from/
-meta:
+permalink: /different-account-to-send-from/
 ---
 
 Mit BlueMail können Sie eine E-Mail verfassen und einen Ihrer Konten als Absender auswählen. Um die Absenderadresse zu ändern, schreiben oder auf eine E-Mail antworten und auf die Absenderadresse tippen, um sie zu ändern.

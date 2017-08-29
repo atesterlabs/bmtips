@@ -8,8 +8,7 @@ status: publish
 categories:
 - Folders
 tags: []
-slug: /map-folders-to-provider/
-meta:
+permalink: /map-folders-to-provider/
 ---
 
 To manage your folders tap *More...* \| *Various Account Settings* \| *Tap your Account* \| *Folder Management* \| **Folder Mapping**.

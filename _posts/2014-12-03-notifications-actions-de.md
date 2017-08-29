@@ -9,8 +9,7 @@ categories:
 - Push
 tags: []
 lang: de
-slug: /notifications-actions/
-meta:
+permalink: /notifications-actions/
 ---
 
 Direkt aus Benachrichtigungen können Sie das Wesen der Nachricht lesen, als gelesen markieren oder als Antwort (standardmäßig). Wenn Sie auf die Benachrichtigung im "Benachrichtigungscenter" klicken, werden Sie mit den folgenden Optionen aufgefordert: Antwort, Markieren als Fertig und Löschen.

@@ -9,8 +9,7 @@ categories:
 - Clusters
 tags: []
 lang: de
-slug: /how-do-i-choose-which-emails-get-clustered/
-meta:
+permalink: /how-do-i-choose-which-emails-get-clustered/
 ---
 
 Wenn die Cluster-Option in der Kontoauswahl verfügbar ist, wählen Sie Ihre Cluster-Ebene, um Ihren Anforderungen besser gerecht zu werden.

@@ -9,8 +9,7 @@ categories:
 - Menus &amp; Toolbars
 tags: []
 lang: de
-slug: /bottom-bar-icons/
-meta:
+permalink: /bottom-bar-icons/
 ---
 
 Unten sind die unteren Balken Symbole und ihre Beschreibung:

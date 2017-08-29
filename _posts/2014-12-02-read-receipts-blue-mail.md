@@ -8,7 +8,7 @@ status: publish
 categories:
 - Enhanced Features
 tags: []
-slug: /read-receipts-blue-mail/
+permalink: /read-receipts-blue-mail/
 ---
 To ask for a read-receipt, please press the 3-dots menu in the compose screen and choose **Enable Read Receipt**.
 

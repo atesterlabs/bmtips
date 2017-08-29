@@ -9,8 +9,7 @@ categories:
 - Clusters
 tags: []
 lang: de
-slug: /what-are-clusters/
-meta:
+permalink: /what-are-clusters/
 ---
 
 BlueMail organisiert ähnliche E-Mails zusammen, um eine Menge von Unordnung aus Ihrem Posteingang zu entfernen, ohne irgendwelche E-Mails zu verstecken. Es kategorisiert E-Mails von bekannten Diensten in intelligente Cluster und organisiert Ihre E-Mails automatisch in eine Unterordner-Struktur, ohne dass es schwierig ist, sie manuell zu verwalten.

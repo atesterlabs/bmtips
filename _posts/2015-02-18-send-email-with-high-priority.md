@@ -8,8 +8,7 @@ status: publish
 categories:
 - Basic Actions
 tags: []
-slug: /send-email-with-high-priority/
-meta:
+permalink: /send-email-with-high-priority/
 ---
 
 To add high priority to an email, press the 3-dot menu on the compose screen and choose *Set High Priority*.

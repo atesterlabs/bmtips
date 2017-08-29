@@ -9,8 +9,7 @@ categories:
 - Getting Stuff Done
 tags: []
 lang: de
-slug: /later-done-emails-other-clients/
-meta:
+permalink: /later-done-emails-other-clients/
 ---
 
 **Snooze +** und **Done** sind interne Features von BlueMail. Wir verschieben diese E-Mails nicht anderswo in Ihren Ordnern.

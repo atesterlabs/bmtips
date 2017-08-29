@@ -9,8 +9,7 @@ status: publish
 categories:
 - Getting Stuff Done
 tags: []
-slug: /default-to-assign-an-email/
-meta:
+permalink: /default-to-assign-an-email/
 ---
 
 Using [Snooze+](/mark-as-later/) you can postpone handling emails for a later time, these are the default times for each option:

@@ -8,8 +8,7 @@ status: publish
 categories:
 - Groups
 tags: []
-slug: /send-an-email-to-a-group/
-meta:
+permalink: /send-an-email-to-a-group/
 ---
 
 To send an email to a Group tap the *Compose* button and start typing the name of the Group in the *To* field.

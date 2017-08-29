@@ -9,8 +9,7 @@ categories:
 - General
 tags: []
 lang: de
-slug: /future-plans-blue-mail/
-meta:
+permalink: /future-plans-blue-mail/
 ---
 
 Aufregende Dinge kommen auf!

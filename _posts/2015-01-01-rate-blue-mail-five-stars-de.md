@@ -9,8 +9,7 @@ categories:
 - Troubleshooting
 tags: []
 lang: de
-slug: /rate-blue-mail-five-stars/
-meta:
+permalink: /rate-blue-mail-five-stars/
 ---
 
 Sie können uns von Google Play Store oder von BlueMail mit *Mehr ...* \| *Feedback senden* \| ***Zeigen Sie Ihre Liebe zu BlueMail***.

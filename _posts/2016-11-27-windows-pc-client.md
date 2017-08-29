@@ -8,8 +8,7 @@ status: publish
 categories:
 - General
 tags: []
-slug: /windows-pc-client/
-meta:
+permalink: /windows-pc-client/
 ---
 
 Yes, we are working on a desktop client – BlueMail for Windows PC will be available in the near future.

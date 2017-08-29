@@ -8,8 +8,7 @@ status: publish
 categories:
 - Accounts
 tags: []
-slug: /update-gmail-outlook-accounts-password/
-meta:
+permalink: /update-gmail-outlook-accounts-password/
 ---
 
 For various security reasons, you cannot change the password associated with the account from BlueMail. However, for certain providers that are not supporting OAuth, you can update the password for an existing account on BlueMail to match the provider servers by using: *More* \| *Various Account Settings* \| *tap the account you want to update* \| *Edit Account* \| ***Update Password***.

@@ -8,8 +8,8 @@ status: publish
 categories:
 - Basic Actions
 tags: []
-slug: /change-language-blue-mail/
-meta:
+permalink: /change-language-blue-mail/
+
 ---
 
 BlueMail uses your phone language, so to change the language in BlueMail

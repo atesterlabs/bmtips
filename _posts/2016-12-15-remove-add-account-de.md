@@ -9,8 +9,7 @@ categories:
 - General
 tags: []
 lang: de
-slug: /remove-add-account/
-meta:
+permalink: /remove-add-account/
 ---
 
 ## Konto entfernen

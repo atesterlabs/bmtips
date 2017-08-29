@@ -8,8 +8,7 @@ status: publish
 categories:
 - Settings
 tags: []
-slug: /how-to-configure-the-bottom-bar-actions/
-meta:
+permalink: /how-to-configure-the-bottom-bar-actions/
 ---
 
 To configure the bottom bar actions, tap [3-dot Menu in Mail View](/3-dot-menu-options/) \| *More Options* \| *Configure Menu*.

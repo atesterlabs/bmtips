@@ -8,8 +8,7 @@ status: publish
 categories:
 - General
 tags: []
-slug: /what-are-the-notifications-methods/
-meta:
+permalink: /what-are-the-notifications-methods/
 ---
 
 Notifications use the notification bar, and show a short preview of the email.

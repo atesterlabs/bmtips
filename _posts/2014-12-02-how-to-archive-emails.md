@@ -8,7 +8,7 @@ status: publish
 categories:
   - Basic Actions
 tags: []
-slug: /how-to-archive-emails/
+permalink: /how-to-archive-emails/
 ---
 
 {: .center}

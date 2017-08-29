@@ -8,8 +8,7 @@ status: publish
 categories:
 - Troubleshooting
 tags: []
-slug: /see-status-sent-messages/
-meta:
+permalink: /see-status-sent-messages/
 ---
 
 At the top of the email list, you have a search box, under that box you see a live status bar. When you send an email, you can see it’s live status.

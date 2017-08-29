@@ -9,8 +9,7 @@ categories:
 - Enhanced Features
 tags: []
 lang: de
-slug: /myself-bcc-automatically/
-meta:
+permalink: /myself-bcc-automatically/
 ---
 
 Um diese Option festzulegen, tippen Sie auf *Mehr ...* \| *Verschiedene Kontoeinstellungen* \| *Wählen Sie Konto* \| *Erweiterte Kontoeinstellungen* \| *Immer BCC* \| *Geben Sie Ihre eigene Adresse* ein.

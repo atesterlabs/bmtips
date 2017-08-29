@@ -8,8 +8,7 @@ status: publish
 categories:
 - Menus &amp; Toolbars
 tags: []
-slug: /swipe-menu-options-blue-mail/
-meta:
+permalink: /swipe-menu-options-blue-mail/
 ---
 
 Swiping the email right reveals two options: <a href="/mark-as-done/">Done</a> which allows you to mark an email as Done, and <a href="/mark-as-later/">Snooze+</a> which allows you to select a deferring time from a menu.</span></p>

@@ -9,8 +9,7 @@ categories:
 - General
 tags: []
 lang: de
-slug: /what-is-cluster-mode/
-meta:
+permalink: /what-is-cluster-mode/
 ---
 
 Cluster-Modus ist eine spannende Funktion, die revolutioniert, wie Sie Ihre E-Mails sehen. Durch die Organisation Ihrer Posteingang von Absender, halten auf der Oberseite Ihrer E-Mail war noch nie einfacher.

@@ -9,8 +9,7 @@ categories:
 - Basic Actions
 tags: []
 lang: de
-slug: /difference-reply-reply-all-forward/
-meta:
+permalink: /difference-reply-reply-all-forward/
 ---
 
 In der Mail-Ansicht können Sie wählen, um zu antworten, oder Antworten alle oder Weiterleiten:

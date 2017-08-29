@@ -8,8 +8,7 @@ status: publish
 categories:
 - Settings
 tags: []
-slug: /remove-contact-auto-complete/
-meta:
+permalink: /remove-contact-auto-complete/
 ---
 
 To remove a contact from auto-complete, please tap *More...* \| *Edit Profile, Groups &amp; Contacts* \| *Contacts* \| *Search for the contact(s)*.

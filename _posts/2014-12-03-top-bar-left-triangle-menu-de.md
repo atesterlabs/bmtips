@@ -9,8 +9,7 @@ categories:
 - Getting Stuff Done
 tags: []
 lang: de
-slug: /top-bar-left-triangle-menu/
-meta:
+permalink: /top-bar-left-triangle-menu/
 ---
 
 *Filter* können Sie schnell Nachrichten finden, die für Sie von Ihren Kontakten, Diensten und sogar Nachrichten, die Sie nicht gelesen haben, wichtig sind.

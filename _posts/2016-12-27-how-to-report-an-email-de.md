@@ -9,8 +9,7 @@ categories:
 - Troubleshooting
 tags: []
 lang: de
-slug: /how-to-report-an-email/
-meta:
+permalink: /how-to-report-an-email/
 ---
 
 Als nächstes tippen Sie auf das vertikale 3-Punkt-Menü in der rechten unteren Ecke und wählen Sie *Original anzeigen*.

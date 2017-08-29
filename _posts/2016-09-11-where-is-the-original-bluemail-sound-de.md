@@ -9,8 +9,7 @@ categories:
 - General
 tags: []
 lang: de
-slug: /where-is-the-original-bluemail-sound/
-meta:
+permalink: /where-is-the-original-bluemail-sound/
 ---
 
 Wenn du den älteren Notizklang liebst und ihn gern weiter nutzen möchtest, lade es auf dein Gerät herunter.

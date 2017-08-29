@@ -8,8 +8,7 @@ status: publish
 categories:
 - Basic Actions
 tags: []
-slug: /refresh-mail-list/
-meta:
+permalink: /refresh-mail-list/
 ---
 
 To refresh the Mail List, pull the screen down (swipe your finger from the top of the screen downwards).

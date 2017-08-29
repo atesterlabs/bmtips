@@ -9,8 +9,7 @@ categories:
 - General
 tags: []
 lang: de
-slug: /select-folders-sync-account/
-meta:
+permalink: /select-folders-sync-account/
 ---
 
 Wie kann ich auswählen, welche Ordner für mein Exchange / ActiveSync-Konto zu synchronisieren sind?

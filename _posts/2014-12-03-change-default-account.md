@@ -8,7 +8,7 @@ status: publish
 categories:
 - Accounts
 tags: []
-slug: /change-default-account/
+permalink: /change-default-account/
 ---
 
 You can change your Default Account using *More* \| *Global Settings* \| *Advanced Features* and you will have these options:

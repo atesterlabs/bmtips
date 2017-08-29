@@ -9,8 +9,7 @@ categories:
 - Folders
 tags: []
 lang: de
-slug: /trash-folder-archive-folder-bluemail/
-meta:
+permalink: /trash-folder-archive-folder-bluemail/
 ---
 
 Archiv behält in der Regel die Mail im Archiv-Ordner, für zukünftige Referenz. Löschen löscht häufig die Mail in einen Papierkorb-Ordner, der regelmäßig gereinigt wird und auch manuell auf Wunsch manuell gelöscht werden kann. Sie können auf diese beiden Ordner im Ordnerbereich zugreifen.

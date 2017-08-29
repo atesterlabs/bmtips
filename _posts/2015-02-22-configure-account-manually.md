@@ -8,8 +8,7 @@ status: publish
 categories:
 - Accounts
 tags: []
-slug: /configure-account-manually/
-meta:
+permalink: /configure-account-manually/
 ---
 
 You can add your account manually by tapping *More...* \| *Various Account Settings* \| *Add Account (+)* \| *Add Other Account* \| *Other Email*, then follow these steps:

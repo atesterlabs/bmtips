@@ -8,8 +8,7 @@ status: publish
 categories:
 - Troubleshooting
 tags: []
-slug: /how-to-re-download-an-email/
-meta:
+permalink: /how-to-re-download-an-email/
 ---
 
 You can re-download an email message by going to the specific mail, pressing the *3-dots menu on the bottom right* \| *More Options...* \| *Redownload Message*. This may help when that mail was partially downloaded, mainly due to network issues.

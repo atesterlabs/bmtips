@@ -8,8 +8,7 @@ status: publish
 categories:
 - Accounts
 tags: []
-slug: /list-of-providers-blue-mail/
-meta:
+permalink: /list-of-providers-blue-mail/
 ---
 
 The account you choose should match the provider of your email. If you are not sure which provider to choose, select *Other*, enter your username and password and BlueMail will try and automatically locate it for you.

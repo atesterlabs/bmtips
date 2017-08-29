@@ -9,8 +9,7 @@ categories:
 - Accounts
 tags: []
 lang: de
-slug: /what-is-oauth/
-meta:
+permalink: /what-is-oauth/
 ---
 
 BlueMail nutzt die höchste Privatsphäre &amp; Sicherheits-Authentifizierung für Ihren Provider verfügbar.

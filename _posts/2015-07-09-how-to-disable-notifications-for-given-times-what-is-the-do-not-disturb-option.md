@@ -8,8 +8,7 @@ status: publish
 categories:
 - Push
 tags: []
-slug: /how-to-disable-notifications-for-given-times-what-is-the-do-not-disturb-option/
-meta:
+permalink: /how-to-disable-notifications-for-given-times-what-is-the-do-not-disturb-option/
 ---
 
 You can select specific quiet times, for which notifications will be suppressed, to match your desires.

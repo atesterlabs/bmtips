@@ -8,8 +8,7 @@ status: publish
 categories:
 - Troubleshooting
 tags: []
-slug: /update-bluemail/
-meta:
+permalink: /update-bluemail/
 ---
 
 No, there is no need for that. The app will be automatically updated every other week or so. If auto-download is disabled on your device, please go to the store and check for updates manually.

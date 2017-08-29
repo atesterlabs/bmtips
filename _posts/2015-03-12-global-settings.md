@@ -8,8 +8,7 @@ status: publish
 categories:
 - Settings
 tags: []
-slug: /global-settings/
-meta:
+permalink: /global-settings/
 ---
 
 Using  *More...* \| *Global Settings* \| and you will access the global settings for your accounts:

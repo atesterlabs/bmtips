@@ -9,8 +9,7 @@ categories:
 - Features &amp; Usability
 tags: []
 lang: de
-slug: /add-email-address-phonebook-contacts/
-meta:
+permalink: /add-email-address-phonebook-contacts/
 ---
 
 BlueMail bietet hierfür eine Reihe von Möglichkeiten:

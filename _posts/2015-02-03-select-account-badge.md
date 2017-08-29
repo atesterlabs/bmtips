@@ -8,8 +8,7 @@ status: publish
 categories:
 - Accounts
 tags: []
-slug: /select-account-badge/
-meta:
+permalink: /select-account-badge/
 ---
 
 For devices that support badge on the app icon, you can select the email account for badge using *More...* \| *Global Settings* \| *Unread Count* \| **App Badge Number** and select your desired account.

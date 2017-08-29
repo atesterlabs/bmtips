@@ -8,8 +8,7 @@ status: publish
 categories:
 - General
 tags: []
-slug: /add-multiple-aliases-per-account/
-meta:
+permalink: /add-multiple-aliases-per-account/
 ---
 
 ### What are Aliases?

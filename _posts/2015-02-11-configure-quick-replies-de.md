@@ -9,8 +9,7 @@ categories:
 - Settings
 tags: []
 lang: de
-slug: /configure-quick-replies/
-meta:
+permalink: /configure-quick-replies/
 ---
 
 Um eine Schnellantwort zu bearbeiten oder hinzuzufügen, tippen Sie auf *Mehr ...* \| *Globale Einstellungen* \| *Anpassen von Menüs* \| **Schnelle Antworten konfigurieren**:

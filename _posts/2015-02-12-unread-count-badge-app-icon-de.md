@@ -9,8 +9,7 @@ categories:
 - Features &amp; Usability
 tags: []
 lang: de
-slug: /unread-count-badge-app-icon/
-meta:
+permalink: /unread-count-badge-app-icon/
 ---
 
 Die Fähigkeit, ein Abzeichen auf dem App-Symbol zu präsentieren, ist eine Eigenschaft des Home-Screen-Managers oder "Launcher" Ihres Geräts.

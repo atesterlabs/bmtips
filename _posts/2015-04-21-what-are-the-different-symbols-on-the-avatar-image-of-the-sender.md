@@ -8,8 +8,7 @@ status: publish
 categories:
 - General
 tags: []
-slug: /what-are-the-different-symbols-on-the-avatar-image-of-the-sender/
-meta:
+permalink: /what-are-the-different-symbols-on-the-avatar-image-of-the-sender/
 ---
 
 The different symbols represent certain states of an email; you can see those symbols on the images/avatars of the sender:

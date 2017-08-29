@@ -8,8 +8,7 @@ status: publish
 categories:
 - Settings
 tags: []
-slug: /do-you-support-sounds-how-can-i-customize-sound-notifications/
-meta:
+permalink: /do-you-support-sounds-how-can-i-customize-sound-notifications/
 ---
 
 To customize the sound notifications, please follow these steps:

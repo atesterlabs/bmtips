@@ -10,8 +10,7 @@ categories:
 - Specific Providers
 tags: []
 lang: de
-slug: /how-do-i-add-my-yahoo-account/
-meta:
+permalink: /how-do-i-add-my-yahoo-account/
 ---
 
 Im Jahr 2016 hat Yahoo OAuth 2.0 - eine neue überlegene Art und Weise zu authentifizieren und wir sind glücklich, dass sie sich Gmail & Outlook, um diese sichere Authentifizierung Standard zu unterstützen.

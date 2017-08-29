@@ -9,8 +9,7 @@ categories:
 - Getting Stuff Done
 tags: []
 lang: de
-slug: /mark-email-done-mark-read/
-meta:
+permalink: /mark-email-done-mark-read/
 ---
 
 Wir haben einen Satz von [Filtern](/top-bar-left-triangle-menu/) auf dem Top-Picker, wo *All = Incoming + Snoozed + Done*.

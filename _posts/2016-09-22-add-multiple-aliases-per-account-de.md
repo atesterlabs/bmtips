@@ -9,8 +9,7 @@ categories:
 - General
 tags: []
 lang: de
-slug: /add-multiple-aliases-per-account/
-meta:
+permalink: /add-multiple-aliases-per-account/
 ---
 
 ## Was sind Aliase?

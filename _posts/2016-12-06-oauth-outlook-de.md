@@ -9,8 +9,7 @@ categories:
 - Accounts
 tags: []
 lang: de
-slug: /oauth-outlook/
-meta:
+permalink: /oauth-outlook/
 ---
 
 Um das Passwort auf Ihrem Outlook-Konto zu aktualisieren oder zu ändern, tippen Sie einfach auf *Mehr ...* \| *Verschiedene Kontoeinstellungen* \| *Wählen Sie Ihr Outlook-Konto* \| *Kennwort aktualisieren*

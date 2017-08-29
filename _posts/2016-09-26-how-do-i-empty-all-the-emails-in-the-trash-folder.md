@@ -8,8 +8,7 @@ status: publish
 categories:
 - General
 tags: []
-slug: /how-do-i-empty-all-the-emails-in-the-trash-folder/
-meta:
+permalink: /how-do-i-empty-all-the-emails-in-the-trash-folder/
 ---
 
 In order to empty the Trash folder, please tap the Trash icon in the top-right corner and these emails will be deleted.

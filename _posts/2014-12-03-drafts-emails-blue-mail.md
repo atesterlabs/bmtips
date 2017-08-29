@@ -8,8 +8,7 @@ status: publish
 categories:
 - Folders
 tags: []
-slug: /drafts-emails-blue-mail/
-meta:
+permalink: /drafts-emails-blue-mail/
 ---
 
 Drafts for email you compose but not yet sent (either because of not having internet connection or other reason), are kept.

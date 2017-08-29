@@ -10,8 +10,7 @@ categories:
 - Our New Features
 tags: []
 lang: de
-slug: /my-profile/
-meta:
+permalink: /my-profile/
 ---
 
 Mit BlueMail können Sie Ihr eigenes Foto für jeden Ihrer Konten hinzufügen. Dies ist eine großartige Möglichkeit, Ihr offizielles Foto mit Ihrem Geschäftskonto zu verknüpfen, während Sie ein lustiges Foto mit Ihrem persönlichen Konto oder irgendwelchen zusätzlichen Konten, die Sie auf BlueMail haben, verbunden sind

@@ -8,8 +8,7 @@ status: publish
 categories:
 - General
 tags: []
-slug: /edit-a-contact/
-meta:
+permalink: /edit-a-contact/
 ---
 
 To edit a contact's settings in BlueMail, tap *More...* \| *Edit Profile, Groups &amp; Contacts* \| *tap the People tab* \| *choose the contact* you wish to edit settings for.

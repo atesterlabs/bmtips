@@ -9,8 +9,7 @@ categories:
 - Folders
 tags: []
 lang: de
-slug: /sent-emails-folder-blue-mail/
-meta:
+permalink: /sent-emails-folder-blue-mail/
 ---
 
 Ihre gesendeten Gegenstände werden mit dem Server Ihres Anbieters synchronisiert.

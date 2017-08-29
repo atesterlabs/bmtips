@@ -9,8 +9,7 @@ categories:
 - Features &amp; Usability
 tags: []
 lang: de
-slug: /copy-email-address/
-meta:
+permalink: /copy-email-address/
 ---
 
 BlueMail bietet hierfür ein paar Möglichkeiten:

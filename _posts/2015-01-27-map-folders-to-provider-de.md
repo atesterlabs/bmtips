@@ -9,8 +9,7 @@ categories:
 - Folders
 tags: []
 lang: de
-slug: /map-folders-to-provider/
-meta:
+permalink: /map-folders-to-provider/
 ---
 
 Um Ihre Ordner zu verwalten, tippen Sie auf *Mehr ...* \| *Verschiedene Kontoeinstellungen* \| *Tippen Sie auf Ihr Konto* \| *Ordnerverwaltung* \| **Ordner Mapping**.

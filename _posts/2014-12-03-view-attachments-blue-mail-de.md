@@ -9,8 +9,7 @@ categories:
 - Features &amp; Usability
 tags: []
 lang: de
-slug: /view-attachments-blue-mail/
-meta:
+permalink: /view-attachments-blue-mail/
 ---
 
 Wenn Sie eine E-Mail mit Anhängen anzeigen, tippen Sie auf den Anhang, um den Download herunterzuladen, da BlueMail Ihre Anhänge nicht automatisch herunterlädt, um Ihre Netzwerkressourcen zu speichern. Tippen Sie einmal auf einmal, um den Download zu starten, und wenn es fertig ist, tippen Sie erneut auf den Anhang, um ihn mit einem geeigneten Viewer anzuzeigen oder auf den grauen Balken zu tippen, um ihn zu speichern.

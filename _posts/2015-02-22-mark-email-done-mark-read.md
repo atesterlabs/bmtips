@@ -8,8 +8,7 @@ status: publish
 categories:
 - Getting Stuff Done
 tags: []
-slug: /mark-email-done-mark-read/
-meta:
+permalink: /mark-email-done-mark-read/
 ---
 
 We have a set of [Filters](/top-bar-left-triangle-menu/) on the top picker where *All = Incoming + Snoozed + Done*.

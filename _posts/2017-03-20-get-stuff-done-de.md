@@ -9,8 +9,7 @@ categories:
 - Getting Stuff Done
 tags: []
 lang: de
-slug: /get-stuff-done/
-meta:
+permalink: /get-stuff-done/
 ---
 
 ## Wie kann BlueMail mir helfen?

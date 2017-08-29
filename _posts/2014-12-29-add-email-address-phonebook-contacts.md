@@ -8,8 +8,7 @@ status: publish
 categories:
 - Features &amp; Usability
 tags: []
-slug: /add-email-address-phonebook-contacts/
-meta:
+permalink: /add-email-address-phonebook-contacts/
 ---
 
 BlueMail offers a number of ways to achieve this:

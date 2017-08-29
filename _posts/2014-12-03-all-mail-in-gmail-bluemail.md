@@ -8,7 +8,7 @@ status: publish
 categories:
 - Specific Providers
 tags: []
-slug: /all-mail-in-gmail-bluemail/
+permalink: /all-mail-in-gmail-bluemail/
 ---
 
 If the "All Mail" folder isn't displayed in BlueMail, follow these steps to resolve it:

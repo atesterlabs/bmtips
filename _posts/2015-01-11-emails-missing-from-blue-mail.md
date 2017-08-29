@@ -8,8 +8,7 @@ status: publish
 categories:
 - Troubleshooting
 tags: []
-slug: /emails-missing-from-blue-mail/
-meta:
+permalink: /emails-missing-from-blue-mail/
 ---
 
 There are couple of directions that may cause missing emails:

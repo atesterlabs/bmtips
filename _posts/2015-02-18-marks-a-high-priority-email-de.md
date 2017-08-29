@@ -9,8 +9,7 @@ categories:
 - Basic Actions
 tags: []
 lang: de
-slug: /marks-a-high-priority-email/
-meta:
+permalink: /marks-a-high-priority-email/
 ---
 
 Email hat einen Prioritäts-Header und das setzt ihn auf hoch. Einige Clients (z. B. Outlook) zeigen spezielle Marker (z. B. !) Zu hochwertigen E-Mails.

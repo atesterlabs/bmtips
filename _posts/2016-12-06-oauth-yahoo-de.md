@@ -9,8 +9,7 @@ categories:
 - Accounts
 tags: []
 lang: de
-slug: /oauth-yahoo/
-meta:
+permalink: /oauth-yahoo/
 ---
 
 Um das Passwort auf Ihrem Yahoo-Konto zu aktualisieren oder zu ändern, tippen Sie einfach auf *Mehr ...* \| *Verschiedene Kontoeinstellungen* \| *Wähle dein Yahoo-Konto* \| *Kennwort aktualisieren*

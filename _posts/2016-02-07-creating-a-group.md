@@ -8,8 +8,7 @@ status: publish
 categories:
 - Groups
 tags: []
-slug: /creating-a-group/
-meta:
+permalink: /creating-a-group/
 ---
 
 There are three ways to create a new Group:

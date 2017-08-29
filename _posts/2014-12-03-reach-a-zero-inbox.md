@@ -8,8 +8,7 @@ status: publish
 categories:
 - Getting Stuff Done
 tags: []
-slug: /reach-a-zero-inbox/
-meta:
+permalink: /reach-a-zero-inbox/
 ---
 
 Using [Snooze+](/mark-as-later/) and [Done](/mark-as-done/)  to handle mails later or finish the handling, [Delete](/delete-an-email-type-mail/) and [Archive](/archive-emails-type-mail/), or Reply and Forward - your tool belt is equipped with all essentials. Good luck!

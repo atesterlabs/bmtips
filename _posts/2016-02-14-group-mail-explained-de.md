@@ -9,8 +9,7 @@ categories:
 - Groups
 tags: []
 lang: de
-slug: /group-mail-explained/
-meta:
+permalink: /group-mail-explained/
 ---
 
 Da viele Ihrer E-Mails die gleichen Gruppen von Personen beinhalten, mit denen Sie regelmäßig kommunizieren, haben wir die Möglichkeit geschaffen, Nachrichten innerhalb von BlueMail Groups natürlich zu definieren, zu senden und zu empfangen.

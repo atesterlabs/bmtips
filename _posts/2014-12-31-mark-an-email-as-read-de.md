@@ -9,8 +9,7 @@ categories:
 - Basic Actions
 tags: []
 lang: de
-slug: /mark-an-email-as-read/
-meta:
-
+permalink: /mark-an-email-as-read/
 ---
+
 Um eine E-Mail als gelesen / ungelesen zu markieren, gehen Sie links auf die E-Mail-Nachricht und wählen Sie *Mark Read* / *Mark Ungelesen*.

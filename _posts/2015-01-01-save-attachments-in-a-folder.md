@@ -8,8 +8,7 @@ status: publish
 categories:
 - Enhanced Features
 tags: []
-slug: /save-attachments-in-a-folder/
-meta:
+permalink: /save-attachments-in-a-folder/
 ---
 
 To save your attachments to a specified folder, please tap on the grey bar to open the Save As option.

@@ -8,8 +8,7 @@ status: publish
 categories:
 - Settings
 tags: []
-slug: /disable-outgoing-sound/
-meta:
+permalink: /disable-outgoing-sound/
 ---
 
 You can disable the outgoing sound per account, using *More...* \| *Various Account Settings* \| *tap the account* \| *Compose Sound* \| *Turn **OFF** Outgoing Sound*.

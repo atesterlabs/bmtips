@@ -9,8 +9,7 @@ categories:
 - Settings
 tags: []
 lang: de
-slug: /size-auto-download-messages/
-meta:
+permalink: /size-auto-download-messages/
 ---
 
 Sie können automatisch eine Nachricht bis zu 200 kb eingeben, können Sie dies tun, indem Sie auf *Mehr ...* \| *Globale Einstellungen* \| *Sync* \| *Auto Download Nachrichten bis zu*:

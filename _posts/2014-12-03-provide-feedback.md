@@ -8,8 +8,7 @@ status: publish
 categories:
 - Troubleshooting
 tags: []
-slug: /provide-feedback/
-meta:
+permalink: /provide-feedback/
 ---
 
 You can provide feedback directly from BlueMail using *More* \| ***Send Feedback***, or the top 3-dot-menu in your list view.

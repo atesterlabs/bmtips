@@ -1,7 +1,6 @@
 ---
 layout: post
-title: How to Navigate between Folders? Where do I See Drafts, Sent, Archive & Trash
-  Folders? How to See Folders Other than Inbox?
+title: How to Navigate between Folders? Where do I See Drafts, Sent, Archive & Trash Folders? How to See Folders Other than Inbox?
 date: 2015-02-18 17:29:32.000000000 +02:00
 type: post
 published: true
@@ -9,8 +8,7 @@ status: publish
 categories:
 - Basic Actions
 tags: []
-slug: /navigate-between-folders/
-meta:
+permalink: /navigate-between-folders/
 ---
 
 To view the folders for your current account, please tap the top-left corner and a panel with the folders list will be shown underneath the account's name. You can also see the panel by swiping from the middle left edge of the screen.</p>

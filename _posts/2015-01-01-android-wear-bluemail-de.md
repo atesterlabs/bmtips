@@ -9,8 +9,7 @@ categories:
 - Enhanced Features
 tags: []
 lang: de
-slug: /android-wear-bluemail/
-meta:
+permalink: /android-wear-bluemail/
 ---
 
 ## Android Tragen Benutzer

@@ -9,8 +9,7 @@ categories:
 - Troubleshooting
 tags: []
 lang: de
-slug: /send-receive-encrypted-messages/
-meta:
+permalink: /send-receive-encrypted-messages/
 ---
 
 Um eine verschlüsselte Nachricht zu senden, müssen Sie den öffentlichen Schlüssel des Empfängers haben. Um eine verschlüsselte Nachricht zu entschlüsseln, muss sie ursprünglich mit Ihrem öffentlichen Schlüssel verschlüsselt werden.

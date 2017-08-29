@@ -9,8 +9,7 @@ categories:
 - Troubleshooting
 tags: []
 lang: de
-slug: /my-unread-count-is-incorrect-how-to-reset-the-unread-count-for-badge/
-meta:
+permalink: /my-unread-count-is-incorrect-how-to-reset-the-unread-count-for-badge/
 ---
 
 Um die ungelesene Zählung für das Abzeichen auf dem App-Symbol zurückzusetzen, geh zu *Mehr ...* \| *Globale Einstellungen* \| *Ungelesener Zähler* \| *Ungelesene Nummer zurücksetzen* \| **OK**.

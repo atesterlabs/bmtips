@@ -8,8 +8,7 @@ status: publish
 categories:
 - Accounts
 tags: []
-slug: /oauth-yahoo/
-meta:
+permalink: /oauth-yahoo/
 ---
 
 To update or change the password on your Yahoo account, simply tap *More...* \| *Various Account Settings* \| *Select your Yahoo account* \| *Update Password*

@@ -8,8 +8,7 @@ status: publish
 categories:
 - Clusters
 tags: []
-slug: /what-are-clusters-and-how-to-use-them/
-meta:
+permalink: /what-are-clusters-and-how-to-use-them/
 ---
 
 BlueMail organizes similar emails together to remove a lot of clutter from your inbox, without hiding any emails. It categorizes emails from known services into smart clusters, and organizes your emails into a sub-folder structure automatically, without the hassle to manage it manually.

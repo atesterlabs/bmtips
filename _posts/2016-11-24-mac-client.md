@@ -8,8 +8,7 @@ status: publish
 categories:
 - General
 tags: []
-slug: /mac-client/
-meta:
+permalink: /mac-client/
 ---
 
 Soon. We are working on a Mac client, which will be available in the near future.

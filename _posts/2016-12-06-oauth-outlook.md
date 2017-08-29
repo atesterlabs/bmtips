@@ -8,8 +8,7 @@ status: publish
 categories:
 - Accounts
 tags: []
-slug: /oauth-outlook/
-meta:
+permalink: /oauth-outlook/
 ---
 
 To update or change the password on your Outlook account, simply tap *More...* \| *Various Account Settings* \| *Select your Outlook account* \| *Update Password*

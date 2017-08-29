@@ -8,8 +8,7 @@ status: publish
 categories:
 - Our New Features
 tags: []
-slug: /people-view/
-meta:
+permalink: /people-view/
 ---
 
 The People View is a new and original way to view your Inbox and reduce its clutter.

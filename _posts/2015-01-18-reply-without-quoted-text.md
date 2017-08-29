@@ -8,8 +8,7 @@ status: publish
 categories:
 - Enhanced Features
 tags: []
-slug: /reply-without-quoted-text/
-meta:
+permalink: /reply-without-quoted-text/
 ---
 
 When you reply to an email, tap the top right Arrow icon under the subject for the Reply Options menu, and choose **New**.

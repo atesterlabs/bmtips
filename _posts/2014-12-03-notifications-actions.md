@@ -8,8 +8,7 @@ status: publish
 categories:
 - Push
 tags: []
-slug: /notifications-actions/
-meta:
+permalink: /notifications-actions/
 ---
 
 Directly from notifications you can read the essence of the message, Mark as read, or Reply (by default). By Pinching-out on the notification in the “Notifications Center”, you will be prompted with the following options: Reply, Mark as Done and Delete.

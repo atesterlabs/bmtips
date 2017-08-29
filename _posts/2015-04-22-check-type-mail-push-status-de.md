@@ -9,8 +9,7 @@ categories:
 - Push
 tags: []
 lang: de
-slug: /check-type-mail-push-status/
-meta:
+permalink: /check-type-mail-push-status/
 ---
 
 Um den Push Status von BlueMail zu überprüfen, geh zu *Mehr ...* \| *Über* \| *App-Status prüfen*.

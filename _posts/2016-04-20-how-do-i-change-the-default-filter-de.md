@@ -9,8 +9,7 @@ categories:
 - General
 tags: []
 lang: de
-slug: /how-do-i-change-the-default-filter/
-meta:
+permalink: /how-do-i-change-the-default-filter/
 ---
 
 Mit *default* ist der *All* Filter für Sie vorgewählt. Wenn Sie beim Öffnen von BlueMail den Standardfilter ändern möchten, tippen Sie bitte auf *Mehr ...* \| *Globale Einstellungen* \| ***Default Filter*** und wähle zwischen All, Unread, Starred oder Incoming.

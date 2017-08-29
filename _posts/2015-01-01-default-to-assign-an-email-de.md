@@ -9,8 +9,7 @@ categories:
 - Getting Stuff Done
 tags: []
 lang: de
-slug: /default-to-assign-an-email/
-meta:
+permalink: /default-to-assign-an-email/
 ---
 
 Mit [Snooze +](/mark-as-later/) kannst du Handling-E-Mails zu einem späteren Zeitpunkt verschieben, das sind die Standardzeiten für jede Option:

@@ -8,8 +8,7 @@ status: publish
 categories:
 - General
 tags: []
-slug: /future-plans-blue-mail/
-meta:
+permalink: /future-plans-blue-mail/
 ---
 
 Exciting things are coming up!

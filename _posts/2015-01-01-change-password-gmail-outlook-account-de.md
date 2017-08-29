@@ -9,8 +9,7 @@ categories:
 - Specific Providers
 tags: []
 lang: de
-slug: /change-password-gmail-outlook-account/
-meta:
+permalink: /change-password-gmail-outlook-account/
 ---
 
 Für OAuth-Anbieter wie Gmail / Outlook, haben wir nicht das Passwort, um Ihre Privatsphäre zu verbessern, müssen Sie dies tun, indem Sie *Konten* \| *Tippen Sie auf Konto* \| *Konto bearbeiten* \| *Konto entfernen* und dann das Konto mit *Konten* \| wieder hinzufügen *Konto hinzufügen*. Es wird Sie zu Ihrem Provider OAuth Seite und sobald Sie Ihre neuen Anmeldeinformationen verwenden, sollte es für Sie arbeiten.

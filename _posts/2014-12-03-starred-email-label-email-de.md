@@ -9,8 +9,7 @@ categories:
 - Basic Actions
 tags: []
 lang: de
-slug: /starred-email-label-email/
-meta:
+permalink: /starred-email-label-email/
 ---
 
 Sie können bestimmte E-Mails als wichtig für Sie benennen, indem Sie sie markieren / markieren.

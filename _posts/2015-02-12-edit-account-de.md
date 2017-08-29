@@ -9,8 +9,7 @@ categories:
 - Settings
 tags: []
 lang: de
-slug: /edit-account/
-meta:
+permalink: /edit-account/
 ---
 
 Mit *Mehr ...* \| *Verschiedene Kontoeinstellungen* \| *Tippen Sie auf das Konto, das Sie bearbeiten möchten* \| **Konto bearbeiten**.

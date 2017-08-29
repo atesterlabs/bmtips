@@ -8,8 +8,7 @@ status: publish
 categories:
 - Menus &amp; Toolbars
 tags: []
-slug: /3-dot-menu-options/
-meta:
+permalink: /3-dot-menu-options/
 ---
 
 The 3-dot menu offers context-sensitive options.

@@ -9,8 +9,7 @@ categories:
 - Settings
 tags: []
 lang: de
-slug: /remove-contact-auto-complete/
-meta:
+permalink: /remove-contact-auto-complete/
 ---
 
 Um einen Kontakt von der automatischen Vervollständigung zu entfernen, tippen Sie bitte auf *Mehr ...* \| *Profil bearbeiten, Gruppen &amp; Kontakte* \| *Kontakte* \| *Suche nach Kontakt (en)*.

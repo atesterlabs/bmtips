@@ -8,8 +8,7 @@ status: publish
 categories:
 - Specific Providers
 tags: []
-slug: /gmails-all-mail-folder-bluemail/
-meta:
+permalink: /gmails-all-mail-folder-bluemail/
 ---
 
 Gmail has a default Archive folder called All Mail, which already pre-archives all mails. An Archive command for Gmail essentially removed the mail from Inbox and that's all (as it is already part of <i>All Mail</i>). This is Gmail specific behavior.

@@ -8,8 +8,7 @@ status: publish
 categories:
 - Accounts
 tags: []
-slug: /imap-pop3-provider-support-bluemail/
-meta:
+permalink: /imap-pop3-provider-support-bluemail/
 ---
 
 BlueMail supports POP3 providers in addition to IMAP ones.

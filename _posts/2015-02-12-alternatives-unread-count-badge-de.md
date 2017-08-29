@@ -9,8 +9,7 @@ categories:
 - Features &amp; Usability
 tags: []
 lang: de
-slug: /alternatives-unread-count-badge/
-meta:
+permalink: /alternatives-unread-count-badge/
 ---
 
 Um das ungelesene Count-Abzeichen für Geräte zu aktivieren, deren native Hersteller-Launcher noch nicht von BlueMail unterstützt werden, können Sie:

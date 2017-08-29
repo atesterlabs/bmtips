@@ -9,8 +9,7 @@ categories:
 - Accounts
 tags: []
 lang: de
-slug: /oauth-gmail/
-meta:
+permalink: /oauth-gmail/
 ---
 
 Um das Passwort auf Ihrem Google Mail-Konto zu aktualisieren oder zu ändern, tippen Sie einfach auf *Mehr ...* \| *Verschiedene Kontoeinstellungen* \| *Wählen Sie Ihr Google Mail-Konto* \| *Kennwort aktualisieren*

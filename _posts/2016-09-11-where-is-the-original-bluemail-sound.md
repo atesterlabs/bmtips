@@ -8,8 +8,7 @@ status: publish
 categories:
 - General
 tags: []
-slug: /where-is-the-original-bluemail-sound/
-meta:
+permalink: /where-is-the-original-bluemail-sound/
 ---
 
 If you love the older notification sound and would like to continue using it, simply <a href="//soundcloud.com/bluemail_app/incoming-mail">download it</a> to your device.</p>

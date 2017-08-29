@@ -9,7 +9,7 @@ categories:
 - Settings
 tags: []
 lang: de
-slug: /accounts-colors-blue-mail/
+permalink: /accounts-colors-blue-mail/
 ---
 
 Um visuell zu identifizieren, zu dem Konto jede E-Mail gehört, weisen wir eine Farbe pro Konto. Diese Farbe erscheint in Unified Inbox per Mail identifiziert Read (leer) / ungelesen (gefüllt) Zustand.

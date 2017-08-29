@@ -9,8 +9,7 @@ categories:
 - Troubleshooting
 tags: []
 lang: de
-slug: /remove-ews/
-meta:
+permalink: /remove-ews/
 ---
 
 Wir haben einige neue Verbesserungen der Exchange- und Office365-Unterstützung hinzugefügt, einschließlich Kalender- und Kontaktsynchronisierung.

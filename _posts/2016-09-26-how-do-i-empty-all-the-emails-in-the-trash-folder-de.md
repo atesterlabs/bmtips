@@ -9,8 +9,7 @@ categories:
 - General
 tags: []
 lang: de
-slug: /how-do-i-empty-all-the-emails-in-the-trash-folder/
-meta:
+permalink: /how-do-i-empty-all-the-emails-in-the-trash-folder/
 ---
 
 Um den Papierkorb zu entleeren, tippen Sie bitte auf das Papierkorb-Symbol in der rechten oberen Ecke und diese E-Mails werden gelöscht.

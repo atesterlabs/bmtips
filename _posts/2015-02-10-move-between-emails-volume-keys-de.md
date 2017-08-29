@@ -9,8 +9,7 @@ categories:
 - Features &amp; Usability
 tags: []
 lang: de
-slug: /move-between-emails-volume-keys/
-meta:
+permalink: /move-between-emails-volume-keys/
 ---
 
 Sie können die vorherige oder nächste E-Mail aus der aktuellen E-Mail-Ansicht mit:

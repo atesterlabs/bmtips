@@ -9,8 +9,7 @@ categories:
 - General
 tags: []
 lang: de
-slug: /what-happens-to-my-avatars-if-cluster-mode-is-enabled/
-meta:
+permalink: /what-happens-to-my-avatars-if-cluster-mode-is-enabled/
 ---
 
 Mit Cluster-Modus aktiviert, werden Avatare zum Leben erweckt, indem Sie eine intuitive Möglichkeit, jede E-Mail von diesem Absender zu navigieren. Es besteht keine Notwendigkeit, nach einem einzigen Absender zu suchen.

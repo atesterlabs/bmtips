@@ -9,8 +9,7 @@ categories:
 - Basic Actions
 tags: []
 lang: de
-slug: /send-email-with-high-priority/
-meta:
+permalink: /send-email-with-high-priority/
 ---
 
 Um eine E-Mail mit hoher Priorität zu versehen, drücke das 3-Punkt-Menü auf dem Compose-Bildschirm und wähle *Set High Priority*.

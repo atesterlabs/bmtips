@@ -1,7 +1,6 @@
 ---
 layout: post
-title: What is the Left Side Circle/Picture/Letters in Mail List View? How to Remove
-  Sender's Avatar/Image?
+title: What is the Left Side Circle/Picture/Letters in Mail List View? How to Remove Sender's Avatar/Image?
 date: 2014-12-03 10:10:55.000000000 +02:00
 type: post
 published: true
@@ -9,8 +8,7 @@ status: publish
 categories:
 - Features &amp; Usability
 tags: []
-slug: /left-side-circle/
-meta:
+permalink: /left-side-circle/
 ---
 
 This circle identifies the sender, called an *avatar*.

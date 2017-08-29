@@ -8,8 +8,7 @@ status: publish
 categories:
 - Troubleshooting
 tags: []
-slug: /exclude-bluemail-doze/
-meta:
+permalink: /exclude-bluemail-doze/
 ---
 
 Android 6 and 7 has some new features built into the OS which might affect performance some applications such as BlueMail.

@@ -8,8 +8,7 @@ status: publish
 categories:
 - Enhanced Features
 tags: []
-slug: /time-formats-supported/
-meta:
+permalink: /time-formats-supported/
 ---
 
 BlueMail support multiple date / time presentation options:

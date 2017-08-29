@@ -9,8 +9,7 @@ categories:
 - Getting Stuff Done
 tags: []
 lang: de
-slug: /reach-a-zero-inbox/
-meta:
+permalink: /reach-a-zero-inbox/
 ---
 
 Verwenden Sie [Snooze +](/mark-as-later/) und [Fertig](/mark-as-done/), um E-Mails später zu bearbeiten oder die Bearbeitung zu beenden, [Löschen](/delete-an-email-type-mail/) Und [Archive](/archive-emails-type-mail/) oder Reply and Forward - Ihr Werkzeuggürtel ist mit allen Wünschen ausgestattet. Viel Glück!

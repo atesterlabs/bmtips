@@ -8,8 +8,7 @@ status: publish
 categories:
 - Enhanced Features
 tags: []
-slug: /how-to-clear-cache-remove-old-emails-from-blue-mail/
-meta:
+permalink: /how-to-clear-cache-remove-old-emails-from-blue-mail/
 ---
 
 You can clear the cache by tapping *More...* \| *Global Settings* \| *Advanced Features* \| **Clear Cache**.

@@ -9,8 +9,7 @@ categories:
 - Settings
 tags: []
 lang: de
-slug: /default-folder-save-attachments/
-meta:
+permalink: /default-folder-save-attachments/
 ---
 
 In BlueMail können Sie den Standardordner festlegen, um Ihre Anhänge mit *Mehr ...* \| zu speichern *Globale Einstellungen* \| *Erweiterte Funktionen* \| *Default Download Pfad* Wähle deinen bevorzugten Ordner und *select*.

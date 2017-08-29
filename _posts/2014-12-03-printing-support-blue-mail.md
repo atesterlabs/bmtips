@@ -8,8 +8,7 @@ status: publish
 categories:
 - Features &amp; Usability
 tags: []
-slug: /printing-support-blue-mail/
-meta:
+permalink: /printing-support-blue-mail/
 ---
 
 ## Configuring Your Device to Print

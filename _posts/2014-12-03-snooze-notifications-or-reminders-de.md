@@ -9,8 +9,7 @@ categories:
 - Getting Stuff Done
 tags: []
 lang: de
-slug: /snooze-notifications-or-reminders/
-meta:
+permalink: /snooze-notifications-or-reminders/
 ---
 
 Sobald Sie einige E-Mails snoozed haben, erscheinen sie als Aufgaben mit der richtigen Zeit, sortiert nach Dringlichkeit. Wenn jede solche "Aufgabe" es erreicht hat, bekommst du eine Push-Benachrichtigung, auch Snooze genannt, als Erinnerung, damit du weißt, dass dies der richtige Zeitpunkt für dich war, um diese Mail zu behandeln und dir zu helfen, was du brauchst , In der Zeit, die Sie darum gebeten haben. So kannst du wirklich Dinge loslegen!

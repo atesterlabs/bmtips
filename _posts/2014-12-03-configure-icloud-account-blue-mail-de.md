@@ -9,7 +9,7 @@ categories:
 - Specific Providers
 tags: []
 lang: de
-slug: /configure-icloud-account-blue-mail/
+permalink: /configure-icloud-account-blue-mail/
 ---
 
 Um sich bei BlueClam bei iCloud anzumelden, musst du deine Apple ID E-Mail Adresse verwenden, z.B. [User@me.com](mailto:user@me.com) oder [user@icloud.com](mailto:user@icloud.com) oder welche Post wurde Ihnen von Apple gewährt.

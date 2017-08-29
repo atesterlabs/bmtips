@@ -9,8 +9,7 @@ categories:
 - A Feature Overview
 tags: []
 lang: de
-slug: /icon-reference-guide/
-meta:
+permalink: /icon-reference-guide/
 ---
 
 ### Tippen Sie auf das Symbol, um mehr zu erfahren

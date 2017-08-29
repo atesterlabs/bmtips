@@ -8,8 +8,7 @@ status: publish
 categories:
 - Folders
 tags: []
-slug: /folder-management-in-blue-mail/
-meta:
+permalink: /folder-management-in-blue-mail/
 ---
 
 To Create, Rename or Delete a Folder, tap *More...* \| *Accounts* \| *Choose Account* \| *Folder Management* and choose:

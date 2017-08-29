@@ -8,8 +8,7 @@ status: publish
 categories:
 - Settings
 tags: []
-slug: /show-compose-button/
-meta:
+permalink: /show-compose-button/
 ---
 
 You can enable or disable the option to always show the compose button, by using *More...* \| *Global Settings* \| *Customize Appearance* \| *check / uncheck Always show compose button*.

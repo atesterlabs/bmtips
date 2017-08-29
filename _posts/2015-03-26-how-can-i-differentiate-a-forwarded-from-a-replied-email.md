@@ -8,8 +8,7 @@ status: publish
 categories:
 - Enhanced Features
 tags: []
-slug: /how-can-i-differentiate-a-forwarded-from-a-replied-email/
-meta:
+permalink: /how-can-i-differentiate-a-forwarded-from-a-replied-email/
 ---
 
 Both Replied and Forwarded emails have arrows on the avatar / initials (on the top left corner):

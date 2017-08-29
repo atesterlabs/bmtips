@@ -9,8 +9,7 @@ categories:
 - Settings
 tags: []
 lang: de
-slug: /advanced-account-settings/
-meta:
+permalink: /advanced-account-settings/
 ---
 
 Um auf die erweiterten Einstellungen Ihres Kontos zuzugreifen, gehen Sie zu:

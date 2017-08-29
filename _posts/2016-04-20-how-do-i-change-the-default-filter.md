@@ -8,8 +8,7 @@ status: publish
 categories:
 - General
 tags: []
-slug: /how-do-i-change-the-default-filter/
-meta:
+permalink: /how-do-i-change-the-default-filter/
 ---
 
 By *default*, the *All* filter is preselected for you. If you wish to change the default filter when opening BlueMail, please tap *More...* \| *Global Settings* \| ***Default Filter*** and choose between All, Unread, Starred, or Incoming.

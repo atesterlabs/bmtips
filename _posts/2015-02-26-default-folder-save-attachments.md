@@ -8,8 +8,7 @@ status: publish
 categories:
 - Settings
 tags: []
-slug: /default-folder-save-attachments/
-meta:
+permalink: /default-folder-save-attachments/
 ---
 
 In BlueMail you can set the default folder to save your attachments using *More...* \| *Global Settings* \| *Advanced Features* \| *Default Download Path* choose your preferred folder and *select*.

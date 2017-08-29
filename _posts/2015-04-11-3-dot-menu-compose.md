@@ -8,8 +8,7 @@ status: publish
 categories:
 - Menus &amp; Toolbars
 tags: []
-slug: /3-dot-menu-compose/
-meta:
+permalink: /3-dot-menu-compose/
 ---
 
 On the top bar 3-dot menu in compose mode you have the following options:

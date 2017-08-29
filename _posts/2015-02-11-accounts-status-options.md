@@ -8,8 +8,8 @@ status: publish
 categories:
 - Accounts
 tags: []
-slug: /accounts-status-options/
-meta:
+permalink: /accounts-status-options/
+
 ---
 
 There are four different account's status options:

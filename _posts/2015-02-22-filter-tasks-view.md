@@ -8,8 +8,7 @@ status: publish
 categories:
 - Getting Stuff Done
 tags: []
-slug: /filter-tasks-view/
-meta:
+permalink: /filter-tasks-view/
 ---
 
 [Snooze](/mark-as-later/) filter and [Tasks](/what-are-tasks-type-mail/) view show all the snoozed emails. While *Snooze* filter works like a traditional filter on a mailbox, *Tasks* show a dedicated urgency view, with the most pressing emails on top, to let you focus on what matters.

@@ -9,8 +9,7 @@ categories:
 - Accounts
 tags: []
 lang: de
-slug: /list-of-providers-blue-mail/
-meta:
+permalink: /list-of-providers-blue-mail/
 ---
 
 Das Konto, das Sie wählen, sollte mit dem Anbieter Ihrer E-Mail übereinstimmen. Wenn Sie nicht sicher sind, welchen Provider Sie wählen möchten, wählen Sie *Andere*, geben Sie Ihren Benutzernamen und Ihr Passwort ein und BlueMail wird versuchen, sie automatisch für Sie zu finden.

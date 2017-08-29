@@ -9,8 +9,7 @@ categories:
 - General
 tags: []
 lang: de
-slug: /what-does-the-people-toggle-switch-do/
-meta:
+permalink: /what-does-the-people-toggle-switch-do/
 ---
 
 Der People-Schalter, der in der oberen rechten Ecke gefunden wird, ist eine schnelle und einfache Möglichkeit, Dienste aus der Mail-Liste zu verstecken. Mit einem Flip des Kippschalters sind alle Dienste aus der Mail-Liste verborgen, die nur E-Mails von Personen oder Gruppen hinterlässt. Durch das Verstecken von Diensten aus der Mail-Liste ist das Navigieren in Ihrem Posteingang viel einfacher und erlaubt Ihnen, die E-Mails zu finden, die Sie von den Personen benötigen, mit denen Sie sprechen möchten.

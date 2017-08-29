@@ -8,8 +8,7 @@ status: publish
 categories:
 - General
 tags: []
-slug: /enable-lock-screen/
-meta:
+permalink: /enable-lock-screen/
 ---
 
 In the event that your device is not in your immediate control, BlueMail has created the Lock Screen using both a PIN and fingerprint passcode to better safeguard your private emails.

@@ -9,8 +9,7 @@ categories:
 - Our New Features
 tags: []
 lang: de
-slug: /how-to-sync-your-accounts-between-multiple-devices-what-is-sms-verification/
-meta:
+permalink: /how-to-sync-your-accounts-between-multiple-devices-what-is-sms-verification/
 ---
 
 Mit BlueMail können Sie alle Ihre Konten sicher auf Ihre anderen oder neuen Geräte synchronisieren! Um es einfach und sicher zu machen, folgen Sie bitte den folgenden Schritten:

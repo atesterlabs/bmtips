@@ -8,8 +8,7 @@ status: publish
 categories:
 - General
 tags: []
-slug: /calendar-and-contact-sync-for-exchange-and-office-365/
-meta:
+permalink: /calendar-and-contact-sync-for-exchange-and-office-365/
 ---
 
 ![Sync](/assets/SES_Sync_v6.png){:width="350px"}

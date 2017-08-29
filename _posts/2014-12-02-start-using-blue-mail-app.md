@@ -7,7 +7,7 @@ published: true
 status: publish
 categories:
 - Accounts
-slug: /start-using-blue-mail/
+permalink: /start-using-blue-mail/
 ---
 
 

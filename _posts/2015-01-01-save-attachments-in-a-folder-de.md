@@ -9,8 +9,7 @@ categories:
 - Enhanced Features
 tags: []
 lang: de
-slug: /save-attachments-in-a-folder/
-meta:
+permalink: /save-attachments-in-a-folder/
 ---
 
 Um Ihre Anhänge in einem bestimmten Ordner zu speichern, tippen Sie auf den grauen Balken, um die Option Speichern unter zu öffnen.

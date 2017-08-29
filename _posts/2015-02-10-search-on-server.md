@@ -8,8 +8,7 @@ status: publish
 categories:
 - Basic Actions
 tags: []
-slug: /search-on-server/
-meta:
+permalink: /search-on-server/
 ---
 
 With BlueMail you can easily search by tapping the Magnifying Glass icon in the top bar icon, to locate specific emails using keywords.

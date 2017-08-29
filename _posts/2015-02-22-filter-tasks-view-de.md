@@ -9,8 +9,7 @@ categories:
 - Getting Stuff Done
 tags: []
 lang: de
-slug: /filter-tasks-view/
-meta:
+permalink: /filter-tasks-view/
 ---
 
 [Snooze](/mark-as-later/) -Filter und [Tasks](/what-are-tasks-type-mail/) Ansicht zeigen alle snoozed E-Mails. Während *Snooze* -Filter funktioniert wie ein traditioneller Filter auf einem Postfach, *Tasks* zeigen eine dedizierte Dringlichkeitsansicht, mit den dringendsten E-Mails an der Spitze, damit Sie sich konzentrieren, was zählt.

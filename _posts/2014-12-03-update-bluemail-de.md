@@ -9,8 +9,7 @@ categories:
 - Troubleshooting
 tags: []
 lang: de
-slug: /update-bluemail/
-meta:
+permalink: /update-bluemail/
 ---
 
 Nein, dafür gibt es keine Notwendigkeit. Die App wird automatisch alle zwei Wochen aktualisiert. Wenn der Auto-Download auf Ihrem Gerät deaktiviert ist, gehen Sie bitte zum Shop und überprüfen Sie nach Updates manuell.

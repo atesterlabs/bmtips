@@ -9,8 +9,7 @@ categories:
 - Enhanced Features
 tags: []
 lang: de
-slug: /reply-without-quoted-text/
-meta:
+permalink: /reply-without-quoted-text/
 ---
 
 Wenn Sie auf eine E-Mail antworten, tippen Sie auf das obere rechte Pfeil-Symbol unter dem Betreff für das Menü "Antwortoptionen" und wählen Sie **Neu**.

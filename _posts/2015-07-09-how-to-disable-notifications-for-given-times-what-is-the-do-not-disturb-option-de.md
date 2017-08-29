@@ -9,8 +9,7 @@ categories:
 - Push
 tags: []
 lang: de
-slug: /how-to-disable-notifications-for-given-times-what-is-the-do-not-disturb-option/
-meta:
+permalink: /how-to-disable-notifications-for-given-times-what-is-the-do-not-disturb-option/
 ---
 
 Sie können bestimmte Ruhezeiten auswählen, für die die Benachrichtigungen unterdrückt werden, um Ihren Wünschen zu entsprechen.

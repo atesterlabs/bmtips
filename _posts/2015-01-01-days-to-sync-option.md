@@ -9,8 +9,7 @@ status: publish
 categories:
 - Settings
 tags: []
-slug: /days-to-sync-option/
-meta:
+permalink: /days-to-sync-option/
 ---
 
 Days to Sync means the period for which emails are stored on your device for offline usage.

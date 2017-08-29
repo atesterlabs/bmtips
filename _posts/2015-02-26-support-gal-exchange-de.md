@@ -9,8 +9,7 @@ categories:
 - Specific Providers
 tags: []
 lang: de
-slug: /support-gal-exchange/
-meta:
+permalink: /support-gal-exchange/
 ---
 
 BlueMail unterstützt GAL (Globale Adressliste) für Exchange.

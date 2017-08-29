@@ -8,8 +8,7 @@ status: publish
 categories:
 - Basic Actions
 tags: []
-slug: /forward-emails/
-meta:
+permalink: /forward-emails/
 ---
 
 You can Forward an email with these methods:

@@ -8,8 +8,7 @@ status: publish
 categories:
 - Menus &amp; Toolbars
 tags: []
-slug: /bottom-bar-icons/
-meta:
+permalink: /bottom-bar-icons/
 ---
 
 Below are the bottom bar icons and their description:

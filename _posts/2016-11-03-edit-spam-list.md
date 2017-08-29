@@ -8,8 +8,7 @@ status: publish
 categories:
 - General
 tags: []
-slug: /edit-spam-list/
-meta:
+permalink: /edit-spam-list/
 ---
 
 To view or edit the Block List in *BlueMail* please tap *More...* \| *Various Account Settings* \| *select the account* \| *Block List* \| then you can see the Addresses or Domains that will be sent to the Spam folder.

@@ -9,8 +9,7 @@ categories:
 - Basic Actions
 tags: []
 lang: de
-slug: /navigate-between-folders/
-meta:
+permalink: /navigate-between-folders/
 ---
 
 Um die Ordner für Ihr aktuelles Konto anzuzeigen, tippen Sie bitte auf die obere linke Ecke und ein Panel mit der Ordnerliste wird unter dem Namen des Kontos angezeigt. Sie können auch das Panel sehen, indem Sie vom mittleren linken Rand des Bildschirms ausschieben.

@@ -8,8 +8,7 @@ status: publish
 categories:
 - Getting Stuff Done
 tags: []
-slug: /get-stuff-done/
-meta:
+permalink: /get-stuff-done/
 ---
 
 ## How Can BlueMail Help Me Get Stuff Done?

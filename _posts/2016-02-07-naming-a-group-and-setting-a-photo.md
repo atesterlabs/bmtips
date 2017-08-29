@@ -8,8 +8,7 @@ status: publish
 categories:
 - Groups
 tags: []
-slug: /naming-a-group-and-setting-a-photo/
-meta:
+permalink: /naming-a-group-and-setting-a-photo/
 ---
 
 To edit the Group Name and Photo, tap on the Group Icon.

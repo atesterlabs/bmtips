@@ -8,8 +8,7 @@ status: publish
 categories:
 - Enhanced Features
 tags: []
-slug: /myself-bcc-automatically/
-meta:
+permalink: /myself-bcc-automatically/
 ---
 
 To set this option, please tap *More...* \| *Various Account Settings* \| *choose account* \| *Advanced Account Settings* \| *Always BCC* \| *Enter your own address*.

@@ -8,8 +8,7 @@ status: publish
 categories:
 - Enhanced Features
 tags: []
-slug: /show-next-after-deleting/
-meta:
+permalink: /show-next-after-deleting/
 ---
 
 You can set the behavior after deleting an email using *More...* \| *Global Settings* \| *Advanced Features* \| *Show after Deleting a Message:*

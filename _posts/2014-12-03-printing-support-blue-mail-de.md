@@ -9,8 +9,7 @@ categories:
 - Features &amp; Usability
 tags: []
 lang: de
-slug: /printing-support-blue-mail/
-meta:
+permalink: /printing-support-blue-mail/
 ---
 
 ## Konfigurieren des Geräts zum Drucken

@@ -9,8 +9,7 @@ categories:
 - Enhanced Features
 tags: []
 lang: de
-slug: /how-to-set-vibrations-on-notifications/
-meta:
+permalink: /how-to-set-vibrations-on-notifications/
 ---
 
 Um auf Vibrations-Setup pro Konto zuzugreifen, gehen Sie zu *Mehr ...* \| *Benachrichtigungen* \| *Blättern Sie zu dem Konto* \| *Sound \| Vibrieren \| LED* \| *Vibrieren*

@@ -8,7 +8,7 @@ status: publish
 categories:
 - Settings
 tags: []
-slug: /change-font-size-blue-mail/
+permalink: /change-font-size-blue-mail/
 ---
 
 BlueMail allows you to customize the font sizes.

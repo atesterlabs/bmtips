@@ -8,8 +8,7 @@ status: publish
 categories:
 - Features &amp; Usability
 tags: []
-slug: /alternatives-unread-count-badge/
-meta:
+permalink: /alternatives-unread-count-badge/
 ---
 
 To enable unread count badge for devices whose native manufacturer launcher are not yet supported by BlueMail, you may:

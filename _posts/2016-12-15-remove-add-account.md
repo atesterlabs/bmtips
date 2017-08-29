@@ -8,8 +8,7 @@ status: publish
 categories:
 - General
 tags: []
-slug: /remove-add-account/
-meta:
+permalink: /remove-add-account/
 ---
 
 ## Remove an Account

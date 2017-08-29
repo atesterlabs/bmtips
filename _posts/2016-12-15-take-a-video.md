@@ -8,8 +8,7 @@ status: publish
 categories:
 - General
 tags: []
-slug: /take-a-video/
-meta:
+permalink: /take-a-video/
 ---
 
 If a picture is worth 1,000 words, a video is priceless. Whether you want to show your friends a cool new BlueMail feature, or show our support team an interesting issue, using a screen recording is one of the most effective tools to do so.

@@ -8,8 +8,7 @@ status: publish
 categories:
 - General
 tags: []
-slug: /lets-get-tasks-done/
-meta:
+permalink: /lets-get-tasks-done/
 ---
 
 Until now, emails had to be dealt with right away, or you’d risk forgetting about them. Now with [BlueMail](http://bluemail.me) you can take care of emails later without the hassle of complex mailbox rules.

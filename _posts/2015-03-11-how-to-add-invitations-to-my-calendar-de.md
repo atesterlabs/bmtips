@@ -8,9 +8,8 @@ status: publish
 categories:
 - Features &amp; Usability
 tags: []
-meta:
 lang: de
-slug: /how-to-add-invitations-to-my-calendar/
+permalink: /how-to-add-invitations-to-my-calendar/
 ---
 
 BlueMail unterstützt die Integration von .ics-Datei-Einladungen, indem es Ihnen erlaubt, Ereignisse zu Ihrer lokalen Kalenderanwendung hinzuzufügen.

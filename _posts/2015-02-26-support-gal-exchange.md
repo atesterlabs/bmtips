@@ -8,8 +8,7 @@ status: publish
 categories:
 - Specific Providers
 tags: []
-slug: /support-gal-exchange/
-meta:
+permalink: /support-gal-exchange/
 ---
 
 BlueMail supports GAL (Global Address List) for Exchange.

@@ -8,8 +8,7 @@ status: publish
 categories:
 - A Feature Overview
 tags: []
-slug: /icon-reference-guide/
-meta:
+permalink: /icon-reference-guide/
 ---
 
 ### Tap Where The Icon is Located to Learn More

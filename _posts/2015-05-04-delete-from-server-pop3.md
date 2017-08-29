@@ -8,8 +8,7 @@ status: publish
 categories:
 - Accounts
 tags: []
-slug: /delete-from-server-pop3/
-meta:
+permalink: /delete-from-server-pop3/
 ---
 
 BlueMail currently allows you to leave emails on the provider's server for POP3 accounts, as well as delete them in various circumstances.

@@ -8,8 +8,7 @@ status: publish
 categories:
 - Accounts
 tags: []
-meta:
 lang: de
-slug: /delete-an-account-blue-mail/
+permalink: /delete-an-account-blue-mail/
 ---
 Mit *Mehr ...* \| *Verschiedene Kontoeinstellungen* \| *Tippen Sie auf das Konto, das Sie bearbeiten möchten* \| **Konto bearbeiten**.

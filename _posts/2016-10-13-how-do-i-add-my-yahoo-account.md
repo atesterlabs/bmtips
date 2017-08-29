@@ -9,8 +9,7 @@ categories:
 - Accounts
 - Specific Providers
 tags: []
-slug: /how-do-i-add-my-yahoo-account/
-meta:
+permalink: /how-do-i-add-my-yahoo-account/
 ---
 
 During 2016 Yahoo rolled out OAuth 2.0 - a new superior way to authenticate and we are happy they joined Gmail & Outlook to support this secure authentication standard.

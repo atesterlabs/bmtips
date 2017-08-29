@@ -9,8 +9,7 @@ categories:
 - Accounts
 tags: []
 lang: de
-slug: /change-account-to-unified-inbox/
-meta:
+permalink: /change-account-to-unified-inbox/
 ---
 
 Sie können die Kontenauswahl in der oberen Mitte auswählen oder die obere linke Ecke tippen und dann Ihr Konto aus dem Dropdown-Menü auswählen, wenn das linke Schubladenfenster geöffnet wird. Sie können auch sehen, dass Panel durch Swiping von der Mitte linken Rand des Bildschirms.

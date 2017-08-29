@@ -9,8 +9,7 @@ categories:
 - Troubleshooting
 tags: []
 lang: de
-slug: /see-status-sent-messages/
-meta:
+permalink: /see-status-sent-messages/
 ---
 
 An der Oberseite der E-Mail-Liste haben Sie ein Suchfeld, unter diesem Feld sehen Sie eine Live-Statusleiste. Wenn du eine E-Mail schickst, kannst du den Live-Status sehen.

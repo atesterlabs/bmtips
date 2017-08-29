@@ -9,8 +9,7 @@ categories:
 - Basic Actions
 tags: []
 lang: de
-slug: /logout-sign-out-blue-mail/
-meta:
+permalink: /logout-sign-out-blue-mail/
 ---
 
 Moderne E-Mail-Lösungen unterstützen mehrere Geräte und die Möglichkeit, gleichzeitig auf Ihre E-Mails zuzugreifen und sich unnötig zu machen. Wenn du BlueMail ausschalten willst, tippe einfach auf die Home-Taste und schiebe BlueMail seitwärts.

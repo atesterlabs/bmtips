@@ -9,8 +9,7 @@ categories:
 - Groups
 tags: []
 lang: de
-slug: /suggested-groups/
-meta:
+permalink: /suggested-groups/
 ---
 
 Vorgeschlagene Gruppen sind Gruppen, die noch nicht vollständig definiert sind, z.B. Ohne Namen oder Avatar. Sie werden unter der Registerkarte Vorgeschlagene Gruppe angezeigt.

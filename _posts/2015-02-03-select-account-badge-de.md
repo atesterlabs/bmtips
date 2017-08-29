@@ -9,8 +9,7 @@ categories:
 - Accounts
 tags: []
 lang: de
-slug: /select-account-badge/
-meta:
+permalink: /select-account-badge/
 ---
 
 Für Geräte, die Abzeichen auf dem App-Symbol unterstützen, können Sie das E-Mail-Konto für Abzeichen mit *Mehr ...* \| auswählen *Globale Einstellungen* \| *Ungelesener Zähler* \| **App Badge Number** und wähle dein gewünschtes Konto aus.

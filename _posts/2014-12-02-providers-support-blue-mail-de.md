@@ -9,7 +9,7 @@ categories:
 - Accounts
 tags: []
 lang: de
-slug: /providers-support-blue-mail/
+permalink: /providers-support-blue-mail/
 ---
 BlueMail unterstützt Gmail, Yahoo, Office 365, Outlook / Hotmail / Live, AOL und iCloud; sowie viele andere IMAP-Provider Andere E-Mail-Einstellung verwenden, wie zum Beispiel: Yandex, Mail.ru, GMX, mail.com, Hushmail, Zoho, Web.de, QIP, und schweifen.
 

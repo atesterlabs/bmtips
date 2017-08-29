@@ -8,8 +8,7 @@ status: publish
 categories:
 - General
 tags: []
-slug: /what-does-the-people-toggle-switch-do/
-meta:
+permalink: /what-does-the-people-toggle-switch-do/
 ---
 
 The People toggle switch found in the upper right-hand corner is a quick and easy way to hide Services from the mail list. With a flip of the toggle switch, all services are hidden from the mail list leaving only emails from People or Groups. By hiding Services from the mail list, navigating your inbox is much easier and allows you to find the emails you need from the people you want to talk to.

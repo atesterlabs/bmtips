@@ -8,8 +8,7 @@ status: publish
 categories:
 - Accounts
 tags: []
-slug: /bluemail-adding-a-gmail-account/
-meta:
+permalink: /bluemail-adding-a-gmail-account/
 ---
 
 In this episode of *Making BlueMail Work For You*, we learn how to add a Gmail account.

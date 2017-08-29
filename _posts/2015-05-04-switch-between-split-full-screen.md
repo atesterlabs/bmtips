@@ -8,8 +8,7 @@ status: publish
 categories:
 - Enhanced Features
 tags: []
-slug: /switch-between-split-full-screen/
-meta:
+permalink: /switch-between-split-full-screen/
 ---
 
 For tablets, on the top right of your screen in BlueMail, you can tap the 2 arrows icon, this will switch between a split view to your main inbox list view

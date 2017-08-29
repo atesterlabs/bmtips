@@ -9,8 +9,7 @@ categories:
 - Specific Providers
 tags: []
 lang: de
-slug: /spam-folder-in-yahoo-bluemail/
-meta:
+permalink: /spam-folder-in-yahoo-bluemail/
 ---
 
 Yahoo! Verwendet einen Ordner namens * Bulk Mail * anstelle von Spam für den gleichen Zweck.

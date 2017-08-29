@@ -9,8 +9,7 @@ categories:
 - General
 tags: []
 lang: de
-slug: /edit-a-contact/
-meta:
+permalink: /edit-a-contact/
 ---
 
 Um die Einstellungen eines Kontakts in BlueMail zu bearbeiten, tippen Sie auf *Mehr ...* \| *Profil bearbeiten, Gruppen &amp; Kontakte* \| *Tippen Sie auf die Registerkarte Personen* \| *Wählen Sie den Kontakt* Sie möchten Einstellungen für bearbeiten.

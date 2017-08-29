@@ -9,8 +9,7 @@ categories:
 - Troubleshooting
 tags: []
 lang: de
-slug: /emails-missing-from-blue-mail/
-meta:
+permalink: /emails-missing-from-blue-mail/
 ---
 
 Es gibt paar Richtungen, die fehlende E-Mails verursachen können:

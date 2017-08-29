@@ -8,8 +8,7 @@ status: publish
 categories:
 - Troubleshooting
 tags: []
-slug: /send-receive-encrypted-messages/
-meta:
+permalink: /send-receive-encrypted-messages/
 ---
 
 To send an encrypted message you must have the recipient’s public key. To receive an decrypt an encrypted message it must originally be encrypted using your public key.

@@ -9,8 +9,7 @@ categories:
 - General
 tags: []
 lang: de
-slug: /yahoo-2-step-verification-login/
-meta:
+permalink: /yahoo-2-step-verification-login/
 ---
 
 Sie werden glücklich sein zu wissen, dass Yahoo eine Funktion hat, damit Sie sich bei BlueMail anmelden können, falls Sie eine 2-stufige Überprüfung aktiviert haben!

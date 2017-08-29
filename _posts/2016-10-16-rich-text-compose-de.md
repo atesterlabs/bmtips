@@ -9,8 +9,7 @@ categories:
 - Menus &amp; Toolbars
 tags: []
 lang: de
-slug: /rich-text-compose/
-meta:
+permalink: /rich-text-compose/
 ---
 
 Um das Aussehen der ausgehenden E-Mails in BlueMail zu ändern, tippen Sie bitte auf das graue Rechteck mit einem Pfeil-Symbol, das sich direkt unterhalb und rechts neben der Betreffzeile befindet.

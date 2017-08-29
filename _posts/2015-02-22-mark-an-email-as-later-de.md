@@ -9,8 +9,7 @@ categories:
 - Getting Stuff Done
 tags: []
 lang: de
-slug: /mark-an-email-as-later/
-meta:
+permalink: /mark-an-email-as-later/
 ---
 
 ![Later](/assets/ic_action_later-.png){:width="100px"}

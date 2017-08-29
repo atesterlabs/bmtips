@@ -8,8 +8,7 @@ status: publish
 categories:
 - Features &amp; Usability
 tags: []
-slug: /move-between-emails-volume-keys/
-meta:
+permalink: /move-between-emails-volume-keys/
 ---
 
 You can get to previous or next email from the current email view using:

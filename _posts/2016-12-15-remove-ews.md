@@ -8,8 +8,7 @@ status: publish
 categories:
 - Troubleshooting
 tags: []
-slug: /remove-ews/
-meta:
+permalink: /remove-ews/
 ---
 
 We have added some new enhancements to Exchange and Office365 support, including calendar and contact sync.

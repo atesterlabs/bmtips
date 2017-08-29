@@ -8,15 +8,15 @@ status: publish
 categories:
 - Troubleshooting
 tags: []
-meta:
 lang: de
-slug: /take-video-screencast-device/
+permalink: /take-video-screencast-device/
+
 ---
 
 Um ein Video / Screencast zu senden, kannst du eine Bildschirmschoner App verwenden.
 
 Wenn Ihr Gerät Lollipop ist, können Sie diese App verwenden, um Ihren Bildschirm aufzunehmen:
-Https://play.google.com/store/apps/details?id=com.rivulus.screenrecording
+[https://play.google.com/store/apps/details?id=com.rivulus.screenrecording]( https://play.google.com/store/apps/details?id=com.rivulus.screenrecording)
 
 Alternativ können Sie einen Screencast mit der AZ Screen Recorder App machen:
-https://play.google.com/store/apps/details?id=com.hecorat.screenrecorder.free
+[https://play.google.com/store/apps/details?id=com.hecorat.screenrecorder.free]( https://play.google.com/store/apps/details?id=com.hecorat.screenrecorder.free)

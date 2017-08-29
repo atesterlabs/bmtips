@@ -9,8 +9,7 @@ categories:
 - Folders
 tags: []
 lang: de
-slug: /drafts-emails-blue-mail/
-meta:
+permalink: /drafts-emails-blue-mail/
 ---
 
 Entwürfe für E-Mail, die Sie komponieren, aber noch nicht gesendet (entweder wegen nicht mit Internetverbindung oder anderen Grund), werden gehalten.

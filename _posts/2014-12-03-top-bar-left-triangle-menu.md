@@ -8,8 +8,7 @@ status: publish
 categories:
 - Getting Stuff Done
 tags: []
-slug: /top-bar-left-triangle-menu/
-meta:
+permalink: /top-bar-left-triangle-menu/
 ---
 
 *Filters* allow you to quickly find messages important to you from your contacts, services, and even messages that you haven’t read.

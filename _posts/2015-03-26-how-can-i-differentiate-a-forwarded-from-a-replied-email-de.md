@@ -9,8 +9,8 @@ categories:
 - Enhanced Features
 tags: []
 lang: de
-slug: /how-can-i-differentiate-a-forwarded-from-a-replied-email/
-meta:
+permalink: /how-can-i-differentiate-a-forwarded-from-a-replied-email/
+
 ---
 
 Beide Antworten und weitergeleitete E-Mails haben Pfeile auf den Avatar / Initialen (oben links):

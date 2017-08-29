@@ -9,8 +9,7 @@ categories:
 - General
 tags: []
 lang: de
-slug: /lets-get-tasks-done/
-meta:
+permalink: /lets-get-tasks-done/
 ---
 
 Bisher mussten E-Mails sofort bearbeitet werden, oder man riskiert, sie zu vergessen. Jetzt mit [BlueMail](http://bluemail.me) können Sie sich um E-Mails später ohne die Mühe von komplexen Postfachregeln kümmern.

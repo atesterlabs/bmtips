@@ -8,8 +8,7 @@ status: publish
 categories:
 - Troubleshooting
 tags: []
-slug: /my-unread-count-is-incorrect-how-to-reset-the-unread-count-for-badge/
-meta:
+permalink: /my-unread-count-is-incorrect-how-to-reset-the-unread-count-for-badge/
 ---
 
 To reset the unread count for the badge on the app icon, go to *More...* \| *Global Settings* \| *Unread Count* \| *Reset Unread Number* \| **OK**.

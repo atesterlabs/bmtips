@@ -8,9 +8,8 @@ status: publish
 categories:
 - Menus &amp; Toolbars
 tags: []
-meta:
 lang: de
-slug: /3-dot-menu-options/
+permalink: /3-dot-menu-options/
 ---
 
 Das 3-Punkt-Menü bietet kontextsensitive Optionen.

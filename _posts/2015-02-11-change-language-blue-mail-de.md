@@ -9,8 +9,7 @@ categories:
 - Basic Actions
 tags: []
 lang: de
-slug: /change-language-blue-mail/
-meta:
+permalink: /change-language-blue-mail/
 ---
 
 BlueMail verwendet Ihre Telefonsprache, um die Sprache in BlueMail zu ändern

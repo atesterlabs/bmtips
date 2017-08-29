@@ -8,8 +8,7 @@ status: publish
 categories:
 - Basic Actions
 tags: []
-slug: /starred-email-label-email/
-meta:
+permalink: /starred-email-label-email/
 ---
 
 You can designate specific emails as important to you by starring / flagging them.

@@ -9,8 +9,7 @@ categories:
 - Groups
 tags: []
 lang: de
-slug: /creating-a-group/
-meta:
+permalink: /creating-a-group/
 ---
 
 Es gibt drei Möglichkeiten, eine neue Gruppe zu schaffen:

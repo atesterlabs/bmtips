@@ -9,8 +9,7 @@ categories:
 - Accounts
 tags: []
 lang: de
-slug: /configure-account-manually/
-meta:
+permalink: /configure-account-manually/
 ---
 
 Sie können Ihr Konto manuell hinzufügen, indem Sie auf *Mehr ...* \| *Verschiedene Kontoeinstellungen* \| *Konto hinzufügen (+)* \| *Anderes Konto hinzufügen* \| *Andere E-Mail*, dann folgen Sie diesen Schritten:

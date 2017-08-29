@@ -9,8 +9,7 @@ categories:
 - General
 tags: []
 lang: de
-slug: /windows-pc-client/
-meta:
+permalink: /windows-pc-client/
 ---
 
 Ja, wir arbeiten an einem Desktop-Client - BlueMail für Windows PC wird in naher Zukunft verfügbar sein.

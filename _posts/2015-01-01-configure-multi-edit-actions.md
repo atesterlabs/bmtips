@@ -8,8 +8,7 @@ status: publish
 categories:
 - Settings
 tags: []
-slug: /configure-multi-edit-actions/
-meta:
+permalink: /configure-multi-edit-actions/
 ---
 
 {: .center}

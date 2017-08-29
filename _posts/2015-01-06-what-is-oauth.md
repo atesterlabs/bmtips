@@ -8,8 +8,7 @@ status: publish
 categories:
 - Accounts
 tags: []
-slug: /what-is-oauth/
-meta:
+permalink: /what-is-oauth/
 ---
 
 BlueMail uses the highest privacy &amp; security authentication available for your provider.

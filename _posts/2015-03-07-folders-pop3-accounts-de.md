@@ -9,8 +9,7 @@ categories:
 - Accounts
 tags: []
 lang: de
-slug: /folders-pop3-accounts/
-meta:
+permalink: /folders-pop3-accounts/
 ---
 
 POP3-Konten synchronisieren keine Ordner mit Ihrem Server.

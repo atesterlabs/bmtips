@@ -9,8 +9,7 @@ categories:
 - Features &amp; Usability
 tags: []
 lang: de
-slug: /pictures-of-services-blue-mail/
-meta:
+permalink: /pictures-of-services-blue-mail/
 ---
 
 Einige der Absender sind gemeinsame Dienste und nicht Leute. BlueMail markiert die für dich, so dass du schnell vermeiden kannst, die du jetzt nicht interessiert hast.

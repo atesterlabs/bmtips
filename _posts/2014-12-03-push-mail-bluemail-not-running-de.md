@@ -9,8 +9,7 @@ categories:
 - Push
 tags: []
 lang: de
-slug: /push-email-bluemail-not-running/
-meta:
+permalink: /push-email-bluemail-not-running/
 ---
 
 Ja du wirst! Diese heißen Push-Benachrichtigungen und BlueMail unterstützt sie für alle Anbieter, die diese Technologie ermöglichen.

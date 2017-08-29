@@ -8,8 +8,7 @@ status: publish
 categories:
 - Settings
 tags: []
-slug: /configure-left-right-swipe-menu/
-meta:
+permalink: /configure-left-right-swipe-menu/
 ---
 
 # Configuring the Dual Swipe Menu

@@ -9,8 +9,7 @@ categories:
 - Troubleshooting
 tags: []
 lang: de
-slug: /provide-feedback/
-meta:
+permalink: /provide-feedback/
 ---
 
 Sie können Feedback direkt von BlueMail mit *More *\| ***Feedback senden*** oder das oberste 3-Punkt-Menü in deiner Listenansicht.

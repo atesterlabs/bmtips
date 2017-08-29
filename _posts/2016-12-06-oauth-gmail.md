@@ -8,8 +8,7 @@ status: publish
 categories:
 - Accounts
 tags: []
-slug: /oauth-gmail/
-meta:
+permalink: /oauth-gmail/
 ---
 
 To update or change the password on your Gmail account, simply tap *More...* \| *Various Account Settings* \| *Select your Gmail account* \| *Update Password*

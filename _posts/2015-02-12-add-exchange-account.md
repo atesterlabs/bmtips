@@ -8,8 +8,7 @@ status: publish
 categories:
 - Accounts
 tags: []
-slug: /add-exchange-account/
-meta:
+permalink: /add-exchange-account/
 ---
 
 BlueMail supports both Exchange ActiveSync (EAS) and Exchange Web Services (EWS).

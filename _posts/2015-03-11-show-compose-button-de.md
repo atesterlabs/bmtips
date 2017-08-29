@@ -9,8 +9,7 @@ categories:
 - Settings
 tags: []
 lang: de
-slug: /show-compose-button/
-meta:
+permalink: /show-compose-button/
 ---
 
 Sie können die Option aktivieren oder deaktivieren, um immer die Schaltfläche "Compose" anzuzeigen, indem Sie *Mehr ...* \| verwenden *Globale Einstellungen* \| *Anpassen des Aussehens* \| *Check / uncheck Immer show compose button* anzeigen.

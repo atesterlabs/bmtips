@@ -9,8 +9,7 @@ categories:
 - General
 tags: []
 lang: de
-slug: /edit-spam-list/
-meta:
+permalink: /edit-spam-list/
 ---
 
 Um die Blockliste in * BlueMail zu sehen oder zu bearbeiten, tippen Sie bitte auf *Mehr ...* \| *Verschiedene Kontoeinstellungen* \| *Wähle das Konto* \| *Blockliste* \| Dann können Sie die Adressen oder Domains sehen, die an den Spam-Ordner gesendet werden.

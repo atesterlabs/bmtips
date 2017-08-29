@@ -8,8 +8,7 @@ status: publish
 categories:
 - Settings
 tags: []
-slug: /advanced-account-settings/
-meta:
+permalink: /advanced-account-settings/
 ---
 
 To access your Account's Advanced Settings, go to:

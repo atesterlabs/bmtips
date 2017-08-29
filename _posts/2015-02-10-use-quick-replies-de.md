@@ -3,14 +3,13 @@ layout: post
 title: Was sind schnelle Antworten?
 date: 2015-02-10 17:27:28.000000000 +02:00
 type: post
-Veröffentlicht: true
+published: true
 status: publish
 categories:
 - Enhanced Features
 tags: []
 lang: de
-slug: /use-quick-replies/
-meta:
+permalink: /use-quick-replies/
 ---
 
 Um schnelle Antworten zu verwenden, in deiner Haupt-Posteingangsliste sehen bitte *die Post nach rechts verschieben* \| *Wählen Sie 'Mehr +'* \| **Schnellantwort** (unten)

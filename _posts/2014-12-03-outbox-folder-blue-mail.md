@@ -8,8 +8,7 @@ status: publish
 categories:
 - Folders
 tags: []
-slug: /outbox-folder-blue-mail/
-meta:
+permalink: /outbox-folder-blue-mail/
 ---
 
 When you send an email it will be delivered according to the network connectivity and recipient mail system availability. Until the email has been fully delivered, it will remain in Outbox. If you lose connection BlueMail will automatically attempt to resend once the connection is regained. Once the mail is sent it will move to Sent and Outbox will be cleared from this mail.

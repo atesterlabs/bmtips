@@ -8,8 +8,7 @@ status: publish
 categories:
 - Features &amp; Usability
 tags: []
-slug: /different-account-to-send-from/
-meta:
+permalink: /different-account-to-send-from/
 ---
 
 With BlueMail you can compose an email and choose any of your accounts as the sender. In order to change the sender address, Compose or Reply to an email and tap on the sender address to change it.

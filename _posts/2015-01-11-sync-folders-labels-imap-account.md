@@ -8,8 +8,7 @@ status: publish
 categories:
 - Folders
 tags: []
-slug: /sync-folders-labels-imap-account/
-meta:
+permalink: /sync-folders-labels-imap-account/
 ---
 
 BlueMail shows all IMAP folders of your account as they exist on your Provider's Server.

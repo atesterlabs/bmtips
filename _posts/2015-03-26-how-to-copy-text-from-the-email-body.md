@@ -8,8 +8,7 @@ status: publish
 categories:
 - Basic Actions
 tags: []
-slug: /how-to-copy-text-from-the-email-body/
-meta:
+permalink: /how-to-copy-text-from-the-email-body/
 ---
 
 To copy text use standard Android capability for that: Long tap the text, and when the text is highlighted you can see on the top bar a button of two rectangles, if you tap that button the highlight text will be copied to your clipboard.

@@ -9,8 +9,7 @@ categories:
 - Folders
 tags: []
 lang: de
-slug: /sync-folders-labels-imap-account/
-meta:
+permalink: /sync-folders-labels-imap-account/
 ---
 
 BlueMail zeigt alle IMAP-Ordner Ihres Kontos an, wie sie auf dem Server Ihres Providers vorhanden sind.

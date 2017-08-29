@@ -9,8 +9,7 @@ categories:
 - Specific Providers
 tags: []
 lang: de
-slug: /app-specific-password-icloud/
-meta:
+permalink: /app-specific-password-icloud/
 ---
 
 Ab dem 15. Juni 2017 benötigt Apple iCloud-Benutzer (@icloud.com, @me.com oder @mac.com), um ein app-spezifisches Passwort zu erstellen, um sich bei BlueMail anzumelden.

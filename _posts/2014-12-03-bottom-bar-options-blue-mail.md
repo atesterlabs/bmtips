@@ -8,7 +8,7 @@ status: publish
 categories:
 - Menus &amp; Toolbars
 tags: []
-slug: /bottom-bar-options-blue-mail/
+permalink: /bottom-bar-options-blue-mail/
 ---
 
 Within an email you have a bottom bar with the following icons:

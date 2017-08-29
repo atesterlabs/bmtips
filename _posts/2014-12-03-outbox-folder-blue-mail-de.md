@@ -9,8 +9,7 @@ categories:
 - Folders
 tags: []
 lang: de
-slug: /outbox-folder-blue-mail/
-meta:
+permalink: /outbox-folder-blue-mail/
 ---
 
 Wenn Sie eine E-Mail senden, wird sie nach der Netzwerkkonnektivität und der Verfügbarkeit des Empfängersystems geliefert. Bis die E-Mail vollständig ausgeliefert wurde, bleibt sie im Postausgang. Wenn Sie die Verbindung verlieren, wird BlueMail automatisch versuchen, erneut zu senden, sobald die Verbindung wiederhergestellt ist. Sobald die Post gesendet wird, wird es zu Sent verschoben und Outbox wird von dieser Mail gelöscht.

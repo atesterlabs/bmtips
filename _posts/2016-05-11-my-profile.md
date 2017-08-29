@@ -9,8 +9,7 @@ categories:
 - A Feature Overview
 - Our New Features
 tags: []
-slug: /my-profile/
-meta:
+permalink: /my-profile/
 ---
 
 BlueMail enables you to add your own photo for each of your accounts. This is a great way to associate your official photo with your business account while having a fun photo associated with your personal account or any additional accounts you have on BlueMail

@@ -9,8 +9,7 @@ categories:
 - Settings
 tags: []
 lang: de
-slug: /customizing-notifications/
-meta:
+permalink: /customizing-notifications/
 ---
 
 Benachrichtigungen verwenden die Benachrichtigungsleiste und zeigen eine kurze Vorschau der E-Mail. Sie können jedes Konto anpassen, um ein anderes Benachrichtigungsschema zu haben, z.B. Haben unterschiedliche Optionen für arbeitsbezogene Konten und persönliche / familiäre Konten.

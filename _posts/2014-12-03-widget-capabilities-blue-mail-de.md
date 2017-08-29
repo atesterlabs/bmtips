@@ -9,8 +9,7 @@ categories:
 - Features &amp; Usability
 tags: []
 lang: de
-slug: /widget-capabilities-blue-mail/
-meta:
+permalink: /widget-capabilities-blue-mail/
 ---
 
 Die aktuelle Version von BlueMail unterstützt ein paar Arten von Widgets.

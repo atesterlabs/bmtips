@@ -8,8 +8,7 @@ status: publish
 categories:
 - Accounts
 tags: []
-slug: /sync-options-blue-mail/
-meta:
+permalink: /sync-options-blue-mail/
 ---
 
 To view or change the synchronization settings, go to:

@@ -8,8 +8,7 @@ status: publish
 categories:
 - Settings
 tags: []
-slug: /how-to-customize-the-led-notifications/
-meta:
+permalink: /how-to-customize-the-led-notifications/
 ---
 
 The blinking LED light is used to notify you when a new email was received. You can customize the LED notifications by following these steps: *More...* \| *Notifications* \| *Scroll to the account* \| *Sound\|Vibrate\|LED* \| *Enable LED Light (Enable/Disable LED notifications)* \| *Notification LED Color* (Customize the LED notification color)*. Enjoy the rainbow!

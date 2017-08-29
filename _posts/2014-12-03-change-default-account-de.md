@@ -9,7 +9,7 @@ categories:
 - Accounts
 tags: []
 lang: de
-slug: /change-default-account/
+permalink: /change-default-account/
 ---
 
 Sie können Ihr Standardkonto mit *More* \| ändern *Globale Einstellungen* \| *Erweiterte Funktionen* und Sie haben diese Optionen:

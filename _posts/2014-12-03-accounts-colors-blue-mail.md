@@ -8,7 +8,7 @@ status: publish
 categories:
 - Settings
 tags: []
-slug: /accounts-colors-blue-mail/
+permalink: /accounts-colors-blue-mail/
 ---
 
 To visually identify to which account each email belongs to, we assign a color per account. This color appears in Unified Inbox per mail, identifies Read (empty) / Unread (filled) state.

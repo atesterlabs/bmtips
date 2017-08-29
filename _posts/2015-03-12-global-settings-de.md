@@ -9,8 +9,7 @@ categories:
 - Settings
 tags: []
 lang: de
-slug: /global-settings/
-meta:
+permalink: /global-settings/
 ---
 
 Mit *Mehr ...* \| *Globale Einstellungen* \| Und Sie greifen auf die globalen Einstellungen für Ihre Konten zu:

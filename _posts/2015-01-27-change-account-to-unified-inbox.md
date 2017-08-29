@@ -8,8 +8,7 @@ status: publish
 categories:
 - Accounts
 tags: []
-slug: /change-account-to-unified-inbox/
-meta:
+permalink: /change-account-to-unified-inbox/
 ---
 
 You can select the accounts picker on the top center, or tap the top left corner and then choose your account from the drop down menu when the left drawer panel opens up. You can also see that panel by swiping from the middle left edge of the screen.

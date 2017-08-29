@@ -8,8 +8,7 @@ status: publish
 categories:
 - Push
 tags: []
-slug: /check-type-mail-push-status/
-meta:
+permalink: /check-type-mail-push-status/
 ---
 
 To check the Push Status of BlueMail, go to *More...* \| *About* \| *Check App Status*.

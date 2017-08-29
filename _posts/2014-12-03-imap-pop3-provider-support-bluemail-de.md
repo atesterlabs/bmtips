@@ -9,8 +9,7 @@ categories:
 - Accounts
 tags: []
 lang: de
-slug: /imap-pop3-provider-support-bluemail/
-meta:
+permalink: /imap-pop3-provider-support-bluemail/
 ---
 
 BlueMail unterstützt POP3-Anbieter zusätzlich zu IMAP.

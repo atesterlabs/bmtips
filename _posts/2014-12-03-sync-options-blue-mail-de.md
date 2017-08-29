@@ -9,8 +9,7 @@ categories:
 - Accounts
 tags: []
 lang: de
-slug: /sync-options-blue-mail/
-meta:
+permalink: /sync-options-blue-mail/
 ---
 
 Um die Synchronisierungseinstellungen anzuzeigen oder zu ändern, gehen Sie zu:

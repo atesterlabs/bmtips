@@ -9,9 +9,9 @@ categories:
 - Getting Stuff Done
 tags: []
 lang: de
-slug: /mark-an-email-as-done/
-meta:
+permalink: /mark-an-email-as-done/
 ---
+
 {: .center}
 ![Done](/assets/ic_action_done.png){:width="100px"}
 

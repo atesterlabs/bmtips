@@ -8,8 +8,7 @@ status: publish
 categories:
 - General
 tags: []
-slug: /what-is-cluster-mode/
-meta:
+permalink: /what-is-cluster-mode/
 ---
 
 Cluster mode is an exciting feature that revolutionizes how you see your email. By organizing your inbox by sender, keeping on top of your email has never been easier.

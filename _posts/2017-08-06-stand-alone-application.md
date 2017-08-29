@@ -8,9 +8,9 @@ status: publish
 categories:
 - Troubleshooting
 tags: []
-slug: /stand-alone-application/
-meta:
+permalink: /stand-alone-application/
 ---
+
 **BlueMail** functions independently from all other email applications. You get Instant Notifications, automatic email sync, and have the ability to read your email without being reliant on any other app!
 
 In fact, since **BlueMail** functions on its own, there is no need to keep any other email client on your device. This way you will receive an email notification just once using **BlueMail's** Instant Push!

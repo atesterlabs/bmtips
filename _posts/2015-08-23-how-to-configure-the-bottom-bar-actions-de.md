@@ -9,8 +9,7 @@ categories:
 - Settings
 tags: []
 lang: de
-slug: /how-to-configure-the-bottom-bar-actions/
-meta:
+permalink: /how-to-configure-the-bottom-bar-actions/
 ---
 
 Um die unteren Balkenaktionen zu konfigurieren, tippen Sie auf [3-Punkt-Menü in Mail-Ansicht](/3-dot-menu-options/) \| *Weitere Optionen* \| *Menü konfigurieren*.

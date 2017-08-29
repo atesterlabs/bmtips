@@ -8,8 +8,7 @@ status: publish
 categories:
 - Troubleshooting
 tags: []
-slug: /unable-to-connect-to-server/
-meta:
+permalink: /unable-to-connect-to-server/
 ---
 
 This error means your device cannot connect to your provider's mail server. It can be anything from no network, intermittent or unstable network, or even a good internet connection in general but inability to reach your specific provider's mail server.

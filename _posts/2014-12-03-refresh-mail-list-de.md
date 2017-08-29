@@ -9,8 +9,7 @@ categories:
 - Basic Actions
 tags: []
 lang: de
-slug: /refresh-mail-list/
-meta:
+permalink: /refresh-mail-list/
 ---
 
 Um die Mail-Liste zu aktualisieren, ziehen Sie den Bildschirm nach unten (wischen Sie den Finger von der Oberseite des Bildschirms nach unten).

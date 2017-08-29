@@ -8,8 +8,7 @@ status: publish
 categories:
 - Clusters
 tags: []
-slug: /how-do-i-choose-which-emails-get-clustered/
-meta:
+permalink: /how-do-i-choose-which-emails-get-clustered/
 ---
 
 With the cluster option available in the account picker, you choose your level of clustering to better suit your needs.

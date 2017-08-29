@@ -9,8 +9,7 @@ categories:
 - General
 tags: []
 lang: de
-slug: /notification-mode/
-meta:
+permalink: /notification-mode/
 ---
 
 Um einen Benachrichtigungsmodus in BlueMail festzulegen, tippen Sie auf *Mehr ...* \| *Benachrichtigungen* \| *Unter Ihrem Konto tippen Sie auf **Benachrichtigungsmodus***.

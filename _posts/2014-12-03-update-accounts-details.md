@@ -8,8 +8,7 @@ status: publish
 categories:
 - Settings
 tags: []
-slug: /update-accounts-details/
-meta:
+permalink: /update-accounts-details/
 ---
 
 To manage your Account Settings, go to:

@@ -8,8 +8,8 @@ status: publish
 categories:
 - Getting Stuff Done
 tags: []
-slug: /marked-as-done-return-inbox/
-meta:
+permalink: /marked-as-done-return-inbox/
+
 ---
 
 With BlueMail you can "reopen" mail marked Done, to be Undone and back into inbox. Simply tap on *Inbox* \| *choose Done filter* \| *Swipe the email to the right* \| ***Undone*** and the email will move back to the inbox folder.

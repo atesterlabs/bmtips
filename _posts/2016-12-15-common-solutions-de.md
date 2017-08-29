@@ -9,8 +9,7 @@ categories:
 - Troubleshooting
 tags: []
 lang: de
-slug: /common-solutions/
-meta:
+permalink: /common-solutions/
 ---
 
 ## Das wichtigste zuerst

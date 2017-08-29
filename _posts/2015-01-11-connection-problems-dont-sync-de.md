@@ -9,8 +9,7 @@ categories:
 - Troubleshooting
 tags: []
 lang: de
-slug: /connection-problems-dont-sync/
-meta:
+permalink: /connection-problems-dont-sync/
 ---
 
 BlueMail bettet eine einzigartige Fähigkeit, nicht nur eine Verbindung zum Netzwerk zu erkennen, sondern auch eine tatsächliche Netzwerkleistung und spezifische Konnektivität zu Ihren E-Mail-Anbietern. So können Sie Internet haben, aber immer noch nicht in der Lage sein, auf Ihre E-Mail zuzugreifen oder E-Mails zu senden.

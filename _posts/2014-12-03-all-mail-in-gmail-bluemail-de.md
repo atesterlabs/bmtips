@@ -9,7 +9,7 @@ categories:
 - Specific Providers
 tags: []
 lang: de
-slug: /all-mail-in-gmail-bluemail/
+permalink: /all-mail-in-gmail-bluemail/
 ---
 
 Wenn der Ordner "Alle Mail" in BlueMail nicht angezeigt wird, folgen Sie diesen Schritten, um ihn zu beheben:

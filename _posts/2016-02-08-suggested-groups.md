@@ -8,8 +8,7 @@ status: publish
 categories:
 - Groups
 tags: []
-slug: /suggested-groups/
-meta:
+permalink: /suggested-groups/
 ---
 
 Suggested Groups are Groups that are not fully defined yet e.g. Without a name or avatar. They are displayed under the Suggested Group tab.

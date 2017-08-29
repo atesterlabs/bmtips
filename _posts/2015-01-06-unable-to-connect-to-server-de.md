@@ -9,8 +9,7 @@ categories:
 - Troubleshooting
 tags: []
 lang: de
-slug: /unable-to-connect-to-server/
-meta:
+permalink: /unable-to-connect-to-server/
 ---
 
 Dieser Fehler bedeutet, dass Ihr Gerät keine Verbindung zum E-Mail-Server Ihres Anbieters herstellen kann. Es kann alles von keinem Netzwerk, intermittierendem oder instabilem Netzwerk oder sogar eine gute Internetverbindung im Allgemeinen sein, aber die Unfähigkeit, den Mailserver Ihres spezifischen Anbieters zu erreichen.

@@ -9,8 +9,7 @@ categories:
 - Getting Stuff Done
 tags: []
 lang: de
-slug: /mark-as-done/
-meta:
+permalink: /mark-as-done/
 ---
 
 {: .center}

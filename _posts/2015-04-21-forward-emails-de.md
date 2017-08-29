@@ -9,8 +9,7 @@ categories:
 - Basic Actions
 tags: []
 lang: de
-slug: /forward-emails/
-meta:
+permalink: /forward-emails/
 ---
 
 Sie können eine E-Mail mit diesen Methoden löschen:

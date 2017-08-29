@@ -9,8 +9,7 @@ categories:
 - General
 tags: []
 lang: de
-slug: /mac-client/
-meta:
+permalink: /mac-client/
 ---
 
 Bald. Wir arbeiten an einem Mac-Client, der in naher Zukunft verfügbar sein wird.

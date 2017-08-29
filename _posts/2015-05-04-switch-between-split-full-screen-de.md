@@ -9,8 +9,7 @@ categories:
 - Enhanced Features
 tags: []
 lang: de
-slug: /switch-between-split-full-screen/
-meta:
+permalink: /switch-between-split-full-screen/
 ---
 
 Für Tabletten, oben rechts auf Ihrem Bildschirm in BlueMail, können Sie auf die 2 Pfeile Symbol tippen, wird dies zwischen einer Split-Ansicht auf Ihre Haupt-Posteingangsliste Ansicht wechseln

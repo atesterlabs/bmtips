@@ -8,8 +8,7 @@ status: publish
 categories:
 - Accounts
 tags: []
-slug: /folders-pop3-accounts/
-meta:
+permalink: /folders-pop3-accounts/
 ---
 
 POP3 accounts do not sync folders with your server.

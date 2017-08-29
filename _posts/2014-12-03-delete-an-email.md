@@ -8,8 +8,7 @@ status: publish
 categories:
 - Basic Actions
 tags: []
-slug: /delete-an-email/
-meta:
+permalink: /delete-an-email/
 ---
 
 {: .center}

@@ -8,8 +8,7 @@ status: publish
 categories:
 - Troubleshooting
 tags: []
-slug: /common-solutions/
-meta:
+permalink: /common-solutions/
 ---
 
 ## First Things First

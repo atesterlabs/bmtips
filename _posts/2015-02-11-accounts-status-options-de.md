@@ -9,8 +9,8 @@ categories:
 - Accounts
 tags: []
 lang: de
-slug: /accounts-status-options/
-meta:
+permalink: /accounts-status-options/
+
 ---
 
 Es gibt vier verschiedene Konto-Status-Optionen:

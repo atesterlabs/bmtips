@@ -9,8 +9,7 @@ categories:
 - Push
 tags: []
 lang: de
-slug: /notification-open-application/
-meta:
+permalink: /notification-open-application/
 ---
 
 Die Benachrichtigung wird BlueMail auf diese genaue neue Mail öffnen, damit Sie sofort darauf reagieren können.

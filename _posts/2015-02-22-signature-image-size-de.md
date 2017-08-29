@@ -9,8 +9,7 @@ categories:
 - Enhanced Features
 tags: []
 lang: de
-slug: /signature-image-size/
-meta:
+permalink: /signature-image-size/
 ---
 
 Wir können das Signaturbild so gut machen, dass es auf verschiedenen Empfängern auch gut gemacht werden kann. Am besten ist es, kleine Bilder (bis zu 200Kb groß) und moderate Dimensionen (bis zu 500x500) zu verwenden, wenn du dein Logo pflegen möchtest.

@@ -8,8 +8,7 @@ status: publish
 categories:
 - Basic Actions
 tags: []
-slug: /difference-reply-reply-all-forward/
-meta:
+permalink: /difference-reply-reply-all-forward/
 ---
 
 In the mail view you can choose to Reply, or Reply All, or Forward:

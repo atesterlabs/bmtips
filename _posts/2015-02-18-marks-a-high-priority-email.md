@@ -1,7 +1,6 @@
 ---
 layout: post
-title: What is the Arrow on the Avatar/Image of the Sender? How To Mark a High Priority
-  Email?
+title: What is the Arrow on the Avatar/Image of the Sender? How To Mark a High Priority mail?
 date: 2015-02-18 16:18:37.000000000 +02:00
 type: post
 published: true
@@ -9,8 +8,7 @@ status: publish
 categories:
 - Basic Actions
 tags: []
-slug: /marks-a-high-priority-email/
-meta:
+permalink: /marks-a-high-priority-email/
 ---
 
 Email has a priority header and this sets it to high. Some clients (e.g. Outlook) show special markers (e.g. !) to high importance emails.

@@ -8,8 +8,7 @@ status: publish
 categories:
 - Features &amp; Usability
 tags: []
-slug: /unread-count-badge-app-icon/
-meta:
+permalink: /unread-count-badge-app-icon/
 ---
 
 The ability to present a badge on the app icon is a property of the home screen manager or “launcher” of your device.

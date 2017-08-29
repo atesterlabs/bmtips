@@ -8,8 +8,7 @@ status: publish
 categories:
 - Troubleshooting
 tags: []
-slug: /how-to-report-an-email/
-meta:
+permalink: /how-to-report-an-email/
 ---
 
 To report an email please open the email you wish to report.

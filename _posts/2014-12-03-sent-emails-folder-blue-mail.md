@@ -8,8 +8,7 @@ status: publish
 categories:
 - Folders
 tags: []
-slug: /sent-emails-folder-blue-mail/
-meta:
+permalink: /sent-emails-folder-blue-mail/
 ---
 
 Your sent items are synced with your provider’s server.

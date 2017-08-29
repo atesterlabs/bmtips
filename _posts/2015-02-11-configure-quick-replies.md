@@ -8,8 +8,7 @@ status: publish
 categories:
 - Settings
 tags: []
-slug: /configure-quick-replies/
-meta:
+permalink: /configure-quick-replies/
 ---
 
 In order to edit or add a Quick Reply, tap *More...* \| *Global Settings* \| *Customize Menus* \| **Configure Quick Replies**:

@@ -9,8 +9,7 @@ categories:
 - Settings
 tags: []
 lang: de
-slug: /days-to-sync-option/
-meta:
+permalink: /days-to-sync-option/
 ---
 
 Days to Sync bedeutet die Zeit, für die E-Mails auf Ihrem Gerät für die Offline-Nutzung gespeichert sind.

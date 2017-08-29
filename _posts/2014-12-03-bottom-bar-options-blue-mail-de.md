@@ -9,7 +9,7 @@ categories:
 - Menus &amp; Toolbars
 tags: []
 lang: de
-slug: /bottom-bar-options-blue-mail/
+permalink: /bottom-bar-options-blue-mail/
 ---
 
 Innerhalb einer E-Mail haben Sie eine untere Leiste mit den folgenden Symbolen:

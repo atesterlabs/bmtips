@@ -9,8 +9,7 @@ categories:
 - General
 tags: []
 lang: de
-slug: /what-are-the-different-symbols-on-the-avatar-image-of-the-sender/
-meta:
+permalink: /what-are-the-different-symbols-on-the-avatar-image-of-the-sender/
 ---
 
 Die verschiedenen Symbole repräsentieren bestimmte Zustände einer E-Mail; Sie können diese Symbole auf den Bildern / Avataren des Absenders sehen:

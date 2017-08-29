@@ -8,8 +8,7 @@ status: publish
 categories:
 - Getting Stuff Done
 tags: []
-slug: /what-are-tasks-blue-mail/
-meta:
+permalink: /what-are-tasks-blue-mail/
 ---
 
 *Tasks* view shows all the Snoozed emails. This view allows you to distinguish all the emails you need to handle ordered from the most urgent ones. You can also see mails whose designated time has elapsed. This allows you to prioritize your time based on urgency as well as importance.

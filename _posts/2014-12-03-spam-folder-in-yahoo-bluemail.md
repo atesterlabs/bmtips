@@ -8,8 +8,7 @@ status: publish
 categories:
 - Specific Providers
 tags: []
-slug: /spam-folder-in-yahoo-bluemail/
-meta:
+permalink: /spam-folder-in-yahoo-bluemail/
 ---
 
 Yahoo! uses a folder called *Bulk Mail* instead of spam for the same purpose.

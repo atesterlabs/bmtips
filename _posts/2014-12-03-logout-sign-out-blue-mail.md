@@ -8,8 +8,7 @@ status: publish
 categories:
 - Basic Actions
 tags: []
-slug: /logout-sign-out-blue-mail/
-meta:
+permalink: /logout-sign-out-blue-mail/
 ---
 
 Modern E-Mail solutions support multiple devices, and ability to access your mail concurrently and simultaneously, making sign out unnecessary. If you want to shut BlueMail out, long tap on the home button and slide BlueMail sideways.

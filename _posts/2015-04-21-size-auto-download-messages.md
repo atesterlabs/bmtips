@@ -8,8 +8,7 @@ status: publish
 categories:
 - Settings
 tags: []
-slug: /size-auto-download-messages/
-meta:
+permalink: /size-auto-download-messages/
 ---
 
 You can set to automatically download message up to 200 kb, you can do so by tapping *More...* \| *Global Settings* \| *Sync* \| *Auto Download Messages up to*:

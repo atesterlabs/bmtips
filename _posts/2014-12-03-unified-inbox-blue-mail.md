@@ -8,8 +8,7 @@ status: publish
 categories:
 - Accounts
 tags: []
-slug: /unified-inbox-blue-mail/
-meta:
+permalink: /unified-inbox-blue-mail/
 ---
 
 Unified Inbox allows you to manage all your accounts from a single inbox. Colors designate each account so you can visually identify each account quickly.

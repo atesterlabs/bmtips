@@ -8,8 +8,7 @@ status: publish
 categories:
 - General
 tags: []
-slug: /yahoo-2-step-verification-login/
-meta:
+permalink: /yahoo-2-step-verification-login/
 ---
 
 You will be happy to know that Yahoo has a feature to allow you to login to BlueMail in case you have 2-step verification enabled!

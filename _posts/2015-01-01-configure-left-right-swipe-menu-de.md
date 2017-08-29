@@ -9,8 +9,7 @@ categories:
 - Settings
 tags: []
 lang: de
-slug: /configure-left-right-swipe-menu/
-meta:
+permalink: /configure-left-right-swipe-menu/
 ---
 
 # Konfigurieren des Dual-Swipe-Menüs

@@ -8,8 +8,7 @@ status: publish
 categories:
 - Accounts
 tags: []
-slug: /set-default-account-unified-inbox/
-meta:
+permalink: /set-default-account-unified-inbox/
 ---
 
 You can set your default “From” address when sending out an email, configure it by tapping *More...* \| *Global Settings* \| *Advanced Features* \| *Default From in Unified Inbox*, and choose your preferred account.

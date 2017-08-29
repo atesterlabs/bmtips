@@ -9,8 +9,7 @@ categories:
 - Troubleshooting
 tags: []
 lang: de
-slug: /phone-disconnects-while-sending/
-meta:
+permalink: /phone-disconnects-while-sending/
 ---
 
 Keine Sorge, BlueMail wird versuchen und senden Sie Ihre E-Mail, sobald Sie wieder mit dem Netzwerk verbinden.

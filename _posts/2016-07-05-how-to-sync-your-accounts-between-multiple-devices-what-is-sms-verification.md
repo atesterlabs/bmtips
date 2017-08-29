@@ -1,7 +1,6 @@
 ---
 layout: post
-title: How to Backup and Sync your Accounts between Multiple Devices? What is SMS
-  Verification?
+title: How to Backup and Sync your Accounts between Multiple Devices? What is SMS Verification?
 date: 2016-07-05 09:39:55.000000000 +03:00
 type: post
 published: true
@@ -9,8 +8,7 @@ status: publish
 categories:
 - Our New Features
 tags: []
-slug: /how-to-sync-your-accounts-between-multiple-devices-what-is-sms-verification/
-meta:
+permalink: /how-to-sync-your-accounts-between-multiple-devices-what-is-sms-verification/
 ---
 
 BlueMail allows you to safely sync all your accounts to your other or new devices! To do it both easily and safely please follow the following steps:

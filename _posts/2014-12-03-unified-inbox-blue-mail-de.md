@@ -9,8 +9,7 @@ categories:
 - Accounts
 tags: []
 lang: de
-slug: /unified-inbox-blue-mail/
-meta:
+permalink: /unified-inbox-blue-mail/
 ---
 
 Unified Inbox ermöglicht es Ihnen, alle Ihre Konten aus einem einzigen Posteingang zu verwalten. Farben bezeichnen jedes Konto, so dass Sie jedes Konto schnell visuell identifizieren können.

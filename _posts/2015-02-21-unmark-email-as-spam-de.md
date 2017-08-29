@@ -9,8 +9,7 @@ categories:
 - Enhanced Features
 tags: []
 lang: de
-slug: /unmark-email-as-spam/
-meta:
+permalink: /unmark-email-as-spam/
 ---
 
 Wir bieten keinen Spam-Filter an sich an, sondern ein Spam-Management-Tool, das sich auf Ihren Provider-Spam-Filter stützt: Ihr Provider verfügt über spezielle Software, die verdächtige E-Mails erkennt und sie in Spam setzt. Das wird sich in BlueMail < sowie dem Web-Client des Anbieters widerspiegeln.

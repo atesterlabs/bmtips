@@ -8,9 +8,9 @@ status: publish
 categories:
 - General
 tags: []
-slug: /manage-spam/
-meta:
+permalink: /manage-spam/
 ---
+
 Spam emails come in all forms, from unwanted newsletters to claims of a long lost fortune from a *very* distant relative.
 
 Normally, your provider uses very specialized software and techniques to prevent these emails from ever appearing. However, some emails may still get through to your inbox.

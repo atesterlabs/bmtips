@@ -8,8 +8,7 @@ status: publish
 categories:
 - General
 tags: []
-slug: /select-folders-sync-account/
-meta:
+permalink: /select-folders-sync-account/
 ---
 
 How Do I Select Which Folders to Sync for My Exchange/ActiveSync Account?

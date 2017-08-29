@@ -9,8 +9,7 @@ categories:
 - Clusters
 tags: []
 lang: de
-slug: /how-do-i-change-cluster-settings/
-meta:
+permalink: /how-do-i-change-cluster-settings/
 ---
 
 Um auf die erweiterten Funktionen zuzugreifen und anzupassen, wie sich Cluster in der Hauptansicht verhalten:

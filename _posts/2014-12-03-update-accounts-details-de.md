@@ -9,8 +9,7 @@ categories:
 - Settings
 tags: []
 lang: de
-slug: /update-accounts-details/
-meta:
+permalink: /update-accounts-details/
 ---
 
 Um Ihre Kontoeinstellungen zu verwalten, gehen Sie zu:

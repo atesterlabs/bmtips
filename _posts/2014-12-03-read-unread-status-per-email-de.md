@@ -9,8 +9,7 @@ categories:
 - Basic Actions
 tags: []
 lang: de
-slug: /read-unread-status-per-email/
-meta:
+permalink: /read-unread-status-per-email/
 ---
 
 BlueMail markiert E-Mails als gelesen oder ungelesen:

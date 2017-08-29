@@ -9,8 +9,7 @@ categories:
 - Basic Actions
 tags: []
 lang: de
-slug: /send-emails/
-meta:
+permalink: /send-emails/
 ---
 
 Um eine E-Mail in BlueMail zu senden, gehen Sie folgendermaßen vor:

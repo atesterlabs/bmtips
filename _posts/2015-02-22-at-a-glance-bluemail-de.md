@@ -9,8 +9,7 @@ categories:
 - A Feature Overview
 tags: []
 lang: de
-slug: /at-a-glance-bluemail/
-meta:
+permalink: /at-a-glance-bluemail/
 ---
 
 Was ist BlueMail und all die fantastischen Features, die es beinhaltet? - BlueMail ist ein kostenloser und wunderschön gestalteter Universal-E-Mail-Client, der in der Lage ist, eine unbegrenzte Anzahl von E-Mail-Konten von allen möglichen Anbietern zu verwalten. Dies ermöglicht intelligente Push-Benachrichtigungen, während die Personalisierung über mehrere E-Mail-Konten ermöglicht wird. BlueMail ist der perfekte Ersatz für Ihre E-Mail-App.

@@ -8,8 +8,7 @@ status: publish
 categories:
 - General
 tags: []
-slug: /what-happens-to-my-avatars-if-cluster-mode-is-enabled/
-meta:
+permalink: /what-happens-to-my-avatars-if-cluster-mode-is-enabled/
 ---
 
 With Cluster Mode enabled, Avatars come to life by giving you an intuitive way of navigating every email from that sender. There is no need to search for a single sender anymore.

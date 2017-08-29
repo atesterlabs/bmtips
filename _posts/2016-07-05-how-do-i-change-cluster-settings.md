@@ -8,8 +8,7 @@ status: publish
 categories:
 - Clusters
 tags: []
-slug: /how-do-i-change-cluster-settings/
-meta:
+permalink: /how-do-i-change-cluster-settings/
 ---
 
 To access the advanced features and customize how clusters behave in the Main View:

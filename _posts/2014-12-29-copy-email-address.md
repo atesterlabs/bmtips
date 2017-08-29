@@ -8,8 +8,7 @@ status: publish
 categories:
 - Features &amp; Usability
 tags: []
-slug: /copy-email-address/
-meta:
+permalink: /copy-email-address/
 ---
 
 BlueMail offers a few ways to achieve this:

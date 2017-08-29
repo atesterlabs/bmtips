@@ -8,8 +8,7 @@ status: publish
 categories:
 - Getting Stuff Done
 tags: []
-slug: /mark-as-done/
-meta:
+permalink: /mark-as-done/
 ---
 
 {: .center}

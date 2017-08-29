@@ -9,8 +9,7 @@ categories:
 - Groups
 tags: []
 lang: de
-slug: /naming-a-group-and-setting-a-photo/
-meta:
+permalink: /naming-a-group-and-setting-a-photo/
 ---
 
 Um den Gruppennamen und das Foto zu bearbeiten, tippen Sie auf das Gruppensymbol.

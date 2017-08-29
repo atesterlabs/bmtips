@@ -9,8 +9,7 @@ categories:
 - Enhanced Features
 tags: []
 lang: de
-slug: /time-formats-supported/
-meta:
+permalink: /time-formats-supported/
 ---
 
 BlueMail unterstützt mehrere Datums- / Zeitdarstellungsoptionen:

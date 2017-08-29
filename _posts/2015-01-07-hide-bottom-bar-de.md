@@ -9,8 +9,7 @@ categories:
 - Troubleshooting
 tags: []
 lang: de
-slug: /hide-bottom-bar/
-meta:
+permalink: /hide-bottom-bar/
 ---
 
 Wenn Sie nach unten scrollen - wird die untere Leiste verschwinden.

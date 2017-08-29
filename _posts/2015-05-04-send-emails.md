@@ -8,8 +8,7 @@ status: publish
 categories:
 - Basic Actions
 tags: []
-slug: /send-emails/
-meta:
+permalink: /send-emails/
 ---
 
 To send an email in BlueMail follow these steps:

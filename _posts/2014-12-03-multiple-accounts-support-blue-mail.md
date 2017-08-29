@@ -8,8 +8,7 @@ status: publish
 categories:
 - Accounts
 tags: []
-slug: /multiple-accounts-support-blue-mail/
-meta:
+permalink: /multiple-accounts-support-blue-mail/
 ---
 
 With BlueMail you can configure multiple accounts from multiple providers. You can access each separately or use the Unified Inbox to manage all from one place. Pretty convenient.

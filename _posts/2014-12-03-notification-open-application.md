@@ -8,8 +8,7 @@ status: publish
 categories:
 - Push
 tags: []
-slug: /notification-open-application/
-meta:
+permalink: /notification-open-application/
 ---
 
 The notification will open BlueMail on that exact new mail so you can act on it immediately.

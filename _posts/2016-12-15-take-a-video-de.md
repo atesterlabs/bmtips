@@ -9,8 +9,7 @@ categories:
 - General
 tags: []
 lang: de
-slug: /take-a-video/
-meta:
+permalink: /take-a-video/
 ---
 
 Wenn ein Bild 1.000 Wörter wert ist, ist ein Video unbezahlbar. Ob Sie Ihren Freunden eine coole neue BlueMail-Funktion zeigen möchten oder unser Support-Team ein interessantes Thema zeigen, mit einer Bildschirmaufzeichnung ist eines der effektivsten Werkzeuge, um dies zu tun.

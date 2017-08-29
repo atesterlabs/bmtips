@@ -8,7 +8,7 @@ status: publish
 categories:
 - Specific Providers
 tags: []
-slug: /configure-icloud-account-blue-mail/
+permalink: /configure-icloud-account-blue-mail/
 ---
 
 To login to iCloud from BlueMail, you need to use your Apple ID email address, e.g. [user@me.com](mailto:user@me.com) or [user@icloud.com](mailto:user@icloud.com) or whichever mail was granted to you by Apple.

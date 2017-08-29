@@ -8,8 +8,7 @@ status: publish
 categories:
 - Basic Actions
 tags: []
-slug: /read-unread-status-per-email/
-meta:
+permalink: /read-unread-status-per-email/
 ---
 
 BlueMail marks emails as read or unread:

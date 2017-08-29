@@ -8,8 +8,7 @@ status: publish
 categories:
 - Features &amp; Usability
 tags: []
-slug: /pictures-of-services-blue-mail/
-meta:
+permalink: /pictures-of-services-blue-mail/
 ---
 
 Some of the senders are common services and not people. BlueMail will mark those for you so you can quickly avoid those you are not interested in right now.

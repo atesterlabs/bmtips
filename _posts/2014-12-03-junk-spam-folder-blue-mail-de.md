@@ -9,8 +9,7 @@ categories:
 - Folders
 tags: []
 lang: de
-slug: /junk-spam-folder-blue-mail/
-meta:
+permalink: /junk-spam-folder-blue-mail/
 ---
 
 E-Mails von Absendern oder Domains, die ** in BlueMail gesperrt sind oder als Spam auf Ihrem E-Mail-Anbieter markiert sind, werden an den *Junk* Ordner gesendet, auch bekannt als *Spam* oder *Bulk*.

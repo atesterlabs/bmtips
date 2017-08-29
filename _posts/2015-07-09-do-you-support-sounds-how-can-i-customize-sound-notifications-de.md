@@ -9,8 +9,7 @@ categories:
 - Settings
 tags: []
 lang: de
-slug: /do-you-support-sounds-how-can-i-customize-sound-notifications/
-meta:
+permalink: /do-you-support-sounds-how-can-i-customize-sound-notifications/
 ---
 
 Um die Tonbenachrichtigungen anzupassen, gehen Sie bitte folgendermaßen vor:

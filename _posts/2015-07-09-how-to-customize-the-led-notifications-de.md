@@ -9,8 +9,7 @@ categories:
 - Settings
 tags: []
 lang: de
-slug: /how-to-customize-the-led-notifications/
-meta:
+permalink: /how-to-customize-the-led-notifications/
 ---
 
 Das blinkende LED-Licht wird verwendet, um Sie zu benachrichtigen, wenn eine neue E-Mail empfangen wurde. Sie können die LED-Benachrichtigungen anpassen, indem Sie folgende Schritte ausführen: *Mehr ...* \| *Benachrichtigungen* \| *Blättern Sie zu dem Konto* \| *Sound \| Vibrieren \| LED* \| *LED-Leuchte aktivieren (LED-Benachrichtigungen aktivieren / deaktivieren)* \| *Benachrichtigungs-LED-Farbe* (fertigt die LED-Mitteilungfarbe besonders an)*. Genießen Sie den Regenbogen!

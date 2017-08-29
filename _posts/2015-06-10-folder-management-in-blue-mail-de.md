@@ -9,8 +9,7 @@ categories:
 - Folders
 tags: []
 lang: de
-slug: /folder-management-in-blue-mail/
-meta:
+permalink: /folder-management-in-blue-mail/
 ---
 
 Um einen Ordner zu erstellen, umzubenennen oder zu löschen, tippen Sie auf *Mehr ...* \| *Konten* \| *Wählen Sie Konto* \| *Ordnerverwaltung* und wählen Sie:

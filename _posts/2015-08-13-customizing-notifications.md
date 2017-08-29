@@ -8,8 +8,7 @@ status: publish
 categories:
 - Settings
 tags: []
-slug: /customizing-notifications/
-meta:
+permalink: /customizing-notifications/
 ---
 
 Notifications use the notification bar, and show a short preview of the email. You can tailor each account to have a different notification scheme, e.g. have different options for work related accounts, and personal / family accounts.

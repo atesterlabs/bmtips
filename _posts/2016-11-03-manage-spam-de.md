@@ -9,9 +9,9 @@ categories:
 - General
 tags: []
 lang: de
-slug: /manage-spam/
-meta:
+permalink: /manage-spam/
 ---
+
 Spam-E-Mails kommen in allen Formen, von unerwünschten Newslettern zu Ansprüchen eines langen verlorenen Vermögens von einem *sehr* entfernten Verwandten.
 
 Normalerweise verwendet Ihr Provider sehr spezialisierte Software und Techniken, um zu verhindern, dass diese E-Mails jemals erscheinen. Allerdings können einige E-Mails immer noch in Ihren Posteingang gelangen.

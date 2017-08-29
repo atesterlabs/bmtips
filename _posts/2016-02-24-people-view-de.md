@@ -9,8 +9,7 @@ categories:
 - Our New Features
 tags: []
 lang: de
-slug: /people-view/
-meta:
+permalink: /people-view/
 ---
 
 Die People View ist eine neue und originelle Art, Ihren Posteingang zu sehen und seine Unordnung zu reduzieren.

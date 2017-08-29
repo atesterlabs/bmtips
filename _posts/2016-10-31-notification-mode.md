@@ -8,8 +8,7 @@ status: publish
 categories:
 - General
 tags: []
-slug: /notification-mode/
-meta:
+permalink: /notification-mode/
 ---
 
 To set a notification mode in BlueMail, tap *More...* \| *Notifications* \| *Under your account tap **Notifications Mode***.

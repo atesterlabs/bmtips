@@ -8,8 +8,7 @@ status: publish
 categories:
 - Basic Actions
 tags: []
-slug: /mark-an-email-as-read/
-meta:
-
+permalink: /mark-an-email-as-read/
 ---
+
 To mark an email as read / unread swipe left on the email message and choose *Mark Read* / *Mark Unread*.

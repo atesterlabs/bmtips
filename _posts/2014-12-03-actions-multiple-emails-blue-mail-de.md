@@ -10,7 +10,7 @@ categories:
 - Features &amp; Usability
 tags: []
 lang: de
-slug: /actions-multiple-emails-blue-mail/
+permalink: /actions-multiple-emails-blue-mail/
 ---
 
 Sie können eine Aktion auf mehrere E-Mails gleichzeitig durchführen, indem Sie den Modus "Multi Edit **" verwenden.

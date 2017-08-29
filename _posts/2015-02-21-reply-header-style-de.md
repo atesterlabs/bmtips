@@ -9,8 +9,7 @@ categories:
 - General
 tags: []
 lang: de
-slug: /reply-header-style/
-meta:
+permalink: /reply-header-style/
 ---
 
 Wenn Sie auf eine Mail antworten, wird die ursprüngliche Post oft mit einer Präambel angezeigt, die einige kontextbezogene Informationen über diese Mail gibt.

@@ -8,8 +8,7 @@ status: publish
 categories:
 - Features &amp; Usability
 tags: []
-slug: /widget-capabilities-blue-mail/
-meta:
+permalink: /widget-capabilities-blue-mail/
 ---
 
 The current version of BlueMail supports a few kinds of widgets.

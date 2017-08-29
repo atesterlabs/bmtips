@@ -8,8 +8,7 @@ status: publish
 categories:
 - Enhanced Features
 tags: []
-slug: /use-quick-replies/
-meta:
+permalink: /use-quick-replies/
 ---
 
 In order to use quick replies, in your main inbox list view please *swipe the mail to the right* \| *Select 'More +'* \| **Quick Reply** (at the bottom)

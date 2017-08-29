@@ -9,8 +9,7 @@ categories:
 - Getting Stuff Done
 tags: []
 lang: de
-slug: /what-are-tasks-blue-mail/
-meta:
+permalink: /what-are-tasks-blue-mail/
 ---
 
 *Tasks* Ansicht zeigt alle Snoozed E-Mails. Diese Ansicht erlaubt Ihnen, alle E-Mails zu unterscheiden, die Sie benötigen, um von den dringendsten bestellt zu werden. Sie können auch E-Mails sehen, deren festgelegte Zeit abgelaufen ist. Dies ermöglicht Ihnen, Ihre Zeit auf der Grundlage von Dringlichkeit sowie Bedeutung zu priorisieren.

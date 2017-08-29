@@ -8,8 +8,7 @@ status: publish
 categories:
 - Settings
 tags: []
-slug: /edit-account/
-meta:
+permalink: /edit-account/
 ---
 
 Using *More...* \| *Various Account Settings* \| *tap the account you want to edit* \| **Edit Account**.

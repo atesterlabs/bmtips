@@ -9,8 +9,7 @@ categories:
 - Accounts
 tags: []
 lang: de
-slug: /set-default-account-unified-inbox/
-meta:
+permalink: /set-default-account-unified-inbox/
 ---
 
 Sie können Ihre Standard-Adresse "Von" beim Senden einer E-Mail einstellen, indem Sie auf *Mehr ...* \| *Globale Einstellungen* \| *Erweiterte Funktionen* \| *Default Aus in Unified Inbox* und wählen Sie Ihr bevorzugtes Konto.

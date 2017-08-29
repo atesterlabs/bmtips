@@ -9,8 +9,7 @@ categories:
 - General
 tags: []
 lang: de
-slug: /what-are-the-notifications-methods/
-meta:
+permalink: /what-are-the-notifications-methods/
 ---
 
 Benachrichtigungen verwenden die Benachrichtigungsleiste und zeigen eine kurze Vorschau der E-Mail.

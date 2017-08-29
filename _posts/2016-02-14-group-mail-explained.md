@@ -8,8 +8,7 @@ status: publish
 categories:
 - Groups
 tags: []
-slug: /group-mail-explained/
-meta:
+permalink: /group-mail-explained/
 ---
 
 Since a lot of your emails involve the same groups of people you regularly communicate with, we created the ability to define, send, and receive messages within BlueMail Groups naturally.

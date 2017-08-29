@@ -9,8 +9,7 @@ categories:
 - Accounts
 tags: []
 lang: de
-slug: /delete-from-server-pop3/
-meta:
+permalink: /delete-from-server-pop3/
 ---
 
 BlueMail ermöglicht es Ihnen derzeit, E-Mails auf dem Server des Anbieters für POP3-Konten zu hinterlassen und sie unter verschiedenen Umständen zu löschen.

@@ -9,8 +9,7 @@ categories:
 - Accounts
 tags: []
 lang: de
-slug: /bluemail-adding-a-gmail-account/
-meta:
+permalink: /bluemail-adding-a-gmail-account/
 ---
 
 In dieser Episode von *Making BlueMail Work For You*, lernen wir, wie man ein Google Mail-Konto hinzufügen.

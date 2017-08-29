@@ -9,8 +9,7 @@ categories:
 - Specific Providers
 tags: []
 lang: de
-slug: /gmails-all-mail-folder-bluemail/
-meta:
+permalink: /gmails-all-mail-folder-bluemail/
 ---
 
 Gmail hat einen Standard-Archiv-Ordner namens All Mail, der bereits alle Mails vorarchiviert. Ein Archivbefehl für Gmail hat im Wesentlichen die Mail aus dem Posteingang entfernt und das ist alles (da es bereits Teil von <i>Alle Mail </i>) ist. Dies ist Gmail-spezifisches Verhalten.

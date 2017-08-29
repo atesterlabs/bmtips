@@ -9,8 +9,7 @@ categories:
 - Basic Actions
 tags: []
 lang: de
-slug: /search-on-server/
-meta:
+permalink: /search-on-server/
 ---
 
 Mit BlueMail können Sie ganz einfach durchsuchen, indem Sie das Symbol des Vergrößerungsglases in das Symbol des oberen Balkens tippen, um bestimmte E-Mails mit Hilfe von Keywords zu finden.

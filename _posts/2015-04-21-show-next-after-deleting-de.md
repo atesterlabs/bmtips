@@ -9,8 +9,7 @@ categories:
 - Enhanced Features
 tags: []
 lang: de
-slug: /show-next-after-deleting/
-meta:
+permalink: /show-next-after-deleting/
 ---
 
 Sie können das Verhalten nach dem Löschen einer E-Mail mit *Mehr...* \| einstellen *Globale Einstellungen* \| *Erweiterte Funktionen* \| *Nach dem Löschen einer Nachricht anzeigen:*

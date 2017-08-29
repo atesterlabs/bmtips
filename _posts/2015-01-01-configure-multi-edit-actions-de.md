@@ -9,8 +9,7 @@ categories:
 - Settings
 tags: []
 lang: de
-slug: /configure-multi-edit-actions/
-meta:
+permalink: /configure-multi-edit-actions/
 ---
 
 {: .center}

@@ -9,8 +9,7 @@ categories:
 - Features &amp; Usability
 tags: []
 lang: de
-slug: /maximum-attachment-size-blue-mail/
-meta:
+permalink: /maximum-attachment-size-blue-mail/
 ---
 
 BlueMail selbst hat keine Größenbeschränkung für Ihre Anlagen. Allerdings haben die meisten E-Mail-Anbieter einige Begrenzung auf die Gesamtgröße einer einzelnen Mail, die sie erlauben, an ihre Server zu senden. Es ist in der Regel in der 10-25MB Bereich, wenden Sie sich bitte an Ihren Anbieter für weitere Details.

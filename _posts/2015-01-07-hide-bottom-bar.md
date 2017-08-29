@@ -8,8 +8,7 @@ status: publish
 categories:
 - Troubleshooting
 tags: []
-slug: /hide-bottom-bar/
-meta:
+permalink: /hide-bottom-bar/
 ---
 
 When you scroll down - the bottom bar will disappear.
