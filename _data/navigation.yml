@@ -6,5 +6,7 @@
   link: 'http://bluemailtutorial.com'
 - name: Device Tips
   link: 'http://bluemaildevices.com'
-- name: Deutsch
+- name: EN
+  link: /
+- name: DE
   link: /de/
