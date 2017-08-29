@@ -9,7 +9,7 @@ categories:
 - Enhanced Features
 tags: []
 lang: en
-permalink: /switch-between-split-full-screen/
+slug: /switch-between-split-full-screen/
 meta:
 ---
 

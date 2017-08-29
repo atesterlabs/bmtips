@@ -9,7 +9,7 @@ categories:
 - Getting Stuff Done
 tags: []
 lang: en
-permalink: /reach-a-zero-inbox/
+slug: /reach-a-zero-inbox/
 meta:
 ---
 

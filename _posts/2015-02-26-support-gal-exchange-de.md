@@ -9,7 +9,7 @@ categories:
 - Specific Providers
 tags: []
 lang: de
-permalink: /support-gal-exchange/
+slug: /support-gal-exchange/
 meta:
 ---
 

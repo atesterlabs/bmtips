@@ -9,7 +9,7 @@ categories:
 - Accounts
 tags: []
 lang: de
-permalink: /unified-inbox-blue-mail/
+slug: /unified-inbox-blue-mail/
 meta:
 ---
 

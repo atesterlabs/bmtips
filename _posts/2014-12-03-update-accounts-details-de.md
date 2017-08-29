@@ -9,7 +9,7 @@ categories:
 - Settings
 tags: []
 lang: de
-permalink: /update-accounts-details/
+slug: /update-accounts-details/
 meta:
 ---
 

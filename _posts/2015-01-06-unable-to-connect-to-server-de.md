@@ -9,7 +9,7 @@ categories:
 - Troubleshooting
 tags: []
 lang: de
-permalink: /unable-to-connect-to-server/
+slug: /unable-to-connect-to-server/
 meta:
 ---
 

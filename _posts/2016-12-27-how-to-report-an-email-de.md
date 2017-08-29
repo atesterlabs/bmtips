@@ -9,7 +9,7 @@ categories:
 - Troubleshooting
 tags: []
 lang: de
-permalink: /how-to-report-an-email/
+slug: /how-to-report-an-email/
 meta:
 ---
 

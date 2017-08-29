@@ -10,7 +10,7 @@ categories:
 - Features &amp; Usability
 tags: []
 lang: en
-permalink: /left-side-circle/
+slug: /left-side-circle/
 meta:
 ---
 

@@ -9,7 +9,7 @@ categories:
 - General
 tags: []
 lang: en
-permalink: /take-a-video/
+slug: /take-a-video/
 meta:
 ---
 

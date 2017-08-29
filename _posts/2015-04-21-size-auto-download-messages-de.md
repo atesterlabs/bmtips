@@ -9,7 +9,7 @@ categories:
 - Settings
 tags: []
 lang: de
-permalink: /size-auto-download-messages/
+slug: /size-auto-download-messages/
 meta:
 ---
 

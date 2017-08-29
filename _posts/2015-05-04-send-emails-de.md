@@ -9,7 +9,7 @@ categories:
 - Basic Actions
 tags: []
 lang: de
-permalink: /send-emails/
+slug: /send-emails/
 meta:
 ---
 

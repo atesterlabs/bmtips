@@ -9,7 +9,7 @@ categories:
 - Enhanced Features
 tags: []
 lang: de
-permalink: /time-formats-supported/
+slug: /time-formats-supported/
 meta:
 ---
 

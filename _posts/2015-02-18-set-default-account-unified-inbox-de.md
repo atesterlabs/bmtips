@@ -9,7 +9,7 @@ categories:
 - Accounts
 tags: []
 lang: de
-permalink: /set-default-account-unified-inbox/
+slug: /set-default-account-unified-inbox/
 meta:
 ---
 

@@ -10,7 +10,7 @@ categories:
 - Specific Providers
 tags: []
 lang: en
-permalink: /how-do-i-add-my-yahoo-account/
+slug: /how-do-i-add-my-yahoo-account/
 meta:
 ---
 

@@ -9,7 +9,7 @@ categories:
 - Folders
 tags: []
 lang: de
-permalink: /outbox-folder-blue-mail/
+slug: /outbox-folder-blue-mail/
 meta:
 ---
 

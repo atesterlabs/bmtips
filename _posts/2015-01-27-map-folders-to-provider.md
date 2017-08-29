@@ -9,7 +9,7 @@ categories:
 - Folders
 tags: []
 lang: en
-permalink: /map-folders-to-provider/
+slug: /map-folders-to-provider/
 meta:
 ---
 

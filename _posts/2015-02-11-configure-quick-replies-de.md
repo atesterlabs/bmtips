@@ -9,7 +9,7 @@ categories:
 - Settings
 tags: []
 lang: de
-permalink: /configure-quick-replies/
+slug: /configure-quick-replies/
 meta:
 ---
 

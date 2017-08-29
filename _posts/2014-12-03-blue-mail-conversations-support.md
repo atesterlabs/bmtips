@@ -9,7 +9,7 @@ categories:
 - Features &amp; Usability
 tags: []
 lang: en
-permalink: /blue-mail-conversations-support/
+slug: /blue-mail-conversations-support/
 ---
 
 BlueMail fully supports Conversations and smartly aggregates all of your emails that are Sent and Received in the same conversation, and threads them into one conversation for your convenience. You can perform bulk operations on the entire conversation as well.

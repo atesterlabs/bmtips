@@ -9,7 +9,7 @@ categories:
 - Groups
 tags: []
 lang: de
-permalink: /group-mail-explained/
+slug: /group-mail-explained/
 meta:
 ---
 

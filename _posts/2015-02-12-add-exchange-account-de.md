@@ -9,7 +9,7 @@ categories:
 - Accounts
 tags: []
 lang: de
-permalink: /add-exchange-account/
+slug: /add-exchange-account/
 meta:
 ---
 

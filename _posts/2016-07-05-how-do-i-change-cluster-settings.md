@@ -9,7 +9,7 @@ categories:
 - Clusters
 tags: []
 lang: en
-permalink: /how-do-i-change-cluster-settings/
+slug: /how-do-i-change-cluster-settings/
 meta:
 ---
 

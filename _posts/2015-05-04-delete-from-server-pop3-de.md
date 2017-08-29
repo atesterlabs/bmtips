@@ -9,7 +9,7 @@ categories:
 - Accounts
 tags: []
 lang: de
-permalink: /delete-from-server-pop3/
+slug: /delete-from-server-pop3/
 meta:
 ---
 

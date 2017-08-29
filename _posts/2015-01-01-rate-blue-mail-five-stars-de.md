@@ -9,7 +9,7 @@ categories:
 - Troubleshooting
 tags: []
 lang: de
-permalink: /rate-blue-mail-five-stars/
+slug: /rate-blue-mail-five-stars/
 meta:
 ---
 

@@ -9,7 +9,7 @@ categories:
 - Accounts
 tags: []
 lang: de
-permalink: /oauth-outlook/
+slug: /oauth-outlook/
 meta:
 ---
 

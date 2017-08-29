@@ -9,7 +9,7 @@ categories:
 - Settings
 tags: []
 lang: de
-permalink: /edit-account/
+slug: /edit-account/
 meta:
 ---
 

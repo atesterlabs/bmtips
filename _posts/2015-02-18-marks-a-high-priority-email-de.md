@@ -9,7 +9,7 @@ categories:
 - Basic Actions
 tags: []
 lang: de
-permalink: /marks-a-high-priority-email/
+slug: /marks-a-high-priority-email/
 meta:
 ---
 

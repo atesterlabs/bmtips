@@ -9,7 +9,7 @@ categories:
 - A Feature Overview
 tags: []
 lang: en
-permalink: /at-a-glance-bluemail/
+slug: /at-a-glance-bluemail/
 meta:
 ---
 

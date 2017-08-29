@@ -9,7 +9,7 @@ categories:
 - Settings
 tags: []
 lang: en
-permalink: /show-compose-button/
+slug: /show-compose-button/
 meta:
 ---
 

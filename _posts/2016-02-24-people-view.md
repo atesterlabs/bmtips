@@ -9,7 +9,7 @@ categories:
 - Our New Features
 tags: []
 lang: en
-permalink: /people-view/
+slug: /people-view/
 meta:
 ---
 

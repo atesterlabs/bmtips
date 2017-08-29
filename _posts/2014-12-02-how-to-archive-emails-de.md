@@ -9,7 +9,7 @@ categories:
   - Basic Actions
 tags: []
 lang: de
-permalink: /how-to-archive-emails/
+slug: /how-to-archive-emails/
 ---
 
 {: .center}

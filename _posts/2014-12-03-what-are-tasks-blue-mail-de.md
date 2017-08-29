@@ -9,7 +9,7 @@ categories:
 - Getting Stuff Done
 tags: []
 lang: de
-permalink: /what-are-tasks-blue-mail/
+slug: /what-are-tasks-blue-mail/
 meta:
 ---
 

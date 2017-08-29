@@ -9,7 +9,7 @@ categories:
 - General
 tags: []
 lang: de
-permalink: /notification-mode/
+slug: /notification-mode/
 meta:
 ---
 

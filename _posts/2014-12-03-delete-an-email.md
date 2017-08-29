@@ -9,7 +9,7 @@ categories:
 - Basic Actions
 tags: []
 lang: en
-permalink: /delete-an-email/
+slug: /delete-an-email/
 meta:
 ---
 

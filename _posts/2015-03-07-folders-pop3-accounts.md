@@ -9,7 +9,7 @@ categories:
 - Accounts
 tags: []
 lang: en
-permalink: /folders-pop3-accounts/
+slug: /folders-pop3-accounts/
 meta:
 ---
 

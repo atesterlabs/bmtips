@@ -9,7 +9,7 @@ categories:
 - Folders
 tags: []
 lang: en
-permalink: /sync-folders-labels-imap-account/
+slug: /sync-folders-labels-imap-account/
 meta:
 ---
 

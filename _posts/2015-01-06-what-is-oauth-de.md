@@ -9,7 +9,7 @@ categories:
 - Accounts
 tags: []
 lang: de
-permalink: /what-is-oauth/
+slug: /what-is-oauth/
 meta:
 ---
 

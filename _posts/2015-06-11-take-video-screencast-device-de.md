@@ -10,7 +10,7 @@ categories:
 tags: []
 meta:
 lang: de
-permalink: /take-video-screencast-device/
+slug: /take-video-screencast-device/
 ---
 
 Um ein Video / Screencast zu senden, kannst du eine Bildschirmschoner App verwenden.

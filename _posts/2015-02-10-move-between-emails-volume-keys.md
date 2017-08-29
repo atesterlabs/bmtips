@@ -9,7 +9,7 @@ categories:
 - Features &amp; Usability
 tags: []
 lang: en
-permalink: /move-between-emails-volume-keys/
+slug: /move-between-emails-volume-keys/
 meta:
 ---
 

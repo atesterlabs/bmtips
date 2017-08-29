@@ -9,7 +9,7 @@ categories:
 - Folders
 tags: []
 lang: de
-permalink: /sent-emails-folder-blue-mail/
+slug: /sent-emails-folder-blue-mail/
 meta:
 ---
 

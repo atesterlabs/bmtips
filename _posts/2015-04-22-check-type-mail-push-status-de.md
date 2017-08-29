@@ -9,7 +9,7 @@ categories:
 - Push
 tags: []
 lang: de
-permalink: /check-type-mail-push-status/
+slug: /check-type-mail-push-status/
 meta:
 ---
 

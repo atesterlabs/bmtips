@@ -9,7 +9,7 @@ categories:
 - General
 tags: []
 lang: de
-permalink: /reply-header-style/
+slug: /reply-header-style/
 meta:
 ---
 

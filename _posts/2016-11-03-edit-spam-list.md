@@ -9,7 +9,7 @@ categories:
 - General
 tags: []
 lang: en
-permalink: /edit-spam-list/
+slug: /edit-spam-list/
 meta:
 ---
 

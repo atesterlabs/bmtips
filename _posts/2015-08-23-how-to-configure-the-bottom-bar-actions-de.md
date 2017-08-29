@@ -9,7 +9,7 @@ categories:
 - Settings
 tags: []
 lang: de
-permalink: /how-to-configure-the-bottom-bar-actions/
+slug: /how-to-configure-the-bottom-bar-actions/
 meta:
 ---
 

@@ -9,7 +9,7 @@ categories:
 - Menus &amp; Toolbars
 tags: []
 lang: en
-permalink: /bottom-bar-options-blue-mail/
+slug: /bottom-bar-options-blue-mail/
 ---
 
 Within an email you have a bottom bar with the following icons:

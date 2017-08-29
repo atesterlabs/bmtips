@@ -9,7 +9,7 @@ categories:
 - Troubleshooting
 tags: []
 lang: de
-permalink: /update-bluemail/
+slug: /update-bluemail/
 meta:
 ---
 

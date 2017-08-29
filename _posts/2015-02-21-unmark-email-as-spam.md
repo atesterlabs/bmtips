@@ -9,7 +9,7 @@ categories:
 - Enhanced Features
 tags: []
 lang: en
-permalink: /unmark-email-as-spam/
+slug: /unmark-email-as-spam/
 meta:
 ---
 

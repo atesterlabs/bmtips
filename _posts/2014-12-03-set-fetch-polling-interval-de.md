@@ -9,7 +9,7 @@ categories:
 - Push
 tags: []
 lang: de
-permalink: /set-fetch-polling-interval/
+slug: /set-fetch-polling-interval/
 meta:
 ---
 

@@ -9,7 +9,7 @@ categories:
 - Settings
 tags: []
 lang: de
-permalink: /default-folder-save-attachments/
+slug: /default-folder-save-attachments/
 meta:
 ---
 

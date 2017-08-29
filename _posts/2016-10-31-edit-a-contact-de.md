@@ -9,7 +9,7 @@ categories:
 - General
 tags: []
 lang: de
-permalink: /edit-a-contact/
+slug: /edit-a-contact/
 meta:
 ---
 

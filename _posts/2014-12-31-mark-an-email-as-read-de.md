@@ -9,7 +9,7 @@ categories:
 - Basic Actions
 tags: []
 lang: de
-permalink: /mark-an-email-as-read/
+slug: /mark-an-email-as-read/
 meta:
 
 ---

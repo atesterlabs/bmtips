@@ -9,7 +9,7 @@ categories:
 - Getting Stuff Done
 tags: []
 lang: en
-permalink: /mark-an-email-as-later/
+slug: /mark-an-email-as-later/
 meta:
 ---
 

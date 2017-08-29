@@ -9,7 +9,7 @@ categories:
 - Folders
 tags: []
 lang: de
-permalink: /folder-management-in-blue-mail/
+slug: /folder-management-in-blue-mail/
 meta:
 ---
 

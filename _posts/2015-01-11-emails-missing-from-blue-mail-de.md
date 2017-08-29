@@ -9,7 +9,7 @@ categories:
 - Troubleshooting
 tags: []
 lang: de
-permalink: /emails-missing-from-blue-mail/
+slug: /emails-missing-from-blue-mail/
 meta:
 ---
 

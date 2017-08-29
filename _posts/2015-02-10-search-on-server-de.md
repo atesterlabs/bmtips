@@ -9,7 +9,7 @@ categories:
 - Basic Actions
 tags: []
 lang: de
-permalink: /search-on-server/
+slug: /search-on-server/
 meta:
 ---
 

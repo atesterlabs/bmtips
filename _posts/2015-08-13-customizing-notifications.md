@@ -9,7 +9,7 @@ categories:
 - Settings
 tags: []
 lang: en
-permalink: /customizing-notifications/
+slug: /customizing-notifications/
 meta:
 ---
 

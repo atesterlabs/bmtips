@@ -9,7 +9,7 @@ categories:
 - Groups
 tags: []
 lang: en
-permalink: /creating-a-group/
+slug: /creating-a-group/
 meta:
 ---
 

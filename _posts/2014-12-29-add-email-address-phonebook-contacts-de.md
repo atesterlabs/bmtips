@@ -9,7 +9,7 @@ categories:
 - Features &amp; Usability
 tags: []
 lang: de
-permalink: /add-email-address-phonebook-contacts/
+slug: /add-email-address-phonebook-contacts/
 meta:
 ---
 

@@ -9,7 +9,7 @@ categories:
 - Groups
 tags: []
 lang: en
-permalink: /suggested-groups/
+slug: /suggested-groups/
 meta:
 ---
 

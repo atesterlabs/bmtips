@@ -9,7 +9,7 @@ categories:
 - Specific Providers
 tags: []
 lang: en
-permalink: /change-password-gmail-outlook-account/
+slug: /change-password-gmail-outlook-account/
 meta:
 ---
 

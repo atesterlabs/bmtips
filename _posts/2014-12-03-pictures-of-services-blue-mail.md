@@ -9,7 +9,7 @@ categories:
 - Features &amp; Usability
 tags: []
 lang: en
-permalink: /pictures-of-services-blue-mail/
+slug: /pictures-of-services-blue-mail/
 meta:
 ---
 

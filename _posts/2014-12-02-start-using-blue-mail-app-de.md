@@ -8,7 +8,7 @@ status: publish
 categories:
 - Accounts
 lang: de
-permalink: /start-using-blue-mail/
+slug: /start-using-blue-mail/
 ---
 
 

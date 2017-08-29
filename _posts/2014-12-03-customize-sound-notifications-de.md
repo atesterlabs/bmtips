@@ -9,7 +9,7 @@ categories:
 - Settings
 tags: []
 lang: de
-permalink: /customize-sound-notifications/
+slug: /customize-sound-notifications/
 ---
 
 Um die Tonbenachrichtigungen anzupassen, gehen Sie bitte folgendermaßen vor:

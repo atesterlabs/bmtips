@@ -10,7 +10,7 @@ categories:
 - Troubleshooting
 tags: []
 lang: en
-permalink: /connection-problems-dont-sync/
+slug: /connection-problems-dont-sync/
 meta:
 ---
 

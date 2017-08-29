@@ -9,7 +9,7 @@ categories:
 - Enhanced Features
 tags: []
 lang: en
-permalink: /android-wear-bluemail/
+slug: /android-wear-bluemail/
 meta:
 ---
 

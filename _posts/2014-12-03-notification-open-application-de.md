@@ -9,7 +9,7 @@ categories:
 - Push
 tags: []
 lang: de
-permalink: /notification-open-application/
+slug: /notification-open-application/
 meta:
 ---
 

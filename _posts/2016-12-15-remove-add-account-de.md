@@ -9,7 +9,7 @@ categories:
 - General
 tags: []
 lang: de
-permalink: /remove-add-account/
+slug: /remove-add-account/
 meta:
 ---
 

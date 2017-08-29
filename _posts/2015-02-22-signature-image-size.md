@@ -10,7 +10,7 @@ categories:
 - Enhanced Features
 tags: []
 lang: en
-permalink: /signature-image-size/
+slug: /signature-image-size/
 meta:
 ---
 

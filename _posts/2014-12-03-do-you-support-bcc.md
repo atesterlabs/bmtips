@@ -9,7 +9,7 @@ categories:
   - Basic Actions
 tags: []
 lang: en
-permalink: /bcc-support-bluemail/
+slug: /bcc-support-bluemail/
 ---
 
 

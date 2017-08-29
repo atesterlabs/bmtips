@@ -9,7 +9,7 @@ categories:
 - Settings
 tags: []
 lang: en
-permalink: /disable-outgoing-sound/
+slug: /disable-outgoing-sound/
 meta:
 ---
 

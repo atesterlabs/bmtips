@@ -9,7 +9,7 @@ categories:
 - Troubleshooting
 tags: []
 lang: en
-permalink: /hide-bottom-bar/
+slug: /hide-bottom-bar/
 meta:
 ---
 

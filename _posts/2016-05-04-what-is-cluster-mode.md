@@ -9,7 +9,7 @@ categories:
 - General
 tags: []
 lang: en
-permalink: /what-is-cluster-mode/
+slug: /what-is-cluster-mode/
 meta:
 ---
 

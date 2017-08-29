@@ -9,7 +9,7 @@ categories:
 - Features &amp; Usability
 tags: []
 lang: en
-permalink: /unread-count-badge-app-icon/
+slug: /unread-count-badge-app-icon/
 meta:
 ---
 

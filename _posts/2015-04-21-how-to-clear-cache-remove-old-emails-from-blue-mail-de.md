@@ -9,7 +9,7 @@ categories:
 - Enhanced Features
 tags: []
 lang: de
-permalink: /how-to-clear-cache-remove-old-emails-from-blue-mail/
+slug: /how-to-clear-cache-remove-old-emails-from-blue-mail/
 meta:
 ---
 

@@ -9,7 +9,7 @@ categories:
 - Accounts
 tags: []
 lang: de
-permalink: /oauth-yahoo/
+slug: /oauth-yahoo/
 meta:
 ---
 

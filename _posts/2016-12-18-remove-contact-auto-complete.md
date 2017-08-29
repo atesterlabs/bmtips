@@ -9,7 +9,7 @@ categories:
 - Settings
 tags: []
 lang: en
-permalink: /remove-contact-auto-complete/
+slug: /remove-contact-auto-complete/
 meta:
 ---
 

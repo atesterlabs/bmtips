@@ -9,7 +9,7 @@ categories:
 - Features &amp; Usability
 tags: []
 lang: de
-permalink: /automatically-download-attachments/
+slug: /automatically-download-attachments/
 ---
 
 Jetzt werden Anhänge auf Anfrage geladen. Wir erwägen derzeit intelligente Abrufe, da wir gute Erfahrungen mit der intelligenten Ressourcennutzung ausgleichen wollen: Datentransfer, Batterielebensdauer und Speicherverwaltung.

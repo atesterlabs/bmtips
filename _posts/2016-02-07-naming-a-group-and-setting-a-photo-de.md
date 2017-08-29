@@ -9,7 +9,7 @@ categories:
 - Groups
 tags: []
 lang: de
-permalink: /naming-a-group-and-setting-a-photo/
+slug: /naming-a-group-and-setting-a-photo/
 meta:
 ---
 

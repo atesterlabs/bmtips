@@ -9,7 +9,7 @@ categories:
 - Accounts
 tags: []
 lang: en
-permalink: /change-default-account/
+slug: /change-default-account/
 ---
 
 You can change your Default Account using *More* \| *Global Settings* \| *Advanced Features* and you will have these options:

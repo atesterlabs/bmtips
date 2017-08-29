@@ -9,7 +9,7 @@ categories:
 - Settings
 tags: []
 lang: en
-permalink: /how-to-customize-the-led-notifications/
+slug: /how-to-customize-the-led-notifications/
 meta:
 ---
 

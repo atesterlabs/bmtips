@@ -9,7 +9,7 @@ categories:
 - Features &amp; Usability
 tags: []
 lang: de
-permalink: /alternatives-unread-count-badge/
+slug: /alternatives-unread-count-badge/
 meta:
 ---
 

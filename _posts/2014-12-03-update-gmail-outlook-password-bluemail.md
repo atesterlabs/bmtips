@@ -9,7 +9,7 @@ categories:
 - Specific Providers
 tags: []
 lang: en
-permalink: /update-gmail-outlook-password-bluemail/
+slug: /update-gmail-outlook-password-bluemail/
 meta:
 ---
 

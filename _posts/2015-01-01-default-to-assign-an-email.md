@@ -10,7 +10,7 @@ categories:
 - Getting Stuff Done
 tags: []
 lang: en
-permalink: /default-to-assign-an-email/
+slug: /default-to-assign-an-email/
 meta:
 ---
 

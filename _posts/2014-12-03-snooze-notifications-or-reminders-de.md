@@ -9,7 +9,7 @@ categories:
 - Getting Stuff Done
 tags: []
 lang: de
-permalink: /snooze-notifications-or-reminders/
+slug: /snooze-notifications-or-reminders/
 meta:
 ---
 

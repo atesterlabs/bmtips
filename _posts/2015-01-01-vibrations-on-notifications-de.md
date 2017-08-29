@@ -9,7 +9,7 @@ categories:
 - Enhanced Features
 tags: []
 lang: de
-permalink: /vibrations-on-notifications/
+slug: /vibrations-on-notifications/
 meta:
 ---
 

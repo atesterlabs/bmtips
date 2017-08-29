@@ -10,7 +10,7 @@ categories:
 - Push
 tags: []
 lang: en
-permalink: /push-email-bluemail-not-running/
+slug: /push-email-bluemail-not-running/
 meta:
 ---
 

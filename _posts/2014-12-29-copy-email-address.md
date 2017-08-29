@@ -9,7 +9,7 @@ categories:
 - Features &amp; Usability
 tags: []
 lang: en
-permalink: /copy-email-address/
+slug: /copy-email-address/
 meta:
 ---
 

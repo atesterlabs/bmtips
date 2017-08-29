@@ -9,7 +9,7 @@ categories:
 - General
 tags: []
 lang: de
-permalink: /what-does-the-people-toggle-switch-do/
+slug: /what-does-the-people-toggle-switch-do/
 meta:
 ---
 

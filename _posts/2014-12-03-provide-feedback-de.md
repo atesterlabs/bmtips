@@ -9,7 +9,7 @@ categories:
 - Troubleshooting
 tags: []
 lang: de
-permalink: /provide-feedback/
+slug: /provide-feedback/
 meta:
 ---
 

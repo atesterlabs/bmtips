@@ -9,7 +9,7 @@ categories:
 - Settings
 tags: []
 lang: de
-permalink: /do-you-support-sounds-how-can-i-customize-sound-notifications/
+slug: /do-you-support-sounds-how-can-i-customize-sound-notifications/
 meta:
 ---
 

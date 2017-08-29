@@ -9,7 +9,7 @@ categories:
 - Troubleshooting
 tags: []
 lang: en
-permalink: /phone-disconnects-while-sending/
+slug: /phone-disconnects-while-sending/
 meta:
 ---
 

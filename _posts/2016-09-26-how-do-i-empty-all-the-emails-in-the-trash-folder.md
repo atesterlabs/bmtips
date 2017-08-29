@@ -9,7 +9,7 @@ categories:
 - General
 tags: []
 lang: en
-permalink: /how-do-i-empty-all-the-emails-in-the-trash-folder/
+slug: /how-do-i-empty-all-the-emails-in-the-trash-folder/
 meta:
 ---
 

@@ -9,7 +9,7 @@ categories:
 - Features &amp; Usability
 tags: []
 lang: en
-permalink: /widget-capabilities-blue-mail/
+slug: /widget-capabilities-blue-mail/
 meta:
 ---
 

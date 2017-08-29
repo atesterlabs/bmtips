@@ -9,7 +9,7 @@ categories:
 - Folders
 tags: []
 lang: en
-permalink: /junk-spam-folder-blue-mail/
+slug: /junk-spam-folder-blue-mail/
 meta:
 ---
 

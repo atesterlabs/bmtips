@@ -9,7 +9,7 @@ categories:
 - General
 tags: []
 lang: en
-permalink: /mac-client/
+slug: /mac-client/
 meta:
 ---
 

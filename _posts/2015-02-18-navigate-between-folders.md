@@ -10,7 +10,7 @@ categories:
 - Basic Actions
 tags: []
 lang: en
-permalink: /navigate-between-folders/
+slug: /navigate-between-folders/
 meta:
 ---
 

@@ -9,7 +9,7 @@ categories:
 - Basic Actions
 tags: []
 lang: de
-permalink: /difference-reply-reply-all-forward/
+slug: /difference-reply-reply-all-forward/
 meta:
 ---
 

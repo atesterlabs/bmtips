@@ -9,7 +9,7 @@ categories:
 - Our New Features
 tags: []
 lang: de
-permalink: /how-to-sync-your-accounts-between-multiple-devices-what-is-sms-verification/
+slug: /how-to-sync-your-accounts-between-multiple-devices-what-is-sms-verification/
 meta:
 ---
 

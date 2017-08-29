@@ -9,7 +9,7 @@ categories:
 - Enhanced Features
 tags: []
 lang: de
-permalink: /show-next-after-deleting/
+slug: /show-next-after-deleting/
 meta:
 ---
 

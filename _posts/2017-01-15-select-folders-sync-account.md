@@ -9,7 +9,7 @@ categories:
 - General
 tags: []
 lang: en
-permalink: /select-folders-sync-account/
+slug: /select-folders-sync-account/
 meta:
 ---
 

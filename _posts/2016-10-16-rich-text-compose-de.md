@@ -9,7 +9,7 @@ categories:
 - Menus &amp; Toolbars
 tags: []
 lang: de
-permalink: /rich-text-compose/
+slug: /rich-text-compose/
 meta:
 ---
 

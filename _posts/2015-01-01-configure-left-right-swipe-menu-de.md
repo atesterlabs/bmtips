@@ -9,7 +9,7 @@ categories:
 - Settings
 tags: []
 lang: de
-permalink: /configure-left-right-swipe-menu/
+slug: /configure-left-right-swipe-menu/
 meta:
 ---
 

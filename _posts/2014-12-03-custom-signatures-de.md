@@ -9,7 +9,7 @@ categories:
 - Settings
 tags: []
 lang: de
-permalink: /custom-signatures/
+slug: /custom-signatures/
 ---
 
 Mit BlueMail kannst du deine eigene Unterschrift erstellen.

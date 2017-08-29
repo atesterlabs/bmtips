@@ -9,7 +9,7 @@ categories:
 - General
 tags: []
 lang: en
-permalink: /future-plans-blue-mail/
+slug: /future-plans-blue-mail/
 meta:
 ---
 

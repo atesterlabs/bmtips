@@ -8,5 +8,5 @@ group :jekyll_plugins do
 	gem 'jekyll-seo-tag', '2.1.0'
 	gem 'jekyll-feed', '0.9.1'
 	gem 'jekyll-extract-element', '0.0.6'
-	gem 'jekyll-polyglot'
+	gem 'jekyll-polyglot', '1.3.0'
 end

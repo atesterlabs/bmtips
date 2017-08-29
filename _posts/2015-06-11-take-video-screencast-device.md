@@ -9,7 +9,7 @@ categories:
 - Troubleshooting
 tags: []
 lang: en
-permalink: /take-video-screencast-device/
+slug: /take-video-screencast-device/
 meta:
 ---
 

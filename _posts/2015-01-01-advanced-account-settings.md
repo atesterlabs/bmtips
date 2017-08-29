@@ -9,7 +9,7 @@ categories:
 - Settings
 tags: []
 lang: en
-permalink: /advanced-account-settings/
+slug: /advanced-account-settings/
 meta:
 ---
 

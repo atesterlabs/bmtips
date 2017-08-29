@@ -9,7 +9,7 @@ categories:
 - Accounts
 tags: []
 lang: de
-permalink: /multiple-accounts-support-blue-mail/
+slug: /multiple-accounts-support-blue-mail/
 meta:
 ---
 

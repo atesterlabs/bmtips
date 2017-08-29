@@ -9,7 +9,7 @@ categories:
 - General
 tags: []
 lang: de
-permalink: /windows-pc-client/
+slug: /windows-pc-client/
 meta:
 ---
 

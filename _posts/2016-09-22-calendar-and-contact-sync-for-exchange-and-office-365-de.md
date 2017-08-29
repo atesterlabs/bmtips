@@ -9,7 +9,7 @@ categories:
 - General
 tags: []
 lang: de
-permalink: /calendar-and-contact-sync-for-exchange-and-office-365/
+slug: /calendar-and-contact-sync-for-exchange-and-office-365/
 meta:
 ---
 

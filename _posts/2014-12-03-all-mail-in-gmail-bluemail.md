@@ -9,7 +9,7 @@ categories:
 - Specific Providers
 tags: []
 lang: en
-permalink: /all-mail-in-gmail-bluemail/
+slug: /all-mail-in-gmail-bluemail/
 ---
 
 If the "All Mail" folder isn't displayed in BlueMail, follow these steps to resolve it:

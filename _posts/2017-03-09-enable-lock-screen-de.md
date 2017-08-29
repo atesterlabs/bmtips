@@ -9,7 +9,7 @@ categories:
 - General
 tags: []
 lang: de
-permalink: /enable-lock-screen/
+slug: /enable-lock-screen/
 meta:
 ---
 

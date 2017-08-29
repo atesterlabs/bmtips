@@ -9,7 +9,7 @@ categories:
 - Troubleshooting
 tags: []
 lang: de
-permalink: /exclude-bluemail-doze/
+slug: /exclude-bluemail-doze/
 meta:
 ---
 

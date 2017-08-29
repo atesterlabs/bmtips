@@ -9,7 +9,7 @@ categories:
 - Accounts
 tags: []
 lang: de
-permalink: /list-of-providers-blue-mail/
+slug: /list-of-providers-blue-mail/
 meta:
 ---
 

@@ -9,7 +9,7 @@ categories:
 - General
 tags: []
 lang: en
-permalink: /what-are-the-notifications-methods/
+slug: /what-are-the-notifications-methods/
 meta:
 ---
 

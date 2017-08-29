@@ -9,7 +9,7 @@ categories:
 - Features &amp; Usability
 tags: []
 lang: de
-permalink: /view-attachments-blue-mail/
+slug: /view-attachments-blue-mail/
 meta:
 ---
 

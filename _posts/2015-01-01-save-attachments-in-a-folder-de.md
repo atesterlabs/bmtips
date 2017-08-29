@@ -9,7 +9,7 @@ categories:
 - Enhanced Features
 tags: []
 lang: de
-permalink: /save-attachments-in-a-folder/
+slug: /save-attachments-in-a-folder/
 meta:
 ---
 

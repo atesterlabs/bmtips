@@ -10,6 +10,6 @@ categories:
 tags: []
 meta:
 lang: en
-permalink: /delete-an-account-blue-mail/
+slug: /delete-an-account-blue-mail/
 ---
 You can delete an account using: *More* \| *Various Account Settings* \| *tap the account you want to delete* \| *Edit Account* \| *Remove Account* \| **Confirm with OK**.

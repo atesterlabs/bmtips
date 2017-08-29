@@ -9,7 +9,7 @@ categories:
 - Basic Actions
 tags: []
 lang: de
-permalink: /refresh-mail-list/
+slug: /refresh-mail-list/
 meta:
 ---
 

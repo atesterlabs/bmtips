@@ -9,7 +9,7 @@ categories:
 - Troubleshooting
 tags: []
 lang: de
-permalink: /stand-alone-application/
+slug: /stand-alone-application/
 meta:
 ---
 **BlueMail** funktioniert unabhängig von allen anderen E-Mail-Anwendungen. Sie erhalten Instant Notifications, automatische E-Mail-Synchronisierung und haben die Möglichkeit, Ihre E-Mail zu lesen, ohne sich auf eine andere App zu verlassen!

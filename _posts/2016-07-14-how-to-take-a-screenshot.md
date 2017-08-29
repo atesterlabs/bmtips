@@ -9,7 +9,7 @@ categories:
 - Basic Actions
 tags: []
 lang: en
-permalink: /how-to-take-a-screenshot/
+slug: /how-to-take-a-screenshot/
 meta:
 ---
 

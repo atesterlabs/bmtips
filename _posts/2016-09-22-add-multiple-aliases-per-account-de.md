@@ -9,7 +9,7 @@ categories:
 - General
 tags: []
 lang: de
-permalink: /add-multiple-aliases-per-account/
+slug: /add-multiple-aliases-per-account/
 meta:
 ---
 

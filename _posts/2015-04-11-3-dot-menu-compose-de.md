@@ -10,7 +10,7 @@ categories:
 tags: []
 meta:
 lang: de
-permalink: /3-dot-menu-compose/
+slug: /3-dot-menu-compose/
 ---
 
 Auf der oberen Bar 3-Punkt-Menü im Compose-Modus haben Sie folgende Möglichkeiten:

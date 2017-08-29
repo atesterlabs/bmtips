@@ -10,7 +10,7 @@ categories:
 - Our New Features
 tags: []
 lang: de
-permalink: /my-profile/
+slug: /my-profile/
 meta:
 ---
 

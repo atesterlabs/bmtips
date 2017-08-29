@@ -9,7 +9,7 @@ categories:
 - Troubleshooting
 tags: []
 lang: en
-permalink: /remove-ews/
+slug: /remove-ews/
 meta:
 ---
 

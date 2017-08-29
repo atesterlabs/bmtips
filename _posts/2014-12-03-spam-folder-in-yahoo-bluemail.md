@@ -9,7 +9,7 @@ categories:
 - Specific Providers
 tags: []
 lang: en
-permalink: /spam-folder-in-yahoo-bluemail/
+slug: /spam-folder-in-yahoo-bluemail/
 meta:
 ---
 

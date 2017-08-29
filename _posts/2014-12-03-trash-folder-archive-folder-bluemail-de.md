@@ -9,7 +9,7 @@ categories:
 - Folders
 tags: []
 lang: de
-permalink: /trash-folder-archive-folder-bluemail/
+slug: /trash-folder-archive-folder-bluemail/
 meta:
 ---
 

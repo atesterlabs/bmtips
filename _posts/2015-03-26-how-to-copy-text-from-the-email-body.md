@@ -9,7 +9,7 @@ categories:
 - Basic Actions
 tags: []
 lang: en
-permalink: /how-to-copy-text-from-the-email-body/
+slug: /how-to-copy-text-from-the-email-body/
 meta:
 ---
 

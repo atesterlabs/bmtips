@@ -9,7 +9,7 @@ categories:
 - Enhanced Features
 tags: []
 lang: de
-permalink: /read-receipts-blue-mail/
+slug: /read-receipts-blue-mail/
 ---
 
 Zu fragen, für eine Lesebestätigung, drücken Sie bitte die 3-Punkte-Menü im Compose-Bildschirm, und wählen Sie **Aktivieren Lesebestätigung**.

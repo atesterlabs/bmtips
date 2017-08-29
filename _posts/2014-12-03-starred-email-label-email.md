@@ -9,7 +9,7 @@ categories:
 - Basic Actions
 tags: []
 lang: en
-permalink: /starred-email-label-email/
+slug: /starred-email-label-email/
 meta:
 ---
 

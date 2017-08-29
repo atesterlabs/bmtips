@@ -9,7 +9,7 @@ categories:
 - Clusters
 tags: []
 lang: en
-permalink: /how-do-i-choose-which-emails-get-clustered/
+slug: /how-do-i-choose-which-emails-get-clustered/
 meta:
 ---
 

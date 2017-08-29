@@ -9,7 +9,7 @@ categories:
 - Basic Actions
 tags: []
 lang: en
-permalink: /forward-emails/
+slug: /forward-emails/
 meta:
 ---
 

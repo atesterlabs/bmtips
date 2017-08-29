@@ -9,7 +9,7 @@ categories:
 - Specific Providers
 tags: []
 lang: en
-permalink: /app-specific-password-icloud/
+slug: /app-specific-password-icloud/
 meta:
 ---
 

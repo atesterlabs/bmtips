@@ -9,7 +9,7 @@ categories:
 - Groups
 tags: []
 lang: de
-permalink: /send-an-email-to-a-group/
+slug: /send-an-email-to-a-group/
 meta:
 ---
 

@@ -9,7 +9,7 @@ categories:
 - Getting Stuff Done
 tags: []
 lang: en
-permalink: /get-stuff-done/
+slug: /get-stuff-done/
 meta:
 ---
 

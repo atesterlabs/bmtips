@@ -9,7 +9,7 @@ categories:
 - Getting Stuff Done
 tags: []
 lang: en
-permalink: /later-done-emails-other-clients/
+slug: /later-done-emails-other-clients/
 meta:
 ---
 

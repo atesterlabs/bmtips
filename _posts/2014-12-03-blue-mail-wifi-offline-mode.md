@@ -9,7 +9,7 @@ categories:
 - Features &amp; Usability
 tags: []
 lang: en
-permalink: /blue-mail-wifi-offline-mode/
+slug: /blue-mail-wifi-offline-mode/
 ---
 
 BlueMail works well with WiFi, 3G and any other cellular networks, and also offline!

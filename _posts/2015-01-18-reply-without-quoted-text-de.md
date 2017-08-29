@@ -9,7 +9,7 @@ categories:
 - Enhanced Features
 tags: []
 lang: de
-permalink: /reply-without-quoted-text/
+slug: /reply-without-quoted-text/
 meta:
 ---
 

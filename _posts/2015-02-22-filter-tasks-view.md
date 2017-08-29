@@ -9,7 +9,7 @@ categories:
 - Getting Stuff Done
 tags: []
 lang: en
-permalink: /filter-tasks-view/
+slug: /filter-tasks-view/
 meta:
 ---
 

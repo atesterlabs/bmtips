@@ -9,7 +9,7 @@ categories:
 - Basic Actions
 tags: []
 lang: de
-permalink: /read-unread-status-per-email/
+slug: /read-unread-status-per-email/
 meta:
 ---
 

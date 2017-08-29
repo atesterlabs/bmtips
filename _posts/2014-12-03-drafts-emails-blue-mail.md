@@ -9,7 +9,7 @@ categories:
 - Folders
 tags: []
 lang: en
-permalink: /drafts-emails-blue-mail/
+slug: /drafts-emails-blue-mail/
 meta:
 ---
 

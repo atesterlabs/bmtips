@@ -9,7 +9,7 @@ categories:
 - Enhanced Features
 tags: []
 lang: en
-permalink: /use-quick-replies/
+slug: /use-quick-replies/
 meta:
 ---
 

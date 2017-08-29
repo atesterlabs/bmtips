@@ -9,7 +9,7 @@ categories:
 - Menus &amp; Toolbars
 tags: []
 lang: en
-permalink: /swipe-menu-options-blue-mail/
+slug: /swipe-menu-options-blue-mail/
 meta:
 ---
 

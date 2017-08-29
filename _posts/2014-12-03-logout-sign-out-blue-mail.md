@@ -9,7 +9,7 @@ categories:
 - Basic Actions
 tags: []
 lang: en
-permalink: /logout-sign-out-blue-mail/
+slug: /logout-sign-out-blue-mail/
 meta:
 ---
 

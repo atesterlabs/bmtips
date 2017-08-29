@@ -9,7 +9,7 @@ categories:
 - Specific Providers
 tags: []
 lang: en
-permalink: /gmails-all-mail-folder-bluemail/
+slug: /gmails-all-mail-folder-bluemail/
 meta:
 ---
 

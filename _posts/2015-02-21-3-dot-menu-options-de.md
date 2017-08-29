@@ -10,7 +10,7 @@ categories:
 tags: []
 meta:
 lang: de
-permalink: /3-dot-menu-options/
+slug: /3-dot-menu-options/
 ---
 
 Das 3-Punkt-Menü bietet kontextsensitive Optionen.

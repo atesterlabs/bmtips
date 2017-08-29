@@ -9,7 +9,7 @@ categories:
 - Troubleshooting
 tags: []
 lang: de
-permalink: /common-solutions/
+slug: /common-solutions/
 meta:
 ---
 

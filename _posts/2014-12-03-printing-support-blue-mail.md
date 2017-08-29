@@ -9,7 +9,7 @@ categories:
 - Features &amp; Usability
 tags: []
 lang: en
-permalink: /printing-support-blue-mail/
+slug: /printing-support-blue-mail/
 meta:
 ---
 

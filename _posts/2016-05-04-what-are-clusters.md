@@ -9,7 +9,7 @@ categories:
 - Clusters
 tags: []
 lang: en
-permalink: /what-are-clusters/
+slug: /what-are-clusters/
 meta:
 ---
 

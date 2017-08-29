@@ -10,7 +10,7 @@ categories:
 - Settings
 tags: []
 lang: en
-permalink: /days-to-sync-option/
+slug: /days-to-sync-option/
 meta:
 ---
 

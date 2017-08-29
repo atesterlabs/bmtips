@@ -9,7 +9,7 @@ categories:
 - Accounts
 tags: []
 lang: en
-permalink: /configure-account-manually/
+slug: /configure-account-manually/
 meta:
 ---
 

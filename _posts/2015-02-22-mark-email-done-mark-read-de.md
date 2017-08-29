@@ -9,7 +9,7 @@ categories:
 - Getting Stuff Done
 tags: []
 lang: de
-permalink: /mark-email-done-mark-read/
+slug: /mark-email-done-mark-read/
 meta:
 ---
 

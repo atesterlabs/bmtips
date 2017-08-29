@@ -9,7 +9,7 @@ categories:
 - Features &amp; Usability
 tags: []
 lang: en
-permalink: /attachments-file-types-bluemail-support/
+slug: /attachments-file-types-bluemail-support/
 ---
 
 BlueMail supports adding an attachment from your photos or videos libraries, documents, PDFs and other kinds of attachments. BlueMail uses native applications to open a viewer that is suitable for the attachment on the receiving end point, based on the receiver preferences.

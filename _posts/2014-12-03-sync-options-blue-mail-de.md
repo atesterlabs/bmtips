@@ -9,7 +9,7 @@ categories:
 - Accounts
 tags: []
 lang: de
-permalink: /sync-options-blue-mail/
+slug: /sync-options-blue-mail/
 meta:
 ---
 

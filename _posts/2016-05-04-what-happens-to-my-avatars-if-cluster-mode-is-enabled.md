@@ -9,7 +9,7 @@ categories:
 - General
 tags: []
 lang: en
-permalink: /what-happens-to-my-avatars-if-cluster-mode-is-enabled/
+slug: /what-happens-to-my-avatars-if-cluster-mode-is-enabled/
 meta:
 ---
 

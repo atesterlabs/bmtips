@@ -9,7 +9,7 @@ categories:
 - Features &amp; Usability
 tags: []
 lang: de
-permalink: /maximum-attachment-size-blue-mail/
+slug: /maximum-attachment-size-blue-mail/
 meta:
 ---
 

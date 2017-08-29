@@ -9,7 +9,7 @@ categories:
 - Settings
 tags: []
 lang: de
-permalink: /global-settings/
+slug: /global-settings/
 meta:
 ---
 

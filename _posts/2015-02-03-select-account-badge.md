@@ -9,7 +9,7 @@ categories:
 - Accounts
 tags: []
 lang: en
-permalink: /select-account-badge/
+slug: /select-account-badge/
 meta:
 ---
 

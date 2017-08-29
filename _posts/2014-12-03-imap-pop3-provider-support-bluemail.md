@@ -9,7 +9,7 @@ categories:
 - Accounts
 tags: []
 lang: en
-permalink: /imap-pop3-provider-support-bluemail/
+slug: /imap-pop3-provider-support-bluemail/
 meta:
 ---
 

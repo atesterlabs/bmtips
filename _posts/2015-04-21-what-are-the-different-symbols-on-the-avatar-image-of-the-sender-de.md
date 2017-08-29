@@ -9,7 +9,7 @@ categories:
 - General
 tags: []
 lang: de
-permalink: /what-are-the-different-symbols-on-the-avatar-image-of-the-sender/
+slug: /what-are-the-different-symbols-on-the-avatar-image-of-the-sender/
 meta:
 ---
 

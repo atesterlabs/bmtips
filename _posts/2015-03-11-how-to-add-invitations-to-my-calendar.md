@@ -9,7 +9,7 @@ categories:
 - Features &amp; Usability
 tags: []
 lang: en
-permalink: /how-to-add-invitations-to-my-calendar/
+slug: /how-to-add-invitations-to-my-calendar/
 meta:
 ---
 

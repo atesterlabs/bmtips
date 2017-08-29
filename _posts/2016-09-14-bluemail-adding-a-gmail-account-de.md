@@ -9,7 +9,7 @@ categories:
 - Accounts
 tags: []
 lang: de
-permalink: /bluemail-adding-a-gmail-account/
+slug: /bluemail-adding-a-gmail-account/
 meta:
 ---
 

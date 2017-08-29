@@ -9,7 +9,7 @@ categories:
 - Push
 tags: []
 lang: en
-permalink: /notifications-actions/
+slug: /notifications-actions/
 meta:
 ---
 

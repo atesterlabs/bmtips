@@ -9,7 +9,7 @@ categories:
 - Features &amp; Usability
 tags: []
 lang: de
-permalink: /different-account-to-send-from/
+slug: /different-account-to-send-from/
 meta:
 ---
 

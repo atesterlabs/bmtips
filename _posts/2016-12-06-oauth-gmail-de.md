@@ -9,7 +9,7 @@ categories:
 - Accounts
 tags: []
 lang: de
-permalink: /oauth-gmail/
+slug: /oauth-gmail/
 meta:
 ---
 

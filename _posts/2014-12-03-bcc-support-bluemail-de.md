@@ -9,7 +9,7 @@ categories:
 - Basic Actions
 tags: []
 lang: de
-permalink: /bcc-support-bluemail/
+slug: /bcc-support-bluemail/
 ---
 
 BlueMail unterstützt BCC. Im Compose-Modus wählen Sie das 3-Punkte-Menü und wählen Sie *Add Cc / Bcc*, wird es fügen Sie zusätzliche Zeilen für CC und BCC, wo Sie Empfänger hinzufügen können.

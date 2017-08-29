@@ -9,7 +9,7 @@ categories:
 - Menus &amp; Toolbars
 tags: []
 lang: en
-permalink: /how-do-i-enable-dark-mode/
+slug: /how-do-i-enable-dark-mode/
 meta:
 ---
 

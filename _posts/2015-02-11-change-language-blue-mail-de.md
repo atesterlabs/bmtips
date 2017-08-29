@@ -9,7 +9,7 @@ categories:
 - Basic Actions
 tags: []
 lang: de
-permalink: /change-language-blue-mail/
+slug: /change-language-blue-mail/
 meta:
 ---
 

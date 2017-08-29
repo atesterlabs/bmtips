@@ -9,7 +9,7 @@ categories:
 - Troubleshooting
 tags: []
 lang: en
-permalink: /see-status-sent-messages/
+slug: /see-status-sent-messages/
 meta:
 ---
 

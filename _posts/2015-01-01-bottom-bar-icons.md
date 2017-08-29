@@ -9,7 +9,7 @@ categories:
 - Menus &amp; Toolbars
 tags: []
 lang: en
-permalink: /bottom-bar-icons/
+slug: /bottom-bar-icons/
 meta:
 ---
 

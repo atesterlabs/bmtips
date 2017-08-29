@@ -9,7 +9,7 @@ categories:
 - Enhanced Features
 tags: []
 lang: de
-permalink: /myself-bcc-automatically/
+slug: /myself-bcc-automatically/
 meta:
 ---
 

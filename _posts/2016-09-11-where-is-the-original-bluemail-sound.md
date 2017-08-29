@@ -9,7 +9,7 @@ categories:
 - General
 tags: []
 lang: en
-permalink: /where-is-the-original-bluemail-sound/
+slug: /where-is-the-original-bluemail-sound/
 meta:
 ---
 

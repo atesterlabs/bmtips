@@ -9,7 +9,7 @@ categories:
 - Features &amp; Usability
 tags: []
 lang: de
-permalink: /save-an-attachment-on-sd/
+slug: /save-an-attachment-on-sd/
 meta:
 ---
 

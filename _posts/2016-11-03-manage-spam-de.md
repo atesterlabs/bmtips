@@ -9,7 +9,7 @@ categories:
 - General
 tags: []
 lang: de
-permalink: /manage-spam/
+slug: /manage-spam/
 meta:
 ---
 Spam-E-Mails kommen in allen Formen, von unerwünschten Newslettern zu Ansprüchen eines langen verlorenen Vermögens von einem *sehr* entfernten Verwandten.

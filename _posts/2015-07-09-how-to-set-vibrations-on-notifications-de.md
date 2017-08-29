@@ -9,7 +9,7 @@ categories:
 - Enhanced Features
 tags: []
 lang: de
-permalink: /how-to-set-vibrations-on-notifications/
+slug: /how-to-set-vibrations-on-notifications/
 meta:
 ---
 

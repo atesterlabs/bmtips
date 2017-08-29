@@ -9,7 +9,7 @@ categories:
 - Accounts
 tags: []
 lang: en
-permalink: /accounts-status-options/
+slug: /accounts-status-options/
 meta:
 ---
 

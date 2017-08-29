@@ -9,7 +9,7 @@ categories:
 - General
 tags: []
 lang: de
-permalink: /lets-get-tasks-done/
+slug: /lets-get-tasks-done/
 meta:
 ---
 

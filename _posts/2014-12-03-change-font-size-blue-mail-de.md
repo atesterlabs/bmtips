@@ -9,7 +9,7 @@ categories:
 - Settings
 tags: []
 lang: de
-permalink: /change-font-size-blue-mail/
+slug: /change-font-size-blue-mail/
 ---
 
 Mit BlueMail können Sie die Schriftgrößen anpassen.

@@ -9,7 +9,7 @@ categories:
 - General
 tags: []
 lang: en
-permalink: /how-do-i-change-the-default-filter/
+slug: /how-do-i-change-the-default-filter/
 meta:
 ---
 

@@ -9,7 +9,7 @@ categories:
 - Menus &amp; Toolbars
 tags: []
 lang: en
-permalink: /3-dot-menu-options/
+slug: /3-dot-menu-options/
 meta:
 ---
 

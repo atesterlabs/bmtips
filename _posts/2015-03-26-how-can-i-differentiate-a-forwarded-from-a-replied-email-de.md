@@ -9,7 +9,7 @@ categories:
 - Enhanced Features
 tags: []
 lang: de
-permalink: /how-can-i-differentiate-a-forwarded-from-a-replied-email/
+slug: /how-can-i-differentiate-a-forwarded-from-a-replied-email/
 meta:
 ---
 

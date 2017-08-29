@@ -9,7 +9,7 @@ categories:
 - Troubleshooting
 tags: []
 lang: de
-permalink: /how-to-re-download-an-email/
+slug: /how-to-re-download-an-email/
 meta:
 ---
 

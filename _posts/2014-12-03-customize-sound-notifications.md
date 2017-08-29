@@ -9,7 +9,7 @@ categories:
 - Settings
 tags: []
 lang: en
-permalink: /customize-sound-notifications/
+slug: /customize-sound-notifications/
 ---
 
 In order to customize the sound notifications, please follow these steps:

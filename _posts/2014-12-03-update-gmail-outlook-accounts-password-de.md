@@ -9,7 +9,7 @@ categories:
 - Accounts
 tags: []
 lang: de
-permalink: /update-gmail-outlook-accounts-password/
+slug: /update-gmail-outlook-accounts-password/
 meta:
 ---
 
