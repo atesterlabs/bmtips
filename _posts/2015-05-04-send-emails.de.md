@@ -6,7 +6,7 @@ type: post
 published: true
 status: publish
 categories:
-- Basic Actions
+- Grundlegende Aktionen
 tags: []
 lang: de
 meta: /send-emails/
