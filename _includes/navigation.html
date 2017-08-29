@@ -11,7 +11,8 @@
 	{% endfor %}
 
 	{% for tongue in site.languages %}
-	<a style="text-transform: capitalize" {% if tongue == site.active_lang %}style="font-weight: bold; text-transform: capitalize;"{% endif %} href="{% if tongue == site.default_lang %} {{site.baseurl}}{{page.url}} {% else %} {{site.baseurl}}/{{ tongue }}{{page.url}} {% endif %}">{{ tongue }}</a>
+	<a style="text-transform: capitalize;" {% if tongue == site.active_lang %}style="font-weight: bold;"
+	   {% endif %} href="{% if tongue == site.default_lang %} {{site.baseurl}}{{page.url}} {% else %} {{site.baseurl}}/{{ tongue }}{{page.url}} {% endif %}">{{ tongue }}</a>
 	{% endfor %}
 
 </nav>
