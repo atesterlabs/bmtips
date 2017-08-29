@@ -8,8 +8,6 @@ google_analytics_key:
 disqus_shortname:
 newsletter_action:
 
-excerpt_separator: ""
-
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
 description: Help Center for BlueMail

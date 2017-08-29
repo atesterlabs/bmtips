@@ -8,7 +8,6 @@ status: publish
 categories:
 - Troubleshooting
 tags: []
-lang: en
 slug: /unable-to-connect-to-server/
 meta:
 ---

@@ -8,7 +8,6 @@ status: publish
 categories:
 - Menus &amp; Toolbars
 tags: []
-lang: en
 slug: /swipe-menu-options-blue-mail/
 meta:
 ---

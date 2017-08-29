@@ -8,7 +8,6 @@ status: publish
 categories:
 - Accounts
 tags: []
-lang: en
 slug: /bluemail-adding-a-gmail-account/
 meta:
 ---

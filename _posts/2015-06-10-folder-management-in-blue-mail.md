@@ -8,7 +8,6 @@ status: publish
 categories:
 - Folders
 tags: []
-lang: en
 slug: /folder-management-in-blue-mail/
 meta:
 ---

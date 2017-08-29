@@ -8,7 +8,6 @@ status: publish
 categories:
 - Enhanced Features
 tags: []
-lang: en
 slug: /android-wear-bluemail/
 meta:
 ---

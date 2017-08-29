@@ -8,7 +8,6 @@ status: publish
 categories:
 - Basic Actions
 tags: []
-lang: en
 slug: /delete-an-email/
 meta:
 ---

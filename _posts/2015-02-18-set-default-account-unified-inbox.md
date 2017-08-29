@@ -8,7 +8,6 @@ status: publish
 categories:
 - Accounts
 tags: []
-lang: en
 slug: /set-default-account-unified-inbox/
 meta:
 ---

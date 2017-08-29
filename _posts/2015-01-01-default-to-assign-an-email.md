@@ -9,7 +9,6 @@ status: publish
 categories:
 - Getting Stuff Done
 tags: []
-lang: en
 slug: /default-to-assign-an-email/
 meta:
 ---

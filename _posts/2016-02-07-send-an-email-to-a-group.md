@@ -8,7 +8,6 @@ status: publish
 categories:
 - Groups
 tags: []
-lang: en
 slug: /send-an-email-to-a-group/
 meta:
 ---

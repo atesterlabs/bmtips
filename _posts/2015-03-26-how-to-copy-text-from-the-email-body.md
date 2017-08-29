@@ -8,7 +8,6 @@ status: publish
 categories:
 - Basic Actions
 tags: []
-lang: en
 slug: /how-to-copy-text-from-the-email-body/
 meta:
 ---

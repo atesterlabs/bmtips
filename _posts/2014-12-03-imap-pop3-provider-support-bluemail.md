@@ -8,7 +8,6 @@ status: publish
 categories:
 - Accounts
 tags: []
-lang: en
 slug: /imap-pop3-provider-support-bluemail/
 meta:
 ---

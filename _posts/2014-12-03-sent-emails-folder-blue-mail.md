@@ -8,7 +8,6 @@ status: publish
 categories:
 - Folders
 tags: []
-lang: en
 slug: /sent-emails-folder-blue-mail/
 meta:
 ---

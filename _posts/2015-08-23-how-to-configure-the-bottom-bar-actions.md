@@ -8,7 +8,6 @@ status: publish
 categories:
 - Settings
 tags: []
-lang: en
 slug: /how-to-configure-the-bottom-bar-actions/
 meta:
 ---

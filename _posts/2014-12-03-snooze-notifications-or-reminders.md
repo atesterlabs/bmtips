@@ -8,7 +8,6 @@ status: publish
 categories:
 - Getting Stuff Done
 tags: []
-lang: en
 slug: /snooze-notifications-or-reminders/
 meta:
 ---

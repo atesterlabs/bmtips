@@ -8,7 +8,6 @@ status: publish
 categories:
 - Settings
 tags: []
-lang: en
 slug: /disable-outgoing-sound/
 meta:
 ---

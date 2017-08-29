@@ -8,7 +8,6 @@ status: publish
 categories:
 - Clusters
 tags: []
-lang: en
 slug: /how-do-i-choose-which-emails-get-clustered/
 meta:
 ---

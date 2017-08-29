@@ -9,7 +9,6 @@ status: publish
 categories:
 - Settings
 tags: []
-lang: en
 slug: /days-to-sync-option/
 meta:
 ---

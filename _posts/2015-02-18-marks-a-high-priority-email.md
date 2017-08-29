@@ -9,7 +9,6 @@ status: publish
 categories:
 - Basic Actions
 tags: []
-lang: en
 slug: /marks-a-high-priority-email/
 meta:
 ---

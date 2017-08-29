@@ -9,7 +9,6 @@ status: publish
 categories:
 - Our New Features
 tags: []
-lang: en
 slug: /how-to-sync-your-accounts-between-multiple-devices-what-is-sms-verification/
 meta:
 ---

@@ -8,7 +8,6 @@ status: publish
 categories:
 - Groups
 tags: []
-lang: en
 slug: /group-mail-explained/
 meta:
 ---

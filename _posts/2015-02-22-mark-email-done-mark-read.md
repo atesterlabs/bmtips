@@ -8,7 +8,6 @@ status: publish
 categories:
 - Getting Stuff Done
 tags: []
-lang: en
 slug: /mark-email-done-mark-read/
 meta:
 ---

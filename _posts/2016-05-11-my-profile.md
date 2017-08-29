@@ -9,7 +9,6 @@ categories:
 - A Feature Overview
 - Our New Features
 tags: []
-lang: en
 slug: /my-profile/
 meta:
 ---

@@ -8,7 +8,6 @@ status: publish
 categories:
 - Troubleshooting
 tags: []
-lang: en
 slug: /my-unread-count-is-incorrect-how-to-reset-the-unread-count-for-badge/
 meta:
 ---

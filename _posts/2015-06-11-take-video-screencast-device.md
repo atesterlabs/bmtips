@@ -8,7 +8,6 @@ status: publish
 categories:
 - Troubleshooting
 tags: []
-lang: en
 slug: /take-video-screencast-device/
 meta:
 ---

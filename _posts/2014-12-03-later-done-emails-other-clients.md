@@ -8,7 +8,6 @@ status: publish
 categories:
 - Getting Stuff Done
 tags: []
-lang: en
 slug: /later-done-emails-other-clients/
 meta:
 ---

@@ -8,7 +8,6 @@ status: publish
 categories:
 - Clusters
 tags: []
-lang: en
 slug: /what-are-clusters/
 meta:
 ---

@@ -8,7 +8,6 @@ status: publish
 categories:
 - Enhanced Features
 tags: []
-lang: en
 slug: /use-quick-replies/
 meta:
 ---

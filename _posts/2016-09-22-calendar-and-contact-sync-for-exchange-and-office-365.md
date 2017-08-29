@@ -8,7 +8,6 @@ status: publish
 categories:
 - General
 tags: []
-lang: en
 slug: /calendar-and-contact-sync-for-exchange-and-office-365/
 meta:
 ---

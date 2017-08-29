@@ -8,7 +8,6 @@ status: publish
 categories:
 - Troubleshooting
 tags: []
-lang: en
 slug: /emails-missing-from-blue-mail/
 meta:
 ---

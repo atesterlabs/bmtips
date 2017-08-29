@@ -9,7 +9,6 @@ status: publish
 categories:
 - Enhanced Features
 tags: []
-lang: en
 slug: /signature-image-size/
 meta:
 ---

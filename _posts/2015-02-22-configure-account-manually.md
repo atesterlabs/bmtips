@@ -8,7 +8,6 @@ status: publish
 categories:
 - Accounts
 tags: []
-lang: en
 slug: /configure-account-manually/
 meta:
 ---

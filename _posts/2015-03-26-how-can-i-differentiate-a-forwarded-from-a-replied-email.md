@@ -8,7 +8,6 @@ status: publish
 categories:
 - Enhanced Features
 tags: []
-lang: en
 slug: /how-can-i-differentiate-a-forwarded-from-a-replied-email/
 meta:
 ---

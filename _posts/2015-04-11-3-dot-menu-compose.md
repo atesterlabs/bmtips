@@ -8,7 +8,6 @@ status: publish
 categories:
 - Menus &amp; Toolbars
 tags: []
-lang: en
 slug: /3-dot-menu-compose/
 meta:
 ---

@@ -8,7 +8,6 @@ status: publish
 categories:
 - Folders
 tags: []
-lang: en
 slug: /junk-spam-folder-blue-mail/
 meta:
 ---

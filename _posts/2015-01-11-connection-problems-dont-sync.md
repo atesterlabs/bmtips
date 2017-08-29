@@ -9,7 +9,6 @@ status: publish
 categories:
 - Troubleshooting
 tags: []
-lang: en
 slug: /connection-problems-dont-sync/
 meta:
 ---

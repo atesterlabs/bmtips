@@ -9,7 +9,6 @@ categories:
 - Accounts
 - Specific Providers
 tags: []
-lang: en
 slug: /how-do-i-add-my-yahoo-account/
 meta:
 ---

@@ -9,7 +9,6 @@ status: publish
 categories:
 - Features &amp; Usability
 tags: []
-lang: en
 slug: /actions-multiple-emails-blue-mail/
 ---
 

@@ -8,7 +8,6 @@ status: publish
 categories:
 - Getting Stuff Done
 tags: []
-lang: en
 slug: /what-are-tasks-blue-mail/
 meta:
 ---

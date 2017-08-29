@@ -8,7 +8,6 @@ status: publish
 categories:
 - Accounts
 tags: []
-lang: en
 slug: /update-gmail-outlook-accounts-password/
 meta:
 ---

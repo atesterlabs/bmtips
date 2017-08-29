@@ -8,7 +8,6 @@ status: publish
 categories:
 - Enhanced Features
 tags: []
-lang: en
 slug: /how-to-clear-cache-remove-old-emails-from-blue-mail/
 meta:
 ---

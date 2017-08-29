@@ -7,7 +7,6 @@ published: true
 status: publish
 categories:
 - Accounts
-lang: en
 slug: /start-using-blue-mail/
 ---
 

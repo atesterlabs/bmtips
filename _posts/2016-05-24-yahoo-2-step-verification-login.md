@@ -8,7 +8,6 @@ status: publish
 categories:
 - General
 tags: []
-lang: en
 slug: /yahoo-2-step-verification-login/
 meta:
 ---

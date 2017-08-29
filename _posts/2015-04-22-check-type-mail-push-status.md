@@ -8,7 +8,6 @@ status: publish
 categories:
 - Push
 tags: []
-lang: en
 slug: /check-type-mail-push-status/
 meta:
 ---

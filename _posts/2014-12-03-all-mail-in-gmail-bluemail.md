@@ -8,7 +8,6 @@ status: publish
 categories:
 - Specific Providers
 tags: []
-lang: en
 slug: /all-mail-in-gmail-bluemail/
 ---
 

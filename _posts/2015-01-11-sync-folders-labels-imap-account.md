@@ -8,7 +8,6 @@ status: publish
 categories:
 - Folders
 tags: []
-lang: en
 slug: /sync-folders-labels-imap-account/
 meta:
 ---

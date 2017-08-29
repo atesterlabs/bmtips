@@ -8,8 +8,8 @@ status: publish
 categories:
 - Settings
 tags: []
-lang: en
 slug: /custom-signatures/
+meta:
 ---
 
 With BlueMail you can create your own custom signature.

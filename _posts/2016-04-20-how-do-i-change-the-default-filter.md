@@ -8,7 +8,6 @@ status: publish
 categories:
 - General
 tags: []
-lang: en
 slug: /how-do-i-change-the-default-filter/
 meta:
 ---

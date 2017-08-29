@@ -8,8 +8,8 @@ status: publish
 categories:
 - Settings
 tags: []
-lang: en
 slug: /customize-sound-notifications/
+meta:
 ---
 
 In order to customize the sound notifications, please follow these steps:

@@ -8,7 +8,6 @@ status: publish
 categories:
 - Settings
 tags: []
-lang: en
 slug: /do-you-support-sounds-how-can-i-customize-sound-notifications/
 meta:
 ---

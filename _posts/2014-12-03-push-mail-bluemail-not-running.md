@@ -9,7 +9,6 @@ status: publish
 categories:
 - Push
 tags: []
-lang: en
 slug: /push-email-bluemail-not-running/
 meta:
 ---

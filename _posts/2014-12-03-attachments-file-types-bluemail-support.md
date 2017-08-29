@@ -8,7 +8,6 @@ status: publish
 categories:
 - Features &amp; Usability
 tags: []
-lang: en
 slug: /attachments-file-types-bluemail-support/
 ---
 

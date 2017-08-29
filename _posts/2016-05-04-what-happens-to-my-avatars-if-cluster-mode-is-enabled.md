@@ -8,7 +8,6 @@ status: publish
 categories:
 - General
 tags: []
-lang: en
 slug: /what-happens-to-my-avatars-if-cluster-mode-is-enabled/
 meta:
 ---

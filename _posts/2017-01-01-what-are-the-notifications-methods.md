@@ -8,7 +8,6 @@ status: publish
 categories:
 - General
 tags: []
-lang: en
 slug: /what-are-the-notifications-methods/
 meta:
 ---

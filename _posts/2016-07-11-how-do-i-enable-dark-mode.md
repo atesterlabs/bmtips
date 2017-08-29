@@ -8,7 +8,6 @@ status: publish
 categories:
 - Menus &amp; Toolbars
 tags: []
-lang: en
 slug: /how-do-i-enable-dark-mode/
 meta:
 ---

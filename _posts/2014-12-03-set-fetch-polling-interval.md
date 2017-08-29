@@ -8,7 +8,7 @@ status: publish
 categories:
 - Push
 tags: []
-lang: en
+
 slug: /set-fetch-polling-interval/
 meta:
 ---

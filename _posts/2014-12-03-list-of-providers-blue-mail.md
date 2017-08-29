@@ -8,7 +8,6 @@ status: publish
 categories:
 - Accounts
 tags: []
-lang: en
 slug: /list-of-providers-blue-mail/
 meta:
 ---

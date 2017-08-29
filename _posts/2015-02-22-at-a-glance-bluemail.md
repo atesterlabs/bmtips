@@ -8,7 +8,6 @@ status: publish
 categories:
 - A Feature Overview
 tags: []
-lang: en
 slug: /at-a-glance-bluemail/
 meta:
 ---

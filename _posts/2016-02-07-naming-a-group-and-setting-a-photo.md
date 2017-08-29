@@ -8,7 +8,6 @@ status: publish
 categories:
 - Groups
 tags: []
-lang: en
 slug: /naming-a-group-and-setting-a-photo/
 meta:
 ---
