@@ -8,6 +8,8 @@ status: publish
 categories:
 - Folders
 tags: []
+lang: en
+permalink: /junk-spam-folder-blue-mail/
 meta:
 ---
 

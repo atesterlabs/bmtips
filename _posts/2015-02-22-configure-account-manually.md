@@ -7,8 +7,9 @@ published: true
 status: publish
 categories:
 - Accounts
-tags:
-- Image
+tags: []
+lang: en
+permalink: /configure-account-manually/
 meta:
 ---
 

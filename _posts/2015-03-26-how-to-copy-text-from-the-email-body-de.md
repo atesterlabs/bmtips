@@ -7,8 +7,7 @@ published: true
 status: publish
 categories:
 - Basic Actions
-tags:
-- Bild
+tags: []
 meta:
 lang: de
 permalink: /how-to-copy-text-from-the-email-body/

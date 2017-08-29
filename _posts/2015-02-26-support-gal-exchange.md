@@ -8,6 +8,8 @@ status: publish
 categories:
 - Specific Providers
 tags: []
+lang: en
+permalink: /support-gal-exchange/
 meta:
 ---
 

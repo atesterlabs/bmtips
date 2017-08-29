@@ -8,6 +8,8 @@ status: publish
 categories:
 - Push
 tags: []
+lang: en
+permalink: /notification-open-application/
 meta:
 ---
 

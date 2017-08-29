@@ -13,8 +13,6 @@ permalink: /how-do-i-enable-dark-mode/
 meta:
 ---
 
----
-
 BlueMail's atemberaubendes Dark Theme ist einfach auf die Augen für die Nachtzeit, und kann automatisch auf Licht-Modus basierend auf Ihre Zeit Präferenz.
 Es gibt zwei Möglichkeiten, Dark Theme zu aktivieren:
 

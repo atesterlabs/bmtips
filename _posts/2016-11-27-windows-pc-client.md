@@ -8,6 +8,8 @@ status: publish
 categories:
 - General
 tags: []
+lang: en
+permalink: /windows-pc-client/
 meta:
 ---
 

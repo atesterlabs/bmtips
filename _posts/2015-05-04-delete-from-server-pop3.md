@@ -8,6 +8,8 @@ status: publish
 categories:
 - Accounts
 tags: []
+lang: en
+permalink: /delete-from-server-pop3/
 meta:
 ---
 

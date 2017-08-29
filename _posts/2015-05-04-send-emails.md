@@ -7,8 +7,9 @@ published: true
 status: publish
 categories:
 - Basic Actions
-tags:
-- Image
+tags: []
+lang: en
+permalink: /send-emails/
 meta:
 ---
 

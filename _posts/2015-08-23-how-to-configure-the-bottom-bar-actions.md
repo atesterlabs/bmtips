@@ -8,6 +8,8 @@ status: publish
 categories:
 - Settings
 tags: []
+lang: en
+permalink: /how-to-configure-the-bottom-bar-actions/
 meta:
 ---
 

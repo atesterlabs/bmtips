@@ -8,6 +8,8 @@ status: publish
 categories:
 - General
 tags: []
+lang: en
+permalink: /what-does-the-people-toggle-switch-do/
 meta:
 ---
 

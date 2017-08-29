@@ -7,8 +7,9 @@ published: true
 status: publish
 categories:
 - Troubleshooting
-tags:
-- Image
+tags: []
+lang: en
+permalink: /see-status-sent-messages/
 meta:
 ---
 

@@ -8,6 +8,8 @@ status: publish
 categories:
 - Settings
 tags: []
+lang: en
+permalink: /advanced-account-settings/
 meta:
 ---
 

@@ -8,6 +8,8 @@ status: publish
 categories:
 - Settings
 tags: []
+lang: en
+permalink: /configure-left-right-swipe-menu/
 meta:
 ---
 

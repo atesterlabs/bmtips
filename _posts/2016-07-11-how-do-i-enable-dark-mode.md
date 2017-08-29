@@ -8,8 +8,9 @@ status: publish
 categories:
 - Menus &amp; Toolbars
 tags: []
+lang: en
+permalink: /how-do-i-enable-dark-mode/
 meta:
-
 ---
 
 BlueMail's stunning Dark Theme is easy on the eyes for night time, and can switch automatically to light mode based on your time preference.

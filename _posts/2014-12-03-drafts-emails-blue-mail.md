@@ -8,6 +8,8 @@ status: publish
 categories:
 - Folders
 tags: []
+lang: en
+permalink: /drafts-emails-blue-mail/
 meta:
 ---
 

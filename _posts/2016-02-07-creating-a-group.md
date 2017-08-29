@@ -8,6 +8,8 @@ status: publish
 categories:
 - Groups
 tags: []
+lang: en
+permalink: /creating-a-group/
 meta:
 ---
 

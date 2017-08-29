@@ -7,8 +7,9 @@ published: true
 status: publish
 categories:
 - Troubleshooting
-tags:
-- Image
+tags: []
+lang: en
+permalink: /take-video-screencast-device/
 meta:
 ---
 

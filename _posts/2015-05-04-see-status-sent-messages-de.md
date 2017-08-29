@@ -7,11 +7,10 @@ published: true
 status: publish
 categories:
 - Troubleshooting
-tags:
-- Bild
-meta:
+tags: []
 lang: de
 permalink: /see-status-sent-messages/
+meta:
 ---
 
 An der Oberseite der E-Mail-Liste haben Sie ein Suchfeld, unter diesem Feld sehen Sie eine Live-Statusleiste. Wenn du eine E-Mail schickst, kannst du den Live-Status sehen.

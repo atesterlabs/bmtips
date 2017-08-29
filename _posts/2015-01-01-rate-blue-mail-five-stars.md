@@ -8,6 +8,8 @@ status: publish
 categories:
 - Troubleshooting
 tags: []
+lang: en
+permalink: /rate-blue-mail-five-stars/
 meta:
 ---
 

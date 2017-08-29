@@ -7,8 +7,9 @@ published: true
 status: publish
 categories:
 - Menus &amp; Toolbars
-tags:
-- iOS
+tags: []
+lang: en
+permalink: /3-dot-menu-options/
 meta:
 ---
 

@@ -22,7 +22,7 @@ Sie können das Pfeilsymbol erneut antippen, um diese Symbolleiste auszublenden.
 Zusätzlich zu **B** *I* und <span style="text-decoration: underline;">U </span>führen die zusätzlichen Symbole folgende Funktionen aus:
 
 | ![Bold](/assets/Bold.png){:width="100px"} | Fett |
-| ! [Kursiv](/assets/Italics.png){:width="100px"} | Kursiv |
+| ![Kursiv](/assets/Italics.png){:width="100px"} | Kursiv |
 | ![Unterstrich](/assets/Underline.png){:width="100px"} | Unterstreichen |
 | ![Text vergrößern](/assets/Text_Size.png){:width="100px"} | Textgröße vergrößern |
 | ![Typeset](/assets/Typeset.png){:width="100px"} | Schriftarten ändern |

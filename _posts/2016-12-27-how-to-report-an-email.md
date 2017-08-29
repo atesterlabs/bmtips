@@ -8,6 +8,8 @@ status: publish
 categories:
 - Troubleshooting
 tags: []
+lang: en
+permalink: /how-to-report-an-email/
 meta:
 ---
 

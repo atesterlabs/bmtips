@@ -8,6 +8,8 @@ status: publish
 categories:
 - Accounts
 tags: []
+lang: en
+permalink: /sync-options-blue-mail/
 meta:
 ---
 

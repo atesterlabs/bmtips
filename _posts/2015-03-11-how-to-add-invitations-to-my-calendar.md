@@ -7,8 +7,9 @@ published: true
 status: publish
 categories:
 - Features &amp; Usability
-tags:
-- Image
+tags: []
+lang: en
+permalink: /how-to-add-invitations-to-my-calendar/
 meta:
 ---
 

@@ -8,6 +8,8 @@ status: publish
 categories:
 - Getting Stuff Done
 tags: []
+lang: en
+permalink: /top-bar-left-triangle-menu/
 meta:
 ---
 

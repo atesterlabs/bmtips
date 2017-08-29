@@ -7,11 +7,10 @@ published: true
 status: publish
 categories:
 - Accounts
-tags:
-- Bild
-meta:
+tags: []
 lang: de
 permalink: /configure-account-manually/
+meta:
 ---
 
 Sie können Ihr Konto manuell hinzufügen, indem Sie auf *Mehr ...* \| *Verschiedene Kontoeinstellungen* \| *Konto hinzufügen (+)* \| *Anderes Konto hinzufügen* \| *Andere E-Mail*, dann folgen Sie diesen Schritten:

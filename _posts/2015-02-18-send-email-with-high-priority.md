@@ -8,6 +8,8 @@ status: publish
 categories:
 - Basic Actions
 tags: []
+lang: en
+permalink: /send-email-with-high-priority/
 meta:
 ---
 

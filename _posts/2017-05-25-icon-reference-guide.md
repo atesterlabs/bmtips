@@ -8,6 +8,8 @@ status: publish
 categories:
 - A Feature Overview
 tags: []
+lang: en
+permalink: /icon-reference-guide/
 meta:
 ---
 

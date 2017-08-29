@@ -8,6 +8,8 @@ status: publish
 categories:
 - Enhanced Features
 tags: []
+lang: en
+permalink: /vibrations-on-notifications/
 meta:
 ---
 

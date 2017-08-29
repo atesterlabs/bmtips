@@ -8,6 +8,8 @@ status: publish
 categories:
 - Folders
 tags: []
+lang: en
+permalink: /outbox-folder-blue-mail/
 meta:
 ---
 

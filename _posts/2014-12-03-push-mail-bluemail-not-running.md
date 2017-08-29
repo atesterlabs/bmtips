@@ -9,6 +9,8 @@ status: publish
 categories:
 - Push
 tags: []
+lang: en
+permalink: /push-email-bluemail-not-running/
 meta:
 ---
 

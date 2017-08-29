@@ -1,14 +1,15 @@
 ---
 layout: post
-title: How to Clear Cache ? How to Remove Old Emails ?
+title: How to Clear Cache? How to Remove Old Emails?
 date: 2015-04-21 20:43:35.000000000 +03:00
 type: post
 published: true
 status: publish
 categories:
 - Enhanced Features
-tags:
-- Image
+tags: []
+lang: en
+permalink: /how-to-clear-cache-remove-old-emails-from-blue-mail/
 meta:
 ---
 

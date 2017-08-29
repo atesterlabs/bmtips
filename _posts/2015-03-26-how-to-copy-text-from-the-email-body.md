@@ -7,8 +7,9 @@ published: true
 status: publish
 categories:
 - Basic Actions
-tags:
-- Image
+tags: []
+lang: en
+permalink: /how-to-copy-text-from-the-email-body/
 meta:
 ---
 

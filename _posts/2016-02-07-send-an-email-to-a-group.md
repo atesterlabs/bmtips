@@ -8,6 +8,8 @@ status: publish
 categories:
 - Groups
 tags: []
+lang: en
+permalink: /send-an-email-to-a-group/
 meta:
 ---
 

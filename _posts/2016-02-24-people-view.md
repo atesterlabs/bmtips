@@ -8,6 +8,8 @@ status: publish
 categories:
 - Our New Features
 tags: []
+lang: en
+permalink: /people-view/
 meta:
 ---
 

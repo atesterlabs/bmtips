@@ -8,6 +8,8 @@ status: publish
 categories:
 - Enhanced Features
 tags: []
+lang: en
+permalink: /unmark-email-as-spam/
 meta:
 ---
 

@@ -8,6 +8,8 @@ status: publish
 categories:
 - Settings
 tags: []
+lang: en
+permalink: /how-to-customize-the-led-notifications/
 meta:
 ---
 

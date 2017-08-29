@@ -8,6 +8,8 @@ status: publish
 categories:
 - Basic Actions
 tags: []
+lang: en
+permalink: /mark-an-email-as-read/
 meta:
 
 ---

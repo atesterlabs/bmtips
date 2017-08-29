@@ -8,6 +8,8 @@ status: publish
 categories:
 - Accounts
 tags: []
+lang: en
+permalink: /update-gmail-outlook-accounts-password/
 meta:
 ---
 

@@ -9,6 +9,8 @@ status: publish
 categories:
 - Troubleshooting
 tags: []
+lang: en
+permalink: /connection-problems-dont-sync/
 meta:
 ---
 

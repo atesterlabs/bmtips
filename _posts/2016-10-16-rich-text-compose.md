@@ -8,6 +8,8 @@ status: publish
 categories:
 - Menus &amp; Toolbars
 tags: []
+lang: en
+permalink: /rich-text-compose/
 meta:
 ---
 

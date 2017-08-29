@@ -9,6 +9,8 @@ status: publish
 categories:
 - Enhanced Features
 tags: []
+lang: en
+permalink: /signature-image-size/
 meta:
 ---
 

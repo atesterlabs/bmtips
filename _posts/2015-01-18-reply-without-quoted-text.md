@@ -8,6 +8,8 @@ status: publish
 categories:
 - Enhanced Features
 tags: []
+lang: en
+permalink: /reply-without-quoted-text/
 meta:
 ---
 

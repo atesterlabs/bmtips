@@ -8,6 +8,8 @@ status: publish
 categories:
 - Groups
 tags: []
+lang: en
+permalink: /naming-a-group-and-setting-a-photo/
 meta:
 ---
 

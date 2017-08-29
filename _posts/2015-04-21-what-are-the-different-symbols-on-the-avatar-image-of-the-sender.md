@@ -8,6 +8,8 @@ status: publish
 categories:
 - General
 tags: []
+lang: en
+permalink: /what-are-the-different-symbols-on-the-avatar-image-of-the-sender/
 meta:
 ---
 

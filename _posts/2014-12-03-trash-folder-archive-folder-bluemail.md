@@ -9,6 +9,8 @@ status: publish
 categories:
 - Folders
 tags: []
+lang: en
+permalink: /trash-folder-archive-folder-bluemail/
 meta:
 ---
 

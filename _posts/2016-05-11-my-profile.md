@@ -9,6 +9,8 @@ categories:
 - A Feature Overview
 - Our New Features
 tags: []
+lang: en
+permalink: /my-profile/
 meta:
 ---
 

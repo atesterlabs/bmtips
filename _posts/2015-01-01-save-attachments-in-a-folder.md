@@ -8,6 +8,8 @@ status: publish
 categories:
 - Enhanced Features
 tags: []
+lang: en
+permalink: /save-attachments-in-a-folder/
 meta:
 ---
 

@@ -8,6 +8,8 @@ status: publish
 categories:
 - General
 tags: []
+lang: en
+permalink: /enable-lock-screen/
 meta:
 ---
 

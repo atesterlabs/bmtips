@@ -8,6 +8,8 @@ status: publish
 categories:
 - Getting Stuff Done
 tags: []
+lang: en
+permalink: /marked-as-done-return-inbox/
 meta:
 ---
 

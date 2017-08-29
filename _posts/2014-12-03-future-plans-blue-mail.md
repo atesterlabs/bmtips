@@ -8,6 +8,8 @@ status: publish
 categories:
 - General
 tags: []
+lang: en
+permalink: /future-plans-blue-mail/
 meta:
 ---
 

@@ -7,11 +7,10 @@ published: true
 status: publish
 categories:
 - Basic Actions
-tags:
-- Image
-meta:
+tags: []
 lang: de
 permalink: /send-emails/
+meta:
 ---
 
 Um eine E-Mail in BlueMail zu senden, gehen Sie folgendermaßen vor:

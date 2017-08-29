@@ -8,9 +8,12 @@ status: publish
 categories:
 - Troubleshooting
 tags: []
+lang: en
+permalink: /how-to-re-download-an-email/
 meta:
 ---
 
 You can re-download an email message by going to the specific mail, pressing the *3-dots menu on the bottom right* \| *More Options...* \| *Redownload Message*. This may help when that mail was partially downloaded, mainly due to network issues.
+
 {: .center}
 ![Redownload Email](/assets/BlueMail_Redownload_Email.gif){:width="350px"}

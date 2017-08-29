@@ -8,6 +8,8 @@ status: publish
 categories:
 - Basic Actions
 tags: []
+lang: en
+permalink: /logout-sign-out-blue-mail/
 meta:
 ---
 

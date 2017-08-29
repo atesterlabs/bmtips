@@ -9,6 +9,8 @@ status: publish
 categories:
 - Features &amp; Usability
 tags: []
+lang: en
+permalink: /save-an-attachment-on-sd/
 meta:
 ---
 

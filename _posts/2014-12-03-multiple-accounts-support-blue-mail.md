@@ -8,6 +8,8 @@ status: publish
 categories:
 - Accounts
 tags: []
+lang: en
+permalink: /multiple-accounts-support-blue-mail/
 meta:
 ---
 

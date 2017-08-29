@@ -8,6 +8,8 @@ status: publish
 categories:
 - Push
 tags: []
+lang: en
+permalink: /how-to-disable-notifications-for-given-times-what-is-the-do-not-disturb-option/
 meta:
 ---
 

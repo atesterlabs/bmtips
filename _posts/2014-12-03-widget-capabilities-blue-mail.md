@@ -8,6 +8,8 @@ status: publish
 categories:
 - Features &amp; Usability
 tags: []
+lang: en
+permalink: /widget-capabilities-blue-mail/
 meta:
 ---
 

@@ -9,7 +9,7 @@ categories:
 - A Feature Overview
 tags: []
 lang: de
-permalink: /icon-reference-guidet/
+permalink: /icon-reference-guide/
 meta:
 ---
 

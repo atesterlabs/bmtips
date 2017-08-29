@@ -7,8 +7,7 @@ published: true
 status: publish
 categories:
 - Menus &amp; Toolbars
-tags:
-- Image
+tags: []
 meta:
 lang: de
 permalink: /3-dot-menu-compose/

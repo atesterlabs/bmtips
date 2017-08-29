@@ -9,6 +9,8 @@ status: publish
 categories:
 - Settings
 tags: []
+lang: en
+permalink: /days-to-sync-option/
 meta:
 ---
 

@@ -8,6 +8,8 @@ status: publish
 categories:
 - General
 tags: []
+lang: en
+permalink: /how-do-i-empty-all-the-emails-in-the-trash-folder/
 meta:
 ---
 

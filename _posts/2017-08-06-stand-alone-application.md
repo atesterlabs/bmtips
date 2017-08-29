@@ -8,6 +8,8 @@ status: publish
 categories:
 - Troubleshooting
 tags: []
+lang: en
+permalink: /stand-alone-application/
 meta:
 ---
 **BlueMail** functions independently from all other email applications. You get Instant Notifications, automatic email sync, and have the ability to read your email without being reliant on any other app!

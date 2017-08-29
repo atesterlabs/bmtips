@@ -8,6 +8,8 @@ status: publish
 categories:
 - General
 tags: []
+lang: en
+permalink: /manage-spam/
 meta:
 ---
 Spam emails come in all forms, from unwanted newsletters to claims of a long lost fortune from a *very* distant relative.

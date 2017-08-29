@@ -8,6 +8,8 @@ status: publish
 categories:
 - Troubleshooting
 tags: []
+lang: en
+permalink: /phone-disconnects-while-sending/
 meta:
 ---
 

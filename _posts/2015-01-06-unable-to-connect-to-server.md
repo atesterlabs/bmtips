@@ -8,6 +8,8 @@ status: publish
 categories:
 - Troubleshooting
 tags: []
+lang: en
+permalink: /unable-to-connect-to-server/
 meta:
 ---
 
