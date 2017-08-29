@@ -9,5 +9,9 @@
 		{% endif %}
 		<a href="{% include relative-src.html src=link.link %}" class="{{ class }}">{{ link.name }}</a>
 	{% endfor %}
-	<p> {{ page.url }}</p>
+
+	{% for tongue in site.languages %}
+	<a {% if tongue == site.active_lang %}style="font-weight: bold;"{% endif %} href="{% if tongue == site.default_lang %} {{site.baseurl}}{{page.url}} {% else %} {{site.baseurl}}/{{ tongue }}{{page.url}} {% endif %}">{{ tongue }}</a> |
+	{% endfor %}
+
 </nav>
