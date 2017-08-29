@@ -6,7 +6,7 @@ type: post
 published: true
 status: publish
 categories:
-- Getting Stuff Done
+- Dinge erledigt bekommen
 tags: []
 lang: de
 meta: /filter-tasks-view/

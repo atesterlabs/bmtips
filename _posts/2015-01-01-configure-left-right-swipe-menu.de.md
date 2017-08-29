@@ -6,7 +6,7 @@ type: post
 published: true
 status: publish
 categories:
-- Settings
+- Einstellungen
 tags: []
 lang: de
 meta: /configure-left-right-swipe-menu/

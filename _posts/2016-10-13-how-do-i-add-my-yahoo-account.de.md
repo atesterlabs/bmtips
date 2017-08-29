@@ -7,7 +7,7 @@ published: true
 status: publish
 categories:
 - Konten
-- Specific Providers
+- Spezifische Anbieter
 tags: []
 lang: de
 meta: /how-do-i-add-my-yahoo-account/

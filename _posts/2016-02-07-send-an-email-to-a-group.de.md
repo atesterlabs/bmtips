@@ -6,7 +6,7 @@ type: post
 published: true
 status: publish
 categories:
-- Groups
+- Gruppen
 tags: []
 lang: de
 meta: /send-an-email-to-a-group/

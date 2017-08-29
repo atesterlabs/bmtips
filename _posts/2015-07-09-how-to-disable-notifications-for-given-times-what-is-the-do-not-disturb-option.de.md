@@ -6,7 +6,7 @@ type: post
 published: true
 status: publish
 categories:
-- Push
+- Drücken
 tags: []
 lang: de
 meta: /how-to-disable-notifications-for-given-times-what-is-the-do-not-disturb-option/

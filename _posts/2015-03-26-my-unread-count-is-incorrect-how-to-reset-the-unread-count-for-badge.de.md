@@ -6,7 +6,7 @@ type: post
 published: true
 status: publish
 categories:
-- Troubleshooting
+- Fehlerbehebung
 tags: []
 lang: de
 meta: /my-unread-count-is-incorrect-how-to-reset-the-unread-count-for-badge/

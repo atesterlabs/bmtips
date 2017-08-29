@@ -6,7 +6,7 @@ type: post
 published: true
 status: publish
 categories:
-- A Feature Overview
+- Ein Funktionsübersicht
 tags: []
 lang: de
 meta: /icon-reference-guide/

@@ -6,7 +6,7 @@ type: post
 published: true
 status: publish
 categories:
-- Features &amp; Usability
+- Eigenschaften und Benutzerfreundlichkeit
 tags: []
 lang: de
 meta: /different-account-to-send-from/

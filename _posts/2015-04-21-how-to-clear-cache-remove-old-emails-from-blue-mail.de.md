@@ -6,7 +6,7 @@ type: post
 published: true
 status: publish
 categories:
-- Enhanced Features
+- Verbesserte Funktionen
 tags: []
 lang: de
 meta: /how-to-clear-cache-remove-old-emails-from-blue-mail/

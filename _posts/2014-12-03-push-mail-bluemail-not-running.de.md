@@ -6,7 +6,7 @@ type: post
 published: true
 status: publish
 categories:
-- Push
+- Drücken
 tags: []
 lang: de
 meta: /push-email-bluemail-not-running/

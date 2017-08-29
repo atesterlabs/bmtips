@@ -6,7 +6,7 @@ type: post
 published: true
 status: publish
 categories:
-- Troubleshooting
+- Fehlerbehebung
 tags: []
 lang: de
 meta: /rate-blue-mail-five-stars/

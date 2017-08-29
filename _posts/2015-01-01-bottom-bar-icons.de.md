@@ -6,7 +6,7 @@ type: post
 published: true
 status: publish
 categories:
-- Menus &amp; Toolbars
+- Menüs &amp; Symbolleisten
 tags: []
 lang: de
 meta: /bottom-bar-icons/

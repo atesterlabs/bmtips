@@ -6,7 +6,7 @@ type: post
 published: true
 status: publish
 categories:
-- Troubleshooting
+- Fehlerbehebung
 tags: []
 lang: de
 meta: /connection-problems-dont-sync/

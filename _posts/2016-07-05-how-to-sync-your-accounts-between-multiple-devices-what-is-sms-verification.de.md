@@ -6,7 +6,7 @@ type: post
 published: true
 status: publish
 categories:
-- Our New Features
+- Unsere neuen Features
 tags: []
 lang: de
 meta: /how-to-sync-your-accounts-between-multiple-devices-what-is-sms-verification/

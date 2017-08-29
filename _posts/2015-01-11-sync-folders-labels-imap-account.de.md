@@ -6,7 +6,7 @@ type: post
 published: true
 status: publish
 categories:
-- Folders
+- Ordner
 tags: []
 lang: de
 meta: /sync-folders-labels-imap-account/

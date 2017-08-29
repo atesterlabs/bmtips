@@ -6,8 +6,8 @@ type: post
 published: true
 status: publish
 categories:
-- A Feature Overview
-- Our New Features
+- Ein Funktionsübersicht
+- Unsere neuen Features
 tags: []
 lang: de
 meta: /my-profile/

@@ -6,7 +6,7 @@ type: post
 published: true
 status: publish
 categories:
-- Settings
+- Einstellungen
 tags: []
 lang: de
 meta: /do-you-support-sounds-how-can-i-customize-sound-notifications/

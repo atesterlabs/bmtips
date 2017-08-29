@@ -6,7 +6,7 @@ type: post
 published: true
 status: publish
 categories:
-- Specific Providers
+- Spezifische Anbieter
 tags: []
 lang: de
 meta: /configure-icloud-account-blue-mail/

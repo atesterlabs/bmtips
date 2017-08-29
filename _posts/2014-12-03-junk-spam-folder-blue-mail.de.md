@@ -6,7 +6,7 @@ type: post
 published: true
 status: publish
 categories:
-- Folders
+- Ordner
 tags: []
 lang: de
 meta: /junk-spam-folder-blue-mail/

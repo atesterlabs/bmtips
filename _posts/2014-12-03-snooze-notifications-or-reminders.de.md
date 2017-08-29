@@ -6,7 +6,7 @@ type: post
 published: true
 status: pubish
 categories:
-- Getting Stuff Done
+- Dinge erledigt bekommen
 tags: []
 lang: de
 meta: /snooze-notifications-or-reminders/
