@@ -6,7 +6,7 @@ type: post
 published: true
 status: publish
 categories:
-- {{ site.feature[site.active_lang]}}
+- A Feature Overview
 tags: []
 meta: /icon-reference-guide/
 ---
