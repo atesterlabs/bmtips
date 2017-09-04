@@ -2,7 +2,7 @@
 # Site
 
 title: BlueMail Help
-url: "https://bluemail.blue"
+url: "https://bluemail.help"
 baseurl:
 google_analytics_key:
 disqus_shortname:
@@ -15,11 +15,11 @@ description: Help Center for BlueMail
 author:
   name:
   email:
-  twitter: # twitter username without the @ symbol
+  twitter: bluemail
 social:
-  name: Base Template
+  name: BlueMail Help Center
   links:
-    - https://github.com/CloudCannon/base-jekyll-template
+    - https://www.facebook.com/BlueMailApp/
 
 # -----
 # Build
@@ -34,7 +34,6 @@ permalink: /:title/
 gems:
   - jekyll-sitemap
   - jekyll-seo-tag
-  - jekyll-feed
   - jekyll-archives
 
 exclude:
@@ -42,6 +41,8 @@ exclude:
   - Gemfile.lock
   - README.md
   - LICENCE
+
+include: ['.htaccess']
 
 collections:
   - _mainview

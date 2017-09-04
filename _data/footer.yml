@@ -10,7 +10,3 @@
   link: 'https://www.youtube.com/channel/UCeo0ItKB5HQq8-eZS1vT7Kg'
   social_icon: YouTube
   new_window: true
-- name:
-  link: /feed.xml
-  social_icon: RSS
-  new_window: false

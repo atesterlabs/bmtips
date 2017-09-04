@@ -1,6 +1,6 @@
 @media #{$mid-point} {
 	.show_hero_search header nav form {
-		display: none;
+		display: block;
 	}
 
 	.show_hero_search .hero_search {
@@ -9,7 +9,7 @@
 }
 
 header {
-	padding: 16px 0 10px 0;
+	padding: 10px 0 10px 0;
 	background: $header-color;
 	color: #fff;
 
@@ -126,21 +126,21 @@ header {
 }
 
 .hero_search {
-	display: none;
+	display: block;
 	text-align: center;
 	flex: 0 0 100%;
-	padding: 60px 0 30px 0;
+	padding: 10px 0 10px 0;
 
 	form {
 		position: relative;
 		max-width: 800px;
 		margin: 0 auto;
-		padding: 20px 0;
+		padding: 10px 0;
 
 		svg {
 			fill: #eee;
 			position: absolute;
-			top: 31px;
+			top: 16px;
 			right: 12px;
 			display: inline-block;
 			width: 36px;
