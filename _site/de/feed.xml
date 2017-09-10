@@ -1,0 +1,734 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="http://jekyllrb.com" version="3.4.3">Jekyll</generator><link href="https://bluemail.help/de/feed.xml" rel="self" type="application/atom+xml" /><link href="https://bluemail.help/de/" rel="alternate" type="text/html" /><updated>2017-09-07T14:08:09+03:00</updated><id>https://bluemail.help/</id><title type="html">BlueMail Help</title><subtitle>Help Center for BlueMail</subtitle><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;&quot;bluemail&quot;}</name></author><entry><title type="html">Notifications Explained</title><link href="https://bluemail.help/de/notifications-explained/" rel="alternate" type="text/html" title="Notifications Explained" /><published>2017-09-06T11:10:39+03:00</published><updated>2017-09-06T11:10:39+03:00</updated><id>https://bluemail.help/notifications-explained.en</id><content type="html" xml:base="https://bluemail.help/notifications-explained/">&lt;h2 id=&quot;notification-methods&quot;&gt;Notification Methods&lt;/h2&gt;
+
+&lt;p&gt;Notifications use the notification bar, and show a short preview of the email.&lt;/p&gt;
+
+&lt;p&gt;BlueMail allows you to control the notifications method per account using &lt;em&gt;More…&lt;/em&gt; | &lt;em&gt;Notifications&lt;/em&gt; | &lt;em&gt;scroll to the account&lt;/em&gt; | &lt;em&gt;Instant Push Settings&lt;/em&gt; | &lt;em&gt;Push or Fetch&lt;/em&gt; | choose from four main options:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Push - To get instant notifications.&lt;/li&gt;
+  &lt;li&gt;Push (No Preview) - To get instant notifications without a preview to reduce battery usage.&lt;/li&gt;
+  &lt;li&gt;No Push - To disable push notifications, but still see emails being updated when opening the app.&lt;/li&gt;
+  &lt;li&gt;Fetch - To get periodic notifications based on an interval set in &lt;em&gt;Fetch Interval&lt;/em&gt; setting.&lt;/li&gt;
+  &lt;li&gt;Manual - To do on-demand refresh sync only, and do not get notifications.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;If you choose &lt;em&gt;Fetch&lt;/em&gt; method you can select the &lt;strong&gt;&lt;em&gt;Fetch Interval&lt;/em&gt;&lt;/strong&gt; - and choose how often you wish to check for new emails.&lt;/p&gt;
+
+&lt;p&gt;Please note that currently, only emails arriving in the Inbox will trigger a notification. Notifications for folders other than the Inbox is on our roadmap and may be released in the future.&lt;/p&gt;
+
+&lt;h2 id=&quot;customizing-notifications&quot;&gt;Customizing Notifications&lt;/h2&gt;
+
+&lt;p&gt;Notifications use the notification bar, and show a short preview of the email. You can tailor each account to have a different notification scheme, e.g. have different options for work related accounts, and personal / family accounts.&lt;/p&gt;
+
+&lt;p&gt;BlueMail allows you to control the notifications per account using &lt;em&gt;More…&lt;/em&gt; | &lt;em&gt;Notifications&lt;/em&gt; | &lt;em&gt;scroll to the account and you will access a per account settings&lt;/em&gt;:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Disable notifications on the top bar of each account.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/disable-notifications-for-given-times/&quot;&gt;Do Not Disturb&lt;/a&gt; - Select specific quiet times.&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Visual | Sound | Vibrate | LED: &lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;Visual - Disable / Enable Visual Notifications&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;/configure-leds-notification/&quot;&gt;Enable LED Light&lt;/a&gt; - Disable / Enable LED light for notifications.&lt;/li&gt;
+      &lt;li&gt;Notification LED Color - Configure LED light color.&lt;/li&gt;
+      &lt;li&gt;Incoming Sound - Disable / Enable incoming sound.&lt;/li&gt;
+      &lt;li&gt;Custom Incoming Sound - If the sound is enabled, you can choose a custom sound from the list.&lt;/li&gt;
+      &lt;li&gt;Vibrate - Disable / Enable vibration.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Advanced:
+    &lt;ul&gt;
+      &lt;li&gt;Only From And Subject - Disable / Enable  a short preview of the email shown on the notification.&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;/snooze-notifications-or-reminders/&quot;&gt;Enable Snooze Notifications&lt;/a&gt; -  Disable / Enable snooze notifications.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;&quot;bluemail&quot;}</name></author></entry><entry><title type="html">Notification Content – How do I display only certain message details in my Notifications?</title><link href="https://bluemail.help/de/notifications-content/" rel="alternate" type="text/html" title="Notification Content – How do I display only certain message details in my Notifications?" /><published>2017-09-06T11:10:39+03:00</published><updated>2017-09-06T11:10:39+03:00</updated><id>https://bluemail.help/notifications-content.en</id><content type="html" xml:base="https://bluemail.help/notifications-content/">&lt;p&gt;Visual Notifications are a great way of staying on top of your incoming messages. The email Preview that is shown gives a short glimpse into the sender and content of the message and allows you to handle your incoming emails with ease.&lt;/p&gt;
+
+&lt;p&gt;In our latest version, you can now customize exactly which type of &lt;strong&gt;Notification Content&lt;/strong&gt; you would like (or wouldn’t like) to display on your Notifications when receiving your emails. It’s set per account, so you can choose a different selection for each of your accounts!&lt;/p&gt;
+
+&lt;p&gt;Head on over to &lt;em&gt;More…&lt;/em&gt; | &lt;em&gt;Notifications&lt;/em&gt; | &lt;em&gt;scroll to desired account&lt;/em&gt; | &lt;em&gt;Notification Content&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;You will see the following three options in the &lt;strong&gt;Notification Content&lt;/strong&gt; view:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Show All Details&lt;/strong&gt; - The Sender + Message Subject + Content Preview will be shown (default setting)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Only From and Subject&lt;/strong&gt; - Only the Sender (From) + Message Subject will be shown&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Hide All Message Details&lt;/strong&gt; - No details of the message will be displayed. The notification will simply state “You have a new email” or “3 new emails in your account”&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p class=&quot;center&quot;&gt;&lt;img src=&quot;assets/NotificationContentBlue.png&quot; alt=&quot;Notifications&quot; width=&quot;350px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;To learn more about our other Notification features see &lt;a href=&quot;/notifications-explained/&quot;&gt;Customizing your Notifications.&lt;/a&gt;&lt;/p&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;&quot;bluemail&quot;}</name></author></entry><entryxml:lang="de"><title type="html">Muss ich meine vorherige E-Mail-App auf meinem Handy halten, um BlueMail zu haben?</title><link href="https://bluemail.help/de/stand-alone-application/" rel="alternate" type="text/html" title="Muss ich meine vorherige E-Mail-App auf meinem Handy halten, um BlueMail zu haben?" /><published>2017-08-06T17:14:53+03:00</published><updated>2017-08-06T17:14:53+03:00</updated><id>https://bluemail.help/stand-alone-application.de</id><content type="html" xml:base="https://bluemail.help/stand-alone-application/">&lt;p&gt;&lt;strong&gt;BlueMail&lt;/strong&gt; funktioniert unabhängig von allen anderen E-Mail-Anwendungen. Sie erhalten Instant Notifications, automatische E-Mail-Synchronisierung und haben die Möglichkeit, Ihre E-Mail zu lesen, ohne sich auf eine andere App zu verlassen!&lt;/p&gt;
+
+&lt;p&gt;In der Tat, da &lt;strong&gt;BlueMail&lt;/strong&gt; auf eigene Faust funktioniert, besteht keine Notwendigkeit, jeden anderen E-Mail-Client auf Ihrem Gerät zu halten. Auf diese Weise erhalten Sie eine E-Mail-Benachrichtigung nur einmal mit &lt;strong&gt;BlueMail’s&lt;/strong&gt; Instant Push!&lt;/p&gt;
+
+&lt;p&gt;Genießen Sie unsere eigenständige App!&lt;/p&gt;
+
+&lt;p&gt;Wenn Sie Ihren E-Mail-Client oder einen anderen E-Mail-Client deaktivieren möchten, können Sie entweder in diese Anwendung gehen und Ihr E-Mail-Konto entfernen oder Sie können versuchen, den Cache von dieser Anwendung zu deinstallieren, zu deaktivieren oder zu löschen Um keine zukünftigen doppelten Benachrichtigungen zu erhalten.&lt;/p&gt;
+
+&lt;p&gt;Sehen Sie hier über &lt;a href=&quot;https://www.androidpit.com/how-to-uninstall-preinstalled-android-apps&quot;&gt;deinstallieren von vorinstallierten Android Apps&lt;/a&gt;.&lt;/p&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;&quot;bluemail&quot;}</name></author></entry><entryxml:lang="de"><title type="html">Anmelden und Erste Schritte mit BlueMail</title><link href="https://bluemail.help/de/sign-in/" rel="alternate" type="text/html" title="Anmelden und Erste Schritte mit BlueMail" /><published>2017-07-25T08:26:39+03:00</published><updated>2017-07-25T08:26:39+03:00</updated><id>https://bluemail.help/sign-in.de</id><content type="html" xml:base="https://bluemail.help/sign-in/">&lt;h2 id=&quot;melden-sie-sich-bei-ihrem-e-mail-konto-an&quot;&gt;Melden Sie sich bei Ihrem E-Mail-Konto an&lt;/h2&gt;
+
+&lt;p&gt;Um loszulegen, müssen wir uns zuerst anmelden und ein E-Mail-Konto hinzufügen. Für dieses Beispiel verwenden wir ein Gmail-Konto, das &lt;a href=&quot;/what-is-oauth/&quot;&gt;OAuth&lt;/a&gt; zur Anmeldung verwendet. Tippen Sie auf &lt;em&gt;Google-Konto hinzufügen&lt;/em&gt;&lt;/p&gt;
+
+&lt;p class=&quot;center&quot;&gt;&lt;img src=&quot;/assets/BlueMail_LogIn_Screen.jpg&quot; alt=&quot;Sign In Google&quot; width=&quot;350px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Als nächstes können wir entweder ein Konto auswählen, das sich im Account Manager befindet, oder wir können ein anderes Gmail-Konto hinzufügen. Wir werden uns in ein zusätzliches Konto anmelden, anstatt ein vorhandenes Google Mail-Konto für dieses Beispiel zu verwenden. Tippen Sie auf &lt;em&gt;Ein weiteres Google-Konto&lt;/em&gt;&lt;/p&gt;
+
+&lt;p class=&quot;center&quot;&gt;&lt;img src=&quot;/assets/BlueMail_Gmail_Screen_1.jpg&quot; alt=&quot;Gmail Screen 1&quot; width=&quot;350px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Danach geben wir die Anmeldeinformationen für unser neues Konto ein, einschließlich Benutzername und Passwort. Gmail verwendet OAuth, um sicherzustellen, dass Ihr Konto immer sicher ist. Um mehr über OAuth zu erfahren, &lt;a href=&quot;/what-is-oauth/&quot;&gt;besuche unseren Tipp&lt;/a&gt;&lt;/p&gt;
+
+&lt;p class=&quot;center&quot;&gt;&lt;img src=&quot;/assets/BlueMail_Gmail_Screen_1_1.jpg&quot; alt=&quot;sign in BlueMail&quot; width=&quot;350px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Schließlich müssen wir den Namen und die Beschreibung für unser neues Konto einrichten. Der Name ist, was die Empfänger sehen, wenn Sie eine E-Mail senden, während die Kontobeschreibung ist, wie Sie Ihr neues Konto in &lt;a href=&quot;https://bluemail.me&quot;&gt;BlueMail&lt;/a&gt; identifizieren können. Einige Benutzer mögen Farben verwenden, um Ihre Konten zu differenzieren, und mit BlueMail können &lt;a href=&quot;/accounts-colors-blue-mail/&quot;&gt;Sie die Farbe ändern&lt;/a&gt; leicht.&lt;/p&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;&quot;bluemail&quot;}</name></author></entry><entryxml:lang="de"><title type="html">Icon Referenzhandbuch</title><link href="https://bluemail.help/de/icon-reference-guide/" rel="alternate" type="text/html" title="Icon Referenzhandbuch" /><published>2017-05-25T12:27:14+03:00</published><updated>2017-05-25T12:27:14+03:00</updated><id>https://bluemail.help/icon-reference-guide.de</id><content type="html" xml:base="https://bluemail.help/icon-reference-guide/">&lt;h3 id=&quot;tippen-sie-auf-das-symbol-um-mehr-zu-erfahren&quot;&gt;Tippen Sie auf das Symbol, um mehr zu erfahren&lt;/h3&gt;
+&lt;p&gt;&lt;img id=&quot;mapimage&quot; class=&quot;aligncenter&quot; src=&quot;/assets/BlueMail_Swipe_Glass-1.png&quot; alt=&quot;&quot; usemap=&quot;#Map1&quot; /&gt;
+&lt;img class=&quot;aligncenter&quot; src=&quot;/assets/Compose_Glass.png&quot; alt=&quot;&quot; usemap=&quot;#Map2&quot; /&gt;
+&lt;img class=&quot;aligncenter&quot; src=&quot;/assets/Account_Settings_Glass-1.png&quot; alt=&quot;&quot; usemap=&quot;#Map3&quot; /&gt;
+&lt;img class=&quot;aligncenter&quot; src=&quot;/assets/Mail_View_Glass-1.png&quot; alt=&quot;&quot; usemap=&quot;#Map4&quot; /&gt;&lt;/p&gt;
+
+&lt;map id=&quot;Map1&quot; name=&quot;Map1&quot;&gt;
+&lt;area class=&quot;imgmap&quot; title=&quot;Swipes&quot; alt=&quot;&quot; coords=&quot;0,153,179,211&quot; shape=&quot;rect&quot; href=&quot;/icon-reference-guide/#swipe&quot; /&gt;
+&lt;area title=&quot;Mail Status Indicators&quot; alt=&quot;&quot; coords=&quot;263,88,298,496&quot; shape=&quot;rect&quot; href=&quot;/icon-reference-guide/#stat-indicator&quot; /&gt;
+&lt;area title=&quot;Vertical 3-Dot Menu&quot; alt=&quot;&quot; coords=&quot;274,33,295,33,294,59,273,55&quot; shape=&quot;poly&quot; href=&quot;/icon-reference-guide/#vertical-3-dot&quot; /&gt;
+&lt;area title=&quot;Account Picker&quot; alt=&quot;&quot; coords=&quot;117,28,118,58,189,59,190,27&quot; shape=&quot;poly&quot; href=&quot;/icon-reference-guide/#picker&quot; /&gt;
+&lt;area title=&quot;Bottom Bar&quot; alt=&quot;&quot; coords=&quot;297,500,294,530,6,530,3,503&quot; shape=&quot;poly&quot; href=&quot;/icon-reference-guide/#bottom-bar&quot; /&gt;
+&lt;area title=&quot;Avatar Icons&quot; alt=&quot;&quot; coords=&quot;0,86,24,150&quot; shape=&quot;rect&quot; href=&quot;/icon-reference-guide/#avatar&quot; /&gt;
+&lt;area title=&quot;Avatar Icons&quot; alt=&quot;&quot; coords=&quot;0,210,24,496&quot; shape=&quot;rect&quot; href=&quot;/icon-reference-guide/#avatar&quot; /&gt;
+&lt;area title=&quot;People Switch&quot; alt=&quot;&quot; coords=&quot;220,33,264,34,262,58,219,56&quot; shape=&quot;poly&quot; href=&quot;/icon-reference-guide/#people&quot; /&gt;&lt;/map&gt;
+&lt;map id=&quot;Map2&quot; name=&quot;Map2&quot;&gt;
+&lt;area title=&quot;Compose Menu&quot; alt=&quot;&quot; coords=&quot;209,23,299,65&quot; shape=&quot;rect&quot; href=&quot;/icon-reference-guide/#compose&quot; /&gt;
+&lt;area title=&quot;Compose Options&quot; alt=&quot;&quot; coords=&quot;258,93,298,135&quot; shape=&quot;rect&quot; href=&quot;/icon-reference-guide/#compose&quot; /&gt;
+&lt;area title=&quot;Rich Text Editor&quot; alt=&quot;&quot; coords=&quot;259,162,299,217&quot; shape=&quot;rect&quot; href=&quot;/icon-reference-guide/#rich-text&quot; /&gt;
+&lt;area title=&quot;Navigation&quot; alt=&quot;&quot; coords=&quot;0,30,44,65&quot; shape=&quot;rect&quot; href=&quot;/icon-reference-guide/#nav-mail&quot; /&gt;&lt;/map&gt;
+&lt;map id=&quot;Map3&quot; name=&quot;Map3&quot;&gt;
+&lt;area title=&quot;Vertical 3-Dot Options&quot; alt=&quot;&quot; coords=&quot;271,31,299,63&quot; shape=&quot;rect&quot; href=&quot;/icon-reference-guide/#various-acct&quot; /&gt;
+&lt;area title=&quot;Edit Account&quot; alt=&quot;&quot; coords=&quot;118,78,146,102&quot; shape=&quot;rect&quot; href=&quot;/icon-reference-guide/#edit-acct&quot; /&gt;
+&lt;area title=&quot;Edit Account&quot; alt=&quot;&quot; coords=&quot;263,77,291,103&quot; shape=&quot;rect&quot; href=&quot;/icon-reference-guide/#edit-acct&quot; /&gt;
+&lt;area title=&quot;Edit Account&quot; alt=&quot;&quot; coords=&quot;113,231,146,259&quot; shape=&quot;rect&quot; href=&quot;/icon-reference-guide/#edit-acct&quot; /&gt;
+&lt;area title=&quot;Account Status&quot; alt=&quot;&quot; coords=&quot;5,195,291,221&quot; shape=&quot;rect&quot; href=&quot;/icon-reference-guide/#acct-status&quot; /&gt;
+&lt;area title=&quot;Account Status&quot; alt=&quot;&quot; coords=&quot;7,349,294,375&quot; shape=&quot;rect&quot; href=&quot;/icon-reference-guide/#acct-status&quot; /&gt;
+&lt;area title=&quot;Bottom Bar&quot; alt=&quot;&quot; coords=&quot;2,497,297,530&quot; shape=&quot;rect&quot; href=&quot;/icon-reference-guide/#bottom-bar&quot; /&gt;
+&lt;area title=&quot;Navigation&quot; alt=&quot;&quot; coords=&quot;1,26,48,66&quot; shape=&quot;rect&quot; href=&quot;/icon-reference-guide/#nav-mail&quot; /&gt;&lt;/map&gt;
+&lt;map id=&quot;Map4&quot; name=&quot;Map4&quot;&gt;
+&lt;area title=&quot;Navigation Mail View&quot; alt=&quot;&quot; coords=&quot;229,28,295,64&quot; shape=&quot;rect&quot; href=&quot;/icon-reference-guide/#nav-mail&quot; /&gt;
+&lt;area title=&quot;Bottom Bar&quot; alt=&quot;&quot; coords=&quot;0,500,300,531&quot; shape=&quot;rect&quot; href=&quot;/icon-reference-guide/#bottom-mail&quot; /&gt;
+&lt;area title=&quot;Mail View Status&quot; alt=&quot;&quot; coords=&quot;259,73,298,150&quot; shape=&quot;rect&quot; href=&quot;/icon-reference-guide/#mail-view-status&quot; /&gt;
+&lt;area title=&quot;Navigation Mail View&quot; alt=&quot;&quot; coords=&quot;42,24,0,67&quot; shape=&quot;rect&quot; href=&quot;/icon-reference-guide/#nav-mail&quot; /&gt;&lt;/map&gt;
+
+&lt;h1&gt;Account Picker&lt;/h1&gt;
+&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;th&gt;Icon&lt;/th&gt;
+&lt;th&gt;Meaning&lt;/th&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;width: 25%;&quot;&gt;&lt;img class=&quot;aligncenter wp-image-8606&quot; src=&quot;/assets/menu_item_all-150x150.png&quot; alt=&quot;&quot; width=&quot;35&quot; height=&quot;35&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;/top-bar-left-triangle-menu/&quot;&gt;All Mail Filter&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;width: 25%;&quot;&gt;&lt;img class=&quot;aligncenter wp-image-8609&quot; src=&quot;/assets/menu_item_unread-150x150.png&quot; alt=&quot;&quot; width=&quot;35&quot; height=&quot;35&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;Un/read Filter&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;width: 25%;&quot;&gt;&lt;img class=&quot;aligncenter wp-image-8608&quot; src=&quot;/assets/menu_item_star-150x150.png&quot; alt=&quot;&quot; width=&quot;35&quot; height=&quot;35&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;Un/Star Filter&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;width: 25%;&quot;&gt;&lt;img class=&quot;aligncenter wp-image-8607&quot; src=&quot;/assets/menu_item_incoming-150x150.png&quot; alt=&quot;&quot; width=&quot;35&quot; height=&quot;35&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;/faq/keep-email-on-server/&quot;&gt;Incoming Filter&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;width: 25%;&quot;&gt;&lt;img class=&quot;aligncenter wp-image-8630&quot; src=&quot;/assets/picker_cluster_toggle-150x150.png&quot; alt=&quot;&quot; width=&quot;35&quot; height=&quot;35&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;/what-is-cluster-mode/&quot;&gt;Cluster Settings&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;width: 25%;&quot;&gt;&lt;img class=&quot;aligncenter wp-image-8631&quot; src=&quot;/assets/picker_theme_toggle-150x150.png&quot; alt=&quot;&quot; width=&quot;35&quot; height=&quot;35&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;/how-do-i-enable-dark-mode/&quot;&gt;Turn on/off Dark Mode&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;a name=&quot;acct-status&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;Account Status&lt;/h1&gt;
+&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;th&gt;Icon&lt;/th&gt;
+&lt;th&gt;Meaning&lt;/th&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;width: 25%;&quot;&gt;&lt;img class=&quot;aligncenter wp-image-8658&quot; src=&quot;/assets/account_status_sync.png&quot; alt=&quot;&quot; width=&quot;35&quot; height=&quot;35&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;Account is Syncing&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;width: 25%;&quot;&gt;&lt;img class=&quot;aligncenter wp-image-8660&quot; src=&quot;/assets/account_status_moon.png&quot; alt=&quot;&quot; width=&quot;35&quot; height=&quot;35&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;Account is silenced&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;width: 25%;&quot;&gt;&lt;img class=&quot;aligncenter wp-image-8657&quot; src=&quot;/assets/account_state_error.png&quot; alt=&quot;&quot; width=&quot;25&quot; height=&quot;25&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;Account is not connected&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;a name=&quot;bottom-bar&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;Bottom Bar&lt;/h1&gt;
+&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;th&gt;Icon&lt;/th&gt;
+&lt;th&gt;Meaning&lt;/th&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;width: 25%;&quot;&gt;&lt;img class=&quot;aligncenter wp-image-8624&quot; src=&quot;/assets/inbox_blue.png&quot; alt=&quot;&quot; width=&quot;35&quot; height=&quot;35&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;Inbox&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;width: 25%;&quot;&gt;&lt;img class=&quot;aligncenter wp-image-8625&quot; src=&quot;/assets/tab_contacts_blue.png&quot; alt=&quot;&quot; width=&quot;35&quot; height=&quot;35&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;Emails from Contacts&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;width: 25%;&quot;&gt;&lt;img class=&quot;aligncenter wp-image-8628&quot; src=&quot;/assets/ic_compose_tab.png&quot; alt=&quot;&quot; width=&quot;35&quot; height=&quot;35&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;Compose an email&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;width: 25%;&quot;&gt;&lt;img class=&quot;aligncenter wp-image-8626&quot; src=&quot;/assets/timer_tab_blue.png&quot; alt=&quot;&quot; width=&quot;35&quot; height=&quot;35&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;/get-stuff-done/&quot;&gt;Tasks List&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;width: 25%;&quot;&gt;&lt;img class=&quot;aligncenter wp-image-8627&quot; src=&quot;/assets/ic_more_blue.png&quot; alt=&quot;&quot; width=&quot;35&quot; height=&quot;35&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;/global-settings/&quot;&gt;More Settings and Options&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;a name=&quot;compose&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;Compose View&lt;/h1&gt;
+&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;th&gt;Icon&lt;/th&gt;
+&lt;th&gt;Meaning&lt;/th&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;width: 25%;&quot;&gt;&lt;img class=&quot;aligncenter wp-image-8633&quot; src=&quot;/assets/sendmail.png&quot; alt=&quot;&quot; width=&quot;35&quot; height=&quot;35&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;Send an email&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;width: 25%;&quot;&gt;&lt;img class=&quot;aligncenter wp-image-8634&quot; src=&quot;/assets/add_contact.png&quot; alt=&quot;&quot; width=&quot;35&quot; height=&quot;35&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;Add a contact&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;a name=&quot;rich-text&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;Rich Text Editor&lt;/h1&gt;
+&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;th&gt;Icon&lt;/th&gt;
+&lt;th&gt;Meaning&lt;/th&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;width: 25%;&quot;&gt;&lt;img class=&quot;aligncenter wp-image-8714&quot; src=&quot;/assets/ic_open_richtext-1.png&quot; alt=&quot;&quot; width=&quot;35&quot; height=&quot;35&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;/rich-text-compose/&quot;&gt;Open/Close Rich Text Editor&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;width: 25%;&quot;&gt;&lt;img class=&quot;aligncenter wp-image-8636&quot; src=&quot;/assets/rich_text_btn_bold_normal.png&quot; alt=&quot;&quot; width=&quot;35&quot; height=&quot;35&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;Bold&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;width: 25%;&quot;&gt;&lt;img class=&quot;aligncenter wp-image-8637&quot; src=&quot;/assets/rich_text_btn_italic_normal.png&quot; alt=&quot;&quot; width=&quot;35&quot; height=&quot;35&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;Italics&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;width: 25%;&quot;&gt;&lt;img class=&quot;aligncenter wp-image-8638&quot; src=&quot;/assets/rich_text_btn_underline_normal.png&quot; alt=&quot;&quot; width=&quot;35&quot; height=&quot;35&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;Underline&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;width: 25%;&quot;&gt;&lt;img class=&quot;aligncenter wp-image-8639&quot; src=&quot;/assets/edit_font_size.png&quot; alt=&quot;&quot; width=&quot;35&quot; height=&quot;35&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;Text Size&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;width: 25%;&quot;&gt;&lt;img class=&quot;aligncenter wp-image-8640&quot; src=&quot;/assets/edit_font_style.png&quot; alt=&quot;&quot; width=&quot;35&quot; height=&quot;35&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;Font Type&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;width: 25%;&quot;&gt;&lt;img class=&quot;aligncenter wp-image-8644&quot; src=&quot;/assets/rich_text_btn_color_assembled.png&quot; alt=&quot;&quot; width=&quot;35&quot; height=&quot;35&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;Text Color&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;width: 25%;&quot;&gt;&lt;img class=&quot;aligncenter wp-image-8643&quot; src=&quot;/assets/rich_text_btn_pic.png&quot; alt=&quot;&quot; width=&quot;35&quot; height=&quot;35&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;Insert Image&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;width: 25%;&quot;&gt;&lt;img class=&quot;aligncenter wp-image-8563&quot; src=&quot;/assets/Insert_link.png&quot; alt=&quot;&quot; width=&quot;35&quot; height=&quot;35&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;Insert Hyperlink&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;a name=&quot;stat-indicator&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;Email Status Indicators&lt;/h1&gt;
+&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;th&gt;Icon&lt;/th&gt;
+&lt;th&gt;Meaning&lt;/th&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;width: 10%;&quot;&gt;&lt;img class=&quot;aligncenter wp-image-8647&quot; src=&quot;/assets/item_attachment.png&quot; alt=&quot;&quot; width=&quot;35&quot; height=&quot;35&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;Email contains an attachment&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;width: 10%;&quot;&gt;&lt;img class=&quot;aligncenter wp-image-8647&quot; src=&quot;/assets/cluster_plusxxxhdpi.png&quot; alt=&quot;&quot; width=&quot;35&quot; height=&quot;35&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;Cluster is Closed&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;width: 10%;&quot;&gt;&lt;img class=&quot;aligncenter wp-image-8647&quot; src=&quot;/assets/cluster_minusxxxhdpi.png&quot; alt=&quot;&quot; width=&quot;35&quot; height=&quot;35&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;Cluster is Opened&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;width: 10%;&quot;&gt;&lt;img class=&quot;aligncenter wp-image-8649&quot; src=&quot;/assets/item_star.png&quot; alt=&quot;&quot; width=&quot;35&quot; height=&quot;35&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;/starred-email-label-email/&quot;&gt;Email is Starred&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;width: 10%;&quot;&gt;&lt;img class=&quot;aligncenter wp-image-8652&quot; src=&quot;/assets/next_message_gray.png&quot; alt=&quot;&quot; width=&quot;35&quot; height=&quot;35&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;Replies in email thread&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;width: 10%;&quot;&gt;&lt;img class=&quot;aligncenter wp-image-8654&quot; src=&quot;/assets/edit_mode_mark_as_unread-150x150.png&quot; alt=&quot;&quot; width=&quot;35&quot; height=&quot;35&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;/mark-an-email-as-read/&quot;&gt;Email is Unread&lt;/a&gt;. The number indicates the amount of unread emails in the Cluster&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;width: 10%;&quot;&gt;&lt;img class=&quot;aligncenter wp-image-8653&quot; src=&quot;/assets/edit_mode_mark_as_read-150x150.png&quot; alt=&quot;&quot; width=&quot;35&quot; height=&quot;35&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;/mark-an-email-as-read/&quot;&gt;Email is Read&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;a name=&quot;avatar&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;Avatar Icons&lt;/h1&gt;
+&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;th&gt;Icon&lt;/th&gt;
+&lt;th&gt;Meaning&lt;/th&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;width: 25%;&quot;&gt;&lt;img class=&quot;aligncenter wp-image-8646&quot; src=&quot;/assets/mail_list_high_importance.png&quot; alt=&quot;&quot; width=&quot;25&quot; height=&quot;25&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;/send-email-with-high-priority/&quot;&gt;Email is Important&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;width: 25%;&quot;&gt;&lt;img class=&quot;aligncenter wp-image-8648&quot; src=&quot;/assets/item_spam.png&quot; alt=&quot;&quot; width=&quot;25&quot; height=&quot;25&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;/manage-spam/&quot;&gt;Email has been Blocked&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;width: 25%;&quot;&gt;&lt;img class=&quot;aligncenter wp-image-8650&quot; src=&quot;/assets/item_timer_blue.png&quot; alt=&quot;&quot; width=&quot;25&quot; height=&quot;25&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;/mark-an-email-as-later/&quot;&gt;Email has been Snoozed&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;width: 25%;&quot;&gt;&lt;img class=&quot;aligncenter wp-image-8651&quot; src=&quot;/assets/item_timer_red.png&quot; alt=&quot;&quot; width=&quot;25&quot; height=&quot;25&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;/get-stuff-done/&quot;&gt;Email is overdue&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;a name=&quot;vertical-3-dot&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;Vertical 3-Dot Menu&lt;/h1&gt;
+&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;th&gt;Icon&lt;/th&gt;
+&lt;th&gt;Meaning&lt;/th&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;width: 25%;&quot;&gt;&lt;img class=&quot;aligncenter size-large wp-image-8612&quot; src=&quot;/assets/ic_item_menu.png&quot; alt=&quot;&quot; width=&quot;25&quot; height=&quot;25&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;Vertical 3-Dot Menu&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;width: 25%;&quot;&gt;&lt;img class=&quot;aligncenter wp-image-8615&quot; src=&quot;/assets/ic_search.png&quot; alt=&quot;&quot; width=&quot;25&quot; height=&quot;34&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;/search-on-server/&quot;&gt;Search the current folder&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;width: 25%;&quot;&gt;&lt;img class=&quot;aligncenter wp-image-8613&quot; src=&quot;/assets/ic_multi_edit.png&quot; alt=&quot;&quot; width=&quot;25&quot; height=&quot;34&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;/actions-multiple-emails-blue-mail/&quot;&gt;Multi Edit many emails&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;width: 25%;&quot;&gt;&lt;img class=&quot;aligncenter wp-image-8614&quot; src=&quot;/assets/ic_refresh_icon.png&quot; alt=&quot;&quot; width=&quot;25&quot; height=&quot;34&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;/refresh-mail-list/&quot;&gt;Refresh the Mail View&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;width: 25%;&quot;&gt;&lt;img class=&quot;aligncenter size-thumbnail wp-image-8611&quot; src=&quot;/assets/ic_like-150x150.png&quot; alt=&quot;&quot; width=&quot;25&quot; height=&quot;25&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;Invite your Friends&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;width: 25%;&quot;&gt;&lt;img class=&quot;aligncenter wp-image-8616&quot; src=&quot;/assets/ic_dropdown_feedback.png&quot; alt=&quot;&quot; width=&quot;25&quot; height=&quot;34&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;/provide-feedback/&quot;&gt;Send us Feedback&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;a name=&quot;swipe&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;Swipe Menu Icons&lt;/h1&gt;
+&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;th&gt;Icon&lt;/th&gt;
+&lt;th&gt;Meaning&lt;/th&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;width: 25%;&quot;&gt;&lt;img class=&quot;aligncenter wp-image-8636&quot; src=&quot;/assets/ic_action_later--150x150.png&quot; alt=&quot;&quot; width=&quot;35&quot; height=&quot;35&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;Snooze+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;width: 25%;&quot;&gt;&lt;img class=&quot;aligncenter wp-image-8637&quot; src=&quot;/assets/folder_trash.png&quot; alt=&quot;&quot; width=&quot;35&quot; height=&quot;35&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;Delete&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;width: 25%;&quot;&gt;&lt;img class=&quot;aligncenter wp-image-8638&quot; src=&quot;/assets/ic_action_later_default.png&quot; alt=&quot;&quot; width=&quot;35&quot; height=&quot;35&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;Snooze Default&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;width: 25%;&quot;&gt;&lt;img class=&quot;aligncenter wp-image-8639&quot; src=&quot;/assets/ic_action_reply_all.png&quot; alt=&quot;&quot; width=&quot;35&quot; height=&quot;35&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;Reply All&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;width: 25%;&quot;&gt;&lt;img class=&quot;aligncenter wp-image-8640&quot; src=&quot;/assets/more_option_add_account.png&quot; alt=&quot;&quot; width=&quot;35&quot; height=&quot;35&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;More&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;width: 25%;&quot;&gt;&lt;img class=&quot;aligncenter wp-image-8644&quot; src=&quot;/assets/ic_action_wear_reply.png&quot; alt=&quot;&quot; width=&quot;35&quot; height=&quot;35&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;Reply&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;width: 25%;&quot;&gt;&lt;img class=&quot;aligncenter wp-image-8643&quot; src=&quot;/assets/ic_action_done.png&quot; alt=&quot;&quot; width=&quot;35&quot; height=&quot;35&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;Done/Undone&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;width: 25%;&quot;&gt;&lt;img class=&quot;aligncenter wp-image-8563&quot; src=&quot;/assets/ic_action_forward.png&quot; alt=&quot;&quot; width=&quot;35&quot; height=&quot;35&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;Forward&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;width: 25%;&quot;&gt;&lt;img class=&quot;aligncenter wp-image-8563&quot; src=&quot;/assets/ic_action_wear_mark_as_read.png&quot; alt=&quot;&quot; width=&quot;35&quot; height=&quot;35&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;Mark Read&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;width: 25%;&quot;&gt;&lt;img class=&quot;aligncenter wp-image-8563&quot; src=&quot;/assets/ic_action_move.png&quot; alt=&quot;&quot; width=&quot;35&quot; height=&quot;35&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;Move&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img class=&quot;aligncenter wp-image-8563&quot; src=&quot;/assets/menu_item_unread.png&quot; alt=&quot;&quot; width=&quot;35&quot; height=&quot;35&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;Mark Unread&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;width: 25%;&quot;&gt;&lt;img class=&quot;aligncenter wp-image-8563&quot; src=&quot;/assets/menu_item_star.png&quot; alt=&quot;&quot; width=&quot;35&quot; height=&quot;35&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;Star/Un-star&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;width: 25%;&quot;&gt;&lt;img class=&quot;aligncenter wp-image-8563&quot; src=&quot;/assets/ic_action_wear_archive.png&quot; alt=&quot;&quot; width=&quot;35&quot; height=&quot;35&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;Archive&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;width: 25%;&quot;&gt;&lt;img class=&quot;aligncenter wp-image-8563&quot; src=&quot;/assets/ic_action_spam.png&quot; alt=&quot;&quot; width=&quot;35&quot; height=&quot;35&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;Block&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;width: 25%;&quot;&gt;&lt;img class=&quot;aligncenter wp-image-8563&quot; src=&quot;/assets/settings_swipe_quick_reply1.png&quot; alt=&quot;&quot; width=&quot;35&quot; height=&quot;35&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;Quick Replies&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;a name=&quot;bottom-mail&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;Bottom Bar in Mail View&lt;/h1&gt;
+&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;th&gt;Icon&lt;/th&gt;
+&lt;th&gt;Meaning&lt;/th&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;width: 25%;&quot;&gt;&lt;img class=&quot;aligncenter wp-image-8647&quot; src=&quot;/assets/ic_action_later--150x150.png&quot; alt=&quot;&quot; width=&quot;35&quot; height=&quot;35&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;Snooze+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;width: 25%;&quot;&gt;&lt;img class=&quot;aligncenter wp-image-8649&quot; src=&quot;/assets/ic_action_done.png&quot; alt=&quot;&quot; width=&quot;35&quot; height=&quot;35&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;Mark as Done&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img class=&quot;aligncenter wp-image-8652&quot; src=&quot;/assets/folder_trash.png&quot; alt=&quot;&quot; width=&quot;35&quot; height=&quot;35&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;Delete the Email&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;width: 25%;&quot;&gt;&lt;img class=&quot;aligncenter wp-image-8654&quot; src=&quot;/assets/ic_action_reply_all.png&quot; alt=&quot;&quot; width=&quot;35&quot; height=&quot;35&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;Reply All&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;width: 25%;&quot;&gt;&lt;img class=&quot;aligncenter wp-image-8612&quot; src=&quot;/assets/ic_item_menu.png&quot; alt=&quot;&quot; width=&quot;35&quot; height=&quot;35&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;More Options&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;a name=&quot;various-acct&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;3-Dots Account Settings&lt;/h1&gt;
+&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;th&gt;Icon&lt;/th&gt;
+&lt;th&gt;Meaning&lt;/th&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;width: 25%;&quot;&gt;&lt;img class=&quot;aligncenter wp-image-8706&quot; src=&quot;/assets/ic_reorder.png&quot; alt=&quot;&quot; width=&quot;35&quot; height=&quot;35&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;Reorder Accounts&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;width: 25%;&quot;&gt;&lt;img class=&quot;aligncenter wp-image-8707&quot; src=&quot;/assets/menu_account_status.png&quot; alt=&quot;&quot; width=&quot;35&quot; height=&quot;35&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;Accounts Status&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;a name=&quot;nav-mail&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;Navigation&lt;/h1&gt;
+&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;th&gt;Icon&lt;/th&gt;
+&lt;th&gt;Meaning&lt;/th&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;width: 25%;&quot;&gt;&lt;img class=&quot;aligncenter wp-image-8708&quot; src=&quot;/assets/conversation_expand.png&quot; alt=&quot;&quot; width=&quot;35&quot; height=&quot;35&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;Return to Mail View&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;width: 25%;&quot;&gt;&lt;img class=&quot;aligncenter wp-image-8708&quot; src=&quot;/assets/next_message.png&quot; alt=&quot;&quot; width=&quot;35&quot; height=&quot;35&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;Next Message&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;width: 25%;&quot;&gt;&lt;img class=&quot;aligncenter wp-image-8709&quot; src=&quot;/assets/prev_message.png&quot; alt=&quot;&quot; width=&quot;35&quot; height=&quot;35&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;Previous Message&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;width: 25%;&quot;&gt;&lt;img class=&quot;aligncenter wp-image-8721&quot; src=&quot;/assets/back_arrow.png&quot; alt=&quot;&quot; width=&quot;21&quot; height=&quot;35&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;Return to Previous Menu&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;a name=&quot;mail-view-status&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;Mail View&lt;/h1&gt;
+&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;th&gt;Icon&lt;/th&gt;
+&lt;th&gt;Meaning&lt;/th&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;width: 25%;&quot;&gt;&lt;img class=&quot;aligncenter wp-image-8653&quot; src=&quot;/assets/edit_mode_mark_as_read.png&quot; alt=&quot;&quot; width=&quot;35&quot; height=&quot;35&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;/mark-an-email-as-read/&quot;&gt;Read&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;width: 25%;&quot;&gt;&lt;img class=&quot;aligncenter wp-image-8654&quot; src=&quot;/assets/edit_mode_mark_as_unread.png&quot; alt=&quot;&quot; width=&quot;35&quot; height=&quot;35&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;/mark-an-email-as-read/&quot;&gt;Unread&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;width: 25%;&quot;&gt;&lt;img class=&quot;aligncenter wp-image-8712&quot; src=&quot;/assets/ic_reply_menu.png&quot; alt=&quot;&quot; width=&quot;35&quot; height=&quot;35&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;/difference-reply-reply-all-forward/&quot;&gt;Reply Menu&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;a name=&quot;people&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;People Switch&lt;/h1&gt;
+&lt;p&gt;The People toggle switch found in the upper right-hand corner is a quick and easy way to hide Services from the mail list. With a flip of the toggle switch, all services are hidden from the mail list leaving only emails from People or Groups. &lt;a href=&quot;/what-does-the-people-toggle-switch-do/&quot;&gt;Learn More...&lt;/a&gt;&lt;br /&gt;
+&lt;a name=&quot;edit-acct&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;Various Account Settings&lt;/h1&gt;
+&lt;p&gt;Here you can configure different settings that apply to the specific account you have selected. &lt;a href=&quot;/edit-account/&quot;&gt;Learn More...&lt;/a&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;th&gt;Icon&lt;/th&gt;
+&lt;th&gt;Meaning&lt;/th&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;width: 25%;&quot;&gt;&lt;img class=&quot;aligncenter wp-image-8659&quot; src=&quot;/assets/account_status_setting.png&quot; alt=&quot;&quot; width=&quot;25&quot; height=&quot;25&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;/accounts-status-options/&quot;&gt;Settings&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h1&gt;Where Can I Learn More?&lt;/h1&gt;
+&lt;p&gt;BlueMail is constantly adding new and exciting features for many different devices. To learn more about upcoming news, features, or even device specific solutions, please visit us at one of the links below.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://bluemailreviews.com&quot;&gt;BlueMail Reviews&lt;/a&gt; - Here you can read what users and members of the press have to say about BlueMail&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://bluemail.info&quot;&gt;BlueMail Info&lt;/a&gt; - Here is where you can find all sorts of news regarding features both upcoming and present&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://bluemaildevices.com&quot;&gt;BlueMail Devices&lt;/a&gt; - Learn about device specific solutions such as Push and Notification settings&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://bluemailproviders.com&quot;&gt;BlueMail Providers&lt;/a&gt; - See all of the different providers BlueMail supports&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://bluemailguide.com&quot;&gt;BlueMail Guide&lt;/a&gt; - Have a specific use in mind? Find it here at BlueMailGuide.com&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://bluemailtutorial.com&quot;&gt;BlueMail Tutorial&lt;/a&gt; - Get started using BlueMail using this handy guide&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://bluemailsecurity.com&quot;&gt;BlueMail Security&lt;/a&gt; - Find out how BlueMail works hard to keep your data safe&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img class=&quot;aligncenter size-full wp-image-8718&quot; src=&quot;/assets/BlueMail_All_Devices_980x534.png&quot; alt=&quot;&quot; width=&quot;980&quot; height=&quot;534&quot; /&gt;&lt;/p&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;&quot;bluemail&quot;}</name></author></entry><entryxml:lang="de"><title type="html">Wie kann ich ein App-spezifisches Passwort für mein iCloud Konto aktivieren?</title><link href="https://bluemail.help/de/app-specific-password-icloud/" rel="alternate" type="text/html" title="Wie kann ich ein App-spezifisches Passwort für mein iCloud Konto aktivieren?" /><published>2017-05-16T15:34:00+03:00</published><updated>2017-05-16T15:34:00+03:00</updated><id>https://bluemail.help/app-specific-password-icloud.de</id><content type="html" xml:base="https://bluemail.help/app-specific-password-icloud/">&lt;p&gt;Ab dem 15. Juni 2017 benötigt Apple iCloud-Benutzer (@icloud.com, @me.com oder @mac.com), um ein app-spezifisches Passwort zu erstellen, um sich bei BlueMail anzumelden.&lt;/p&gt;
+
+&lt;p&gt;Um das app-spezifische Passwort zu generieren, muss zuerst die Two Factor Authentication (2FA) aktiviert sein. Um 2FA zu aktivieren, folgen Sie bitte den folgenden Schritten:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Gehen Sie zu meiner Apple ID - &lt;a href=&quot;https://appleid.apple.com/account/home&quot;&gt;https://appleid.apple.com/account/home&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Wählen Sie &lt;em&gt;Verwalten Sie Ihre Apple ID&lt;/em&gt; und melden Sie sich an.&lt;/li&gt;
+  &lt;li&gt;Wählen Sie &lt;em&gt;Passwort und Sicherheit&lt;/em&gt;.&lt;/li&gt;
+  &lt;li&gt;Wählen Sie unter Zwei-Schritt-Bestätigung &lt;em&gt;Get Started&lt;/em&gt; und folgen Sie den Anweisungen auf dem Bildschirm.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Sobald Sie 2FA für Ihr iCloud-Konto aktiviert haben, können Sie nun ein App-spezifisches Passwort generieren, das auf &lt;strong&gt;BlueMail&lt;/strong&gt; verwendet werden soll:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Wählen Sie auf der obigen Seite &lt;em&gt;Kennwort und Sicherheit&lt;/em&gt; aus.&lt;/li&gt;
+  &lt;li&gt;Klicken Sie auf &lt;em&gt;Erstellen Sie ein App-spezifisches Passwort&lt;/em&gt; (Es wird ein neues App-Passwort generiert).&lt;/li&gt;
+  &lt;li&gt;Öffnen Sie &lt;strong&gt;BlueMail&lt;/strong&gt; tippen Sie auf &lt;em&gt;Mehr …&lt;/em&gt; | &lt;em&gt;Verschiedene Kontoeinstellungen&lt;/em&gt; | &lt;em&gt;tippen Sie auf das Konto, das Sie aktualisieren möchten&lt;/em&gt; | &lt;em&gt;Konto bearbeiten&lt;/em&gt; | &lt;em&gt;Passwort aktualisieren&lt;/em&gt; | &lt;em&gt;Geben Sie das oben erhaltene Passwort ein&lt;/em&gt;.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Bitte beachten Sie:&lt;/strong&gt; Die Zwei-Faktor-Authentifizierung steht derzeit für iCloud-Benutzer mit mindestens einem Gerät zur Verfügung, das iOS 9 oder OS X El Capitan oder höher verwendet.&lt;/p&gt;
+
+&lt;p&gt;Wenn Sie keinen Zugang zu einem Ihrer Apple-Geräte haben, lesen Sie bitte die &lt;a href=&quot;https://support.apple.com/en-US/HT204921&quot;&gt;Apple Support-Anleitung&lt;/a&gt; unten:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;Wenn Sie nicht auf Ihre Geräte zugreifen können&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Sie können die Kontoerholung von einem Freund- oder Familienmitglied iPhone, iPad oder iPod touch anfordern:&lt;/p&gt;
+  &lt;ol&gt;
+    &lt;li&gt;Öffnen Sie die Find My iPhone App. Wenn ein Anmeldebildschirm angezeigt wird, tippen Sie auf Apple ID oder Kennwort vergessen, und folgen Sie dann den Anweisungen auf dem Bildschirm.&lt;/li&gt;
+    &lt;li&gt;Kein Anmeldebildschirm sehen? Tippen Sie auf Abmelden. Nachdem Sie sich abgemeldet haben, tippen Sie auf Apple ID oder Passwort, und folgen Sie den Anweisungen auf dem Bildschirm.&lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Kannst du den Account Recovery noch nicht starten? Nur wenn Sie nicht auf Ihr vertrauenswürdiges Gerät oder ein anderes iPhone, iPad, iPod oder Mac zugreifen können, gehen Sie zu &lt;a href=&quot;http://iforgot.apple.com&quot;&gt;iforgot.apple.com&lt;/a&gt;. Geben Sie Ihre Apple ID ein, geben Sie den Code ein, den Sie sehen, und klicken Sie dann auf Weiter. Geben Sie Ihre vertrauenswürdige Telefonnummer ein und klicken Sie dann auf Weiter. Wählen Sie “Haben Sie keinen Zugriff auf Ihre vertrauenswürdigen Geräte oder Telefonnummern.” Wählen Sie Start Account Recovery.&lt;/p&gt;
+&lt;/blockquote&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;&quot;bluemail&quot;}</name></author></entry><entryxml:lang="de"><title type="html">Getting Stuff Done</title><link href="https://bluemail.help/de/get-stuff-done/" rel="alternate" type="text/html" title="Getting Stuff Done" /><published>2017-03-20T08:28:37+02:00</published><updated>2017-03-20T08:28:37+02:00</updated><id>https://bluemail.help/get-stuff-done.de</id><content type="html" xml:base="https://bluemail.help/get-stuff-done/">&lt;h2 id=&quot;wie-kann-bluemail-mir-helfen&quot;&gt;Wie kann BlueMail mir helfen?&lt;/h2&gt;
+
+&lt;p&gt;Getting Stuff Done ist eine Methode der Organisation, die hilft, Aufgaben zu lösen, die viel einfacher sind. Ihr Posteingang ist organisiert, sobald eine E-Mail eingegangen ist, und während dies wichtig ist, bedeutet nicht unbedingt, welche E-Mails mehr Dringlichkeit benötigen als andere. Mit BlueMail’s Getting Stuff Done Feature, wird dies viel einfacher mit dem Hinzufügen der Task-Liste und Erinnerungen.&lt;/p&gt;
+
+&lt;h2 id=&quot;was-ist-snooze-wie-man-snooze--eine-e-mail&quot;&gt;Was ist Snooze? Wie man Snooze + eine E-Mail?&lt;/h2&gt;
+
+&lt;p class=&quot;center&quot;&gt;&lt;img src=&quot;/assets/ic_action_later-.png&quot; alt=&quot;Later&quot; width=&quot;100px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Manchmal sind Sie in einem Kontext, wenn die Handhabung der Post nicht wirksam, möglich oder vernünftig ist. Möglicherweise müssen Sie auf eine bestimmte Zeit warten, an einem bestimmten Ort sein oder bestimmte Ressourcen oder Voraussetzungen haben. Für diese E-Mails können Sie die Handhabung verschieben. BlueMail hat bereit gemacht Zeitrahmen für Sie gesetzt: später heute, Ende des Tages, am nächsten Tag / Woche / Monat, oder eines Tages in der Zukunft. Sie können auch ein bestimmtes Datum / Uhrzeit auswählen, was nützlich ist, wenn Sie genau wissen, wann die passende Zeit für diese Mail sein würde.&lt;/p&gt;
+
+&lt;p&gt;So fügen Sie eine E-Mail an Tasks hinzu &lt;a href=&quot;/mark-an-email-as-later/&quot;&gt;Snooze+ it.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Sie können eine E-Mail an Tasks / Snooze eine E-Mail mit diesen Methoden hinzufügen:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Verwenden der &lt;a href=&quot;/bottom-bar-options-type-mail/&quot;&gt;Bottom Bar-Aktionen in der Mail-Ansicht&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Verwenden der &lt;a href=&quot;/bottom-bar-options-type-mail/&quot;&gt;Bottom Bar-Aktionen in der Mail-Ansicht&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Hinweis: Wenn Sie den &lt;a href=&quot;/top-bar-left-triangle-menu/&quot;&gt;Incoming Filter&lt;/a&gt; verwenden, sehen Sie keine E-Mails, die als abgeschlossen markiert sind.&lt;/p&gt;
+
+&lt;h2 id=&quot;was-sind-aufgaben&quot;&gt;Was sind Aufgaben?&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;Tasks&lt;/em&gt; Ansicht zeigt alle Snoozed E-Mails. Diese Ansicht erlaubt Ihnen, alle E-Mails zu unterscheiden, die Sie benötigen, um von den dringendsten bestellt zu werden. Sie können auch E-Mails sehen, deren festgelegte Zeit abgelaufen ist. Dies ermöglicht Ihnen, Ihre Zeit auf der Grundlage von Dringlichkeit sowie Bedeutung zu priorisieren.&lt;/p&gt;
+
+&lt;p&gt;Wenn jede solche Aufgabe es erreicht hat, bekommt man eine Push-Benachrichtigung, auch Snooze genannt, als Erinnerung.&lt;/p&gt;
+
+&lt;h2 id=&quot;was-sind-snooze-benachrichtigungen-oder-erinnerungen&quot;&gt;Was sind Snooze Benachrichtigungen oder Erinnerungen?&lt;/h2&gt;
+
+&lt;p&gt;Sobald Sie einige Mails geschlüpft haben, erscheinen sie als Aufgaben mit der richtigen Zeit, sortiert nach Dringlichkeit. Wenn jede solche “Aufgabe” es erreicht hat, bekommst du eine Push-Benachrichtigung, auch Snooze genannt, als Erinnerung, damit du weißt, dass dies der richtige Zeitpunkt für dich war, um diese Mail zu behandeln und dir zu helfen, was du brauchst , In der Zeit, die Sie darum gebeten haben.&lt;/p&gt;
+
+&lt;h2 id=&quot;was-ist-fertig-wie-man-eine-e-mail-als-fertig-markiert&quot;&gt;Was ist fertig? Wie man eine E-Mail als fertig markiert?&lt;/h2&gt;
+
+&lt;p class=&quot;center&quot;&gt;&lt;img src=&quot;/assets/ic_action_done.png&quot; alt=&quot;Done&quot; width=&quot;100px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/mark-an-email-as-done/&quot;&gt;Mark as Done&lt;/a&gt; verschiebt die Mail auf die Registerkarte “Fertig” und markiert sie so. Es bedeutet, dass es nichts mehr mit dieser Post zu tun gibt, aber es ist immer noch wertvoll für Sie zu halten.&lt;/p&gt;
+
+&lt;p&gt;Mit &lt;em&gt;Mehr&lt;/em&gt; | &lt;em&gt;Globale Einstellungen&lt;/em&gt; | &lt;strong&gt;&lt;em&gt;Auto Mark as Done&lt;/em&gt;&lt;/strong&gt; Einstellung, können Sie dazu führen, dass geantwortete Nachrichten automatisch als Done markiert werden. Diese Einstellung ist standardmäßig deaktiviert.&lt;/p&gt;
+
+&lt;p&gt;Sie können eine E-Mail mit diesen Methoden löschen:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Verwenden der &lt;a href=&quot;/bottom-bar-options-type-mail/&quot;&gt;Bottom Bar-Aktionen in der Mail-Ansicht&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Verwenden der &lt;a href=&quot;/bottom-bar-options-type-mail/&quot;&gt;Bottom Bar-Aktionen in der Mail-Ansicht&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Hinweis: Wenn Sie den &lt;a href=&quot;/top-bar-left-triangle-menu/&quot;&gt;Incoming Filter&lt;/a&gt; verwenden, sehen Sie keine E-Mails, die als abgeschlossen markiert sind.&lt;/p&gt;
+
+&lt;h2 id=&quot;eine-e-mail-wird-als-versehentlich-markiert-wie-kann-ich-es-in-meinen-posteingang-zurückgeben&quot;&gt;Eine E-Mail wird als versehentlich markiert. Wie kann ich es in meinen Posteingang zurückgeben?&lt;/h2&gt;
+
+&lt;p&gt;Mit BlueMail kannst du die E-Mail-Adresse erneut verschieben, um rückgängig zu werden und wieder in den Posteingang zu gelangen. Tippen Sie einfach auf &lt;em&gt;Posteingang&lt;/em&gt; | &lt;em&gt;Wähle Done filter&lt;/em&gt; | &lt;em&gt;Wischen Sie die E-Mail nach rechts&lt;/em&gt; | &lt;strong&gt;&lt;em&gt;Undone&lt;/em&gt;&lt;/strong&gt; und die E-Mail wird wieder in den Posteingangsordner verschoben.&lt;/p&gt;
+
+&lt;h2 id=&quot;was-ist-der-standard-um-eine-e-mail-für-diesen-abend-zuzuweisen-morgen-früh-im-laufe-des-tages&quot;&gt;Was ist der Standard, um eine E-Mail für diesen Abend zuzuweisen? Morgen früh? Im Laufe des Tages?&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Später Heute ist auf drei Stunden vor&lt;/li&gt;
+  &lt;li&gt;Dieser Abend ist auf 07:00 Uhr von heute eingestellt&lt;/li&gt;
+  &lt;li&gt;Morgen Morgen ist bis 09:00 Uhr am nächsten Tag&lt;/li&gt;
+  &lt;li&gt;Nächste Woche ist eine Woche voraus&lt;/li&gt;
+  &lt;li&gt;In einem Monat ist ein Monat voraus&lt;/li&gt;
+  &lt;li&gt;Ein Tag fügt die E-Mail an die Aufgabenliste ohne ein bestimmtes Fälligkeitsdatum hinzu&lt;/li&gt;
+  &lt;li&gt;Pick Date erlaubt Ihnen, das Datum und die Uhrzeit zu wählen&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Hinweis: Vor 09:00 Uhr ist die Option für &lt;em&gt;Morgen Morgen&lt;/em&gt; wird &lt;em&gt;Heute Morgen&lt;/em&gt;, was bedeutet, dass es heute auf 9:00 Uhr eingestellt ist.&lt;/p&gt;
+
+&lt;p&gt;Sie können die Voreinstellung für &lt;em&gt;Später Heute&lt;/em&gt; mit &lt;em&gt;Mehr …&lt;/em&gt; | ändern &lt;em&gt;Globale Einstellungen&lt;/em&gt; | &lt;em&gt;Später Heute Standard&lt;/em&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;was-sind-die-filter-im-oberen-bar-menü&quot;&gt;Was sind die Filter im oberen Bar-Menü?&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;Filter&lt;/em&gt; können Sie schnell Nachrichten finden, die für Sie von Ihren Kontakten, Diensten und sogar Nachrichten, die Sie nicht gelesen haben, wichtig sind.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Alle&lt;/strong&gt; - Zeigt alle E-Mails im Posteingang an. Fertig, Snooze etc.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Ungelesen&lt;/strong&gt; - Zeigt ungelesene E-Mails an, so dass du niemals eine E-Mail gesendet hast.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Starred&lt;/strong&gt; - Zeigt alle Ihre markierten, markierten, wichtigen E-Mails an.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Incoming&lt;/strong&gt; - Ähnlich dem ‘All’ Filter, ohne die Snoozed und Done E-Mails, so dass sie nicht mit dem Rest Ihrer E-Mails gemischt werden.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p class=&quot;center&quot;&gt;&lt;img src=&quot;/assets/BlueMail_PressKit_Picker-1-1.png&quot; alt=&quot;Picker&quot; width=&quot;350px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Erfahren Sie, wie Sie den &lt;a href=&quot;/how-do-i-change-the-default-filter/&quot;&gt;Standardfilter ändern können.&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;was-ist-der-unterschied-zwischen-snooze--filter-und-tasks-view&quot;&gt;Was ist der Unterschied zwischen Snooze + Filter und Tasks View?&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;/mark-as-later/&quot;&gt;Snooze&lt;/a&gt; -Filter und &lt;a href=&quot;/what-are-tasks-type-mail/&quot;&gt;Tasks&lt;/a&gt; -Ansicht zeigt alle Snoozed-Mails an. Während &lt;em&gt;Snooze&lt;/em&gt; Filter funktioniert wie traditionelle Filter auf einem Postfach, &lt;em&gt;Tasks&lt;/em&gt; zeigen eine dedizierte Dringlichkeitsansicht, mit den dringendsten E-Mails oben, um Sie konzentrieren sich auf was zählt.&lt;/p&gt;
+
+&lt;h2 id=&quot;wo-werden-snoozed--done-e-mails-in-anderen-mail-clients--web--pc&quot;&gt;Wo werden Snoozed / Done E-Mails in anderen Mail Clients / Web / PC?&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Snooze +&lt;/strong&gt; und &lt;strong&gt;Done&lt;/strong&gt; sind interne Features von BlueMail. Wir verschieben diese E-Mails nicht anderswo in Ihren Ordnern.&lt;/p&gt;
+
+&lt;h2 id=&quot;klingt-gut-wie-kannst-du-mir-helfen-einen-zero-posteingang-zu-erreichen&quot;&gt;Klingt gut! Wie kannst du mir helfen, einen Zero Posteingang zu erreichen?&lt;/h2&gt;
+
+&lt;p&gt;Mit Getting Stuff Done, das Erreichen eines Zero Inbox ist einfach. Es beginnt, wenn Sie eine E-Mail erhalten. Sie können es entweder löschen, an jemanden weiterleiten oder Maßnahmen ergreifen. Wenn Sie nicht in der Lage sind, auf die E-Mail schnell zu handeln, einfach planen Sie es für später. BlueMail schickt Ihnen eine Benachrichtigung, wenn es Zeit ist, sich um die Aufgabe zu kümmern. Haben Sie ein wenig mehr Zeit und wollen sich um die E-Mail früher kümmern? Besuchen Sie Ihre Aufgabenliste und überqueren Sie sie. In kürzester Zeit hast du einen Zero Inbox!&lt;/p&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;&quot;bluemail&quot;}</name></author></entry><entryxml:lang="de"><title type="html">Wie kann ich den Sperrbildschirm aktivieren?</title><link href="https://bluemail.help/de/enable-lock-screen/" rel="alternate" type="text/html" title="Wie kann ich den Sperrbildschirm aktivieren?" /><published>2017-03-09T09:39:11+02:00</published><updated>2017-03-09T09:39:11+02:00</updated><id>https://bluemail.help/enable-lock-screen.de</id><content type="html" xml:base="https://bluemail.help/enable-lock-screen/">&lt;p&gt;Für den Fall, dass Ihr Gerät nicht in Ihrer unmittelbaren Kontrolle ist, hat BlueMail den Lock Screen mit PIN und Fingerabdruck Passcode erstellt, um Ihre privaten E-Mails besser zu schützen.&lt;/p&gt;
+
+&lt;p class=&quot;center&quot;&gt;&lt;img src=&quot;/assets/LockscreenBlue-601x1024.jpg&quot; alt=&quot;Lockscreen&quot; width=&quot;350px&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;passcode-sicherheit&quot;&gt;Passcode Sicherheit&lt;/h3&gt;
+
+&lt;p&gt;Um diese Funktion zu aktivieren, tippen Sie auf &lt;em&gt;Mehr …&lt;/em&gt; | &lt;em&gt;Globale Einstellungen&lt;/em&gt; | &lt;em&gt;Sperrbild (Passcode)&lt;/em&gt; | &lt;em&gt;Passcode auf&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;In diesem Menü können Sie Ihren Passcode ändern, den Passcode ausschalten oder den Timeout des Sperrbildschirms einstellen.&lt;/p&gt;
+
+&lt;p&gt;Die Timeout-Funktion ist die Zeitspanne, bevor Sie aufgefordert werden, Ihren Passcode erneut einzugeben, wenn Sie vor kurzem BlueMail geschlossen haben. Bitte beachten Sie, dass die Eröffnung von BlueMail zum ersten Mal Ihren Passcode sofort benötigt.&lt;/p&gt;
+
+&lt;h3 id=&quot;fingerabdrucksicherheit&quot;&gt;Fingerabdrucksicherheit&lt;/h3&gt;
+
+&lt;p&gt;Für Geräte, die den Einsatz von Fingerabdrucksicherheit unterstützen, ermöglicht BlueMail Ihnen, Ihren Fingerabdruck zu verwenden, um Ihre E-Mails sicher zu halten.&lt;/p&gt;
+
+&lt;p&gt;Um die Fingerabdrucksicherheit zu aktivieren, legen Sie bitte einen Passcode für BlueMail fest.&lt;/p&gt;
+
+&lt;p&gt;Bitte beachten Sie: Um diese Funktion nutzen zu können, muss Ihr Gerät die Fingerabdruck-Identifizierung unterstützen und bereits im Geräteeinstellungsmenü aktiviert sein.&lt;/p&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;&quot;bluemail&quot;}</name></author></entry><entryxml:lang="de"><title type="html">Wählen Sie aus, welche Ordner für Exchange / ActiveSync-Konto synchronisiert werden sollen</title><link href="https://bluemail.help/de/select-folders-sync-account/" rel="alternate" type="text/html" title="Wählen Sie aus, welche Ordner für Exchange / ActiveSync-Konto synchronisiert werden sollen" /><published>2017-01-15T14:30:31+02:00</published><updated>2017-01-15T14:30:31+02:00</updated><id>https://bluemail.help/select-folders-sync-account.de</id><content type="html" xml:base="https://bluemail.help/select-folders-sync-account/">&lt;p&gt;Wie kann ich auswählen, welche Ordner für mein Exchange / ActiveSync-Konto zu synchronisieren sind?&lt;/p&gt;
+
+&lt;p&gt;Einige Exchange-Benutzer haben möglicherweise die Möglichkeit, &lt;em&gt;welche Ordner zu wählen&lt;/em&gt;, die sie synchronisiert haben möchten. Für Benutzer mit großen Postfächern kann dies Ihnen helfen zu wählen, welche Ordner Sie lieber in BlueMail synchronisiert haben und welche Sie nicht können.&lt;/p&gt;
+
+&lt;p class=&quot;center&quot;&gt;&lt;img src=&quot;/assets/FolderManagement-575x1024.png&quot; alt=&quot;Folder Management&quot; width=&quot;350px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Um auszuwählen, welche Ordner Sie synchronisieren möchten, während Sie ein Exchange / ActiveSync-Konto verwenden, tippen Sie einfach auf &lt;em&gt;Mehr …&lt;/em&gt; | &lt;em&gt;Verschiedene Kontoeinstellungen&lt;/em&gt; | &lt;em&gt;Wählen Sie das gewünschte Konto&lt;/em&gt; | &lt;em&gt;Ordnerverwaltung&lt;/em&gt;&lt;/p&gt;
+
+&lt;p class=&quot;center&quot;&gt;&lt;img src=&quot;/assets/choose-folder-168x300.png&quot; alt=&quot;Choose Folder&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Schließlich tippen Sie auf &lt;em&gt;Folder Sync&lt;/em&gt; und wählen Sie die Ordner, die Sie synchronisieren möchten.&lt;/p&gt;
+
+&lt;p&gt;Bitte beachten Sie: Wenn Sie Unterordner in dem Ordner haben, den Sie synchronisieren möchten, müssen Sie jeden Unterordner einzeln auswählen, damit er auch synchronisiert wird. Nur die E-Mails in den ausgewählten Ordnern werden synchronisiert.&lt;/p&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;&quot;bluemail&quot;}</name></author></entry><entryxml:lang="de"><title type="html">Was sind die Benachrichtigungsmethoden?</title><link href="https://bluemail.help/de/what-are-the-notifications-methods/" rel="alternate" type="text/html" title="Was sind die Benachrichtigungsmethoden?" /><published>2017-01-01T14:00:28+02:00</published><updated>2017-01-01T14:00:28+02:00</updated><id>https://bluemail.help/what-are-the-notifications-methods.de</id><content type="html" xml:base="https://bluemail.help/what-are-the-notifications-methods/">&lt;p&gt;Benachrichtigungen verwenden die Benachrichtigungsleiste und zeigen eine kurze Vorschau der E-Mail.&lt;/p&gt;
+
+&lt;p&gt;Mit BlueMail können Sie die Benachrichtigungsmethode pro Konto mit &lt;em&gt;Mehr …&lt;/em&gt; | &lt;em&gt;Benachrichtigungen&lt;/em&gt; | &lt;em&gt;Blättern zum Konto&lt;/em&gt; | &lt;em&gt;Sofortige Push-Einstellungen&lt;/em&gt; | &lt;em&gt;Push oder Fetch&lt;/em&gt; | Wählen Sie aus vier Hauptoptionen:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Push - Um sofortige Benachrichtigungen zu erhalten.&lt;/li&gt;
+  &lt;li&gt;Push (Keine Vorschau) - Sofortige Benachrichtigung ohne Vorschau, um den Akkuverbrauch zu senken.&lt;/li&gt;
+  &lt;li&gt;Nein Push - Um Push-Benachrichtigungen zu deaktivieren, aber immer noch E-Mails aktualisiert werden, wenn Sie die App öffnen.&lt;/li&gt;
+  &lt;li&gt;Fetch - Um regelmäßige Benachrichtigungen zu erhalten, die auf einem Intervall basieren, das in * Fetch Interval * eingestellt ist.&lt;/li&gt;
+  &lt;li&gt;Manuell - Nur On-Demand-Refresh-Synchronisierung zu tun und keine Benachrichtigungen zu erhalten.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Wenn Sie &lt;em&gt;Fetch&lt;/em&gt; -Methode wählen, können Sie das &lt;strong&gt;&lt;em&gt;Fetch Interval&lt;/em&gt;&lt;/strong&gt; auswählen und wählen, wie oft Sie nach neuen E-Mails suchen möchten.&lt;/p&gt;
+
+&lt;p&gt;Bitte beachten Sie, dass derzeit nur E-Mails, die im Posteingang ankommen, eine Benachrichtigung auslösen. Benachrichtigungen für andere Ordner als der Posteingang sind auf unserer Roadmap und können in Zukunft freigegeben werden.&lt;/p&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;&quot;bluemail&quot;}</name></author></entry></feed>

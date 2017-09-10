@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="e0ba26de-7e25-4c13-b278-a8bbb71b1e14" name="BM Tips" url="http://localhost">
+        <fileTransfer port="0" mountedRoot="$USER_HOME$/Dropbox/BlueMail Tips" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>

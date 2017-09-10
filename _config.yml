@@ -4,7 +4,7 @@
 title: BlueMail Help
 url: "https://bluemail.help"
 baseurl:
-google_analytics_key:
+google_analytics_key: UA-63376517-21
 disqus_shortname:
 newsletter_action:
 excerpt_separator: ""
@@ -52,6 +52,7 @@ collections:
 
 jekyll-archives:
   enabled: ['categories']
+  category: '/category/:name/'
 
 defaults:
   -
