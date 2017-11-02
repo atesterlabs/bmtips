@@ -1,0 +1,15 @@
+---
+pages:
+- index.html
+hide_body: false
+fields:
+- name: layout
+  label: Layout
+  type: text
+  hidden: false
+  default: default
+- name: body_class
+  label: Body class
+  type: text
+  hidden: false
+  default: show_hero_search

@@ -1,0 +1,473 @@
+---
+pages:
+- _posts/2017-09-06-notifications-explained.en.md
+- _posts/2017-09-06-notifications-content.en.md
+- _posts/2017-09-06-gabi-wanted-a-test.en.md
+- _posts/2017-08-06-stand-alone-application.en.md
+- _posts/2017-08-06-stand-alone-application.de.md
+- _posts/2017-07-25-sign-in.en.md
+- _posts/2017-07-25-sign-in.de.md
+- _posts/2017-05-25-icon-reference-guide.en.md
+- _posts/2017-05-25-icon-reference-guide.de.md
+- _posts/2017-05-16-app-specific-password-icloud.en.md
+- _posts/2017-05-16-app-specific-password-icloud.de.md
+- _posts/2017-03-20-get-stuff-done.en.md
+- _posts/2017-03-20-get-stuff-done.de.md
+- _posts/2017-03-09-enable-lock-screen.en.md
+- _posts/2017-03-09-enable-lock-screen.de.md
+- _posts/2017-01-15-select-folders-sync-account.en.md
+- _posts/2017-01-15-select-folders-sync-account.de.md
+- _posts/2017-01-01-what-are-the-notifications-methods.en.md
+- _posts/2017-01-01-what-are-the-notifications-methods.de.md
+- _posts/2016-12-27-how-to-report-an-email.en.md
+- _posts/2016-12-27-how-to-report-an-email.de.md
+- _posts/2016-12-18-remove-contact-auto-complete.en.md
+- _posts/2016-12-18-remove-contact-auto-complete.de.md
+- _posts/2016-12-18-exclude-bluemail-doze.en.md
+- _posts/2016-12-18-exclude-bluemail-doze.de.md
+- _posts/2016-12-15-remove-add-account.en.md
+- _posts/2016-12-15-remove-add-account.de.md
+- _posts/2016-12-15-take-a-video.en.md
+- _posts/2016-12-15-take-a-video.de.md
+- _posts/2016-12-15-remove-ews.en.md
+- _posts/2016-12-15-remove-ews.de.md
+- _posts/2016-12-15-common-solutions.en.md
+- _posts/2016-12-15-common-solutions.de.md
+- _posts/2016-12-06-oauth.en.md
+- _posts/2016-12-06-oauth.de.md
+- _posts/2016-12-06-oauth-outlook.en.md
+- _posts/2016-12-06-oauth-outlook.de.md
+- _posts/2016-12-06-oauth-yahoo.en.md
+- _posts/2016-12-06-oauth-yahoo.de.md
+- _posts/2016-12-06-oauth-gmail.en.md
+- _posts/2016-12-06-oauth-gmail.de.md
+- _posts/2016-11-27-windows-pc-client.en.md
+- _posts/2016-11-27-windows-pc-client.de.md
+- _posts/2016-11-24-mac-client.en.md
+- _posts/2016-11-24-mac-client.de.md
+- _posts/2016-11-03-manage-spam.en.md
+- _posts/2016-11-03-manage-spam.de.md
+- _posts/2016-11-03-edit-spam-list.en.md
+- _posts/2016-11-03-edit-spam-list.de.md
+- _posts/2016-10-31-edit-a-contact.en.md
+- _posts/2016-10-31-edit-a-contact.de.md
+- _posts/2016-10-31-notification-mode.en.md
+- _posts/2016-10-31-notification-mode.de.md
+- _posts/2016-10-16-rich-text-compose.en.md
+- _posts/2016-10-16-rich-text-compose.de.md
+- _posts/2016-10-13-how-do-i-add-my-yahoo-account.en.md
+- _posts/2016-10-13-how-do-i-add-my-yahoo-account.de.md
+- _posts/2016-09-26-how-do-i-empty-all-the-emails-in-the-trash-folder.en.md
+- _posts/2016-09-26-how-do-i-empty-all-the-emails-in-the-trash-folder.de.md
+- _posts/2016-09-22-calendar-and-contact-sync-for-exchange-and-office-365.en.md
+- _posts/2016-09-22-calendar-and-contact-sync-for-exchange-and-office-365.de.md
+- _posts/2016-09-22-add-multiple-aliases-per-account.en.md
+- _posts/2016-09-22-add-multiple-aliases-per-account.de.md
+- _posts/2016-09-14-bluemail-adding-a-gmail-account.en.md
+- _posts/2016-09-14-bluemail-adding-a-gmail-account.de.md
+- _posts/2016-09-11-where-is-the-original-bluemail-sound.en.md
+- _posts/2016-09-11-where-is-the-original-bluemail-sound.de.md
+- _posts/2016-07-14-how-to-take-a-screenshot.en.md
+- _posts/2016-07-14-how-to-take-a-screenshot.de.md
+- _posts/2016-07-11-what-does-the-people-toggle-switch-do.en.md
+- _posts/2016-07-11-what-does-the-people-toggle-switch-do.de.md
+- _posts/2016-07-11-how-do-i-enable-dark-mode.en.md
+- _posts/2016-07-11-how-do-i-enable-dark-mode.de.md
+- _posts/2016-07-05-how-to-sync-your-accounts-between-multiple-devices-what-is-sms-verification.en.md
+- _posts/2016-07-05-how-to-sync-your-accounts-between-multiple-devices-what-is-sms-verification.de.md
+- _posts/2016-07-05-how-do-i-change-cluster-settings.en.md
+- _posts/2016-07-05-how-do-i-change-cluster-settings.de.md
+- _posts/2016-06-29-how-do-i-choose-which-emails-get-clustered.en.md
+- _posts/2016-06-29-how-do-i-choose-which-emails-get-clustered.de.md
+- _posts/2016-05-24-yahoo-2-step-verification-login.en.md
+- _posts/2016-05-24-yahoo-2-step-verification-login.de.md
+- _posts/2016-05-11-my-profile.en.md
+- _posts/2016-05-11-my-profile.de.md
+- _posts/2016-05-08-lets-get-tasks-done.en.md
+- _posts/2016-05-08-lets-get-tasks-done.de.md
+- _posts/2016-05-04-what-is-cluster-mode.en.md
+- _posts/2016-05-04-what-is-cluster-mode.de.md
+- _posts/2016-05-04-what-happens-to-my-avatars-if-cluster-mode-is-enabled.en.md
+- _posts/2016-05-04-what-happens-to-my-avatars-if-cluster-mode-is-enabled.de.md
+- _posts/2016-05-04-what-are-clusters.en.md
+- _posts/2016-05-04-what-are-clusters.de.md
+- _posts/2016-04-20-how-do-i-change-the-default-filter.en.md
+- _posts/2016-04-20-how-do-i-change-the-default-filter.de.md
+- _posts/2016-02-24-people-view.en.md
+- _posts/2016-02-24-people-view.de.md
+- _posts/2016-02-14-group-mail-explained.en.md
+- _posts/2016-02-14-group-mail-explained.de.md
+- _posts/2016-02-08-suggested-groups.en.md
+- _posts/2016-02-08-suggested-groups.de.md
+- _posts/2016-02-07-send-an-email-to-a-group.en.md
+- _posts/2016-02-07-send-an-email-to-a-group.de.md
+- _posts/2016-02-07-naming-a-group-and-setting-a-photo.en.md
+- _posts/2016-02-07-naming-a-group-and-setting-a-photo.de.md
+- _posts/2016-02-07-creating-a-group.en.md
+- _posts/2016-02-07-creating-a-group.de.md
+- _posts/2016-02-03-what-are-clusters-and-how-to-use-them.en.md
+- _posts/2016-02-03-what-are-clusters-and-how-to-use-them.de.md
+- _posts/2015-08-23-how-to-configure-the-bottom-bar-actions.en.md
+- _posts/2015-08-23-how-to-configure-the-bottom-bar-actions.de.md
+- _posts/2015-08-13-customizing-notifications.en.md
+- _posts/2015-08-13-customizing-notifications.de.md
+- _posts/2015-07-09-do-you-support-sounds-how-can-i-customize-sound-notifications.en.md
+- _posts/2015-07-09-do-you-support-sounds-how-can-i-customize-sound-notifications.de.md
+- _posts/2015-07-09-how-to-customize-the-led-notifications.en.md
+- _posts/2015-07-09-how-to-customize-the-led-notifications.de.md
+- _posts/2015-07-09-how-to-disable-notifications-for-given-times-what-is-the-do-not-disturb-option.en.md
+- _posts/2015-07-09-how-to-disable-notifications-for-given-times-what-is-the-do-not-disturb-option.de.md
+- _posts/2015-07-09-how-to-set-vibrations-on-notifications.en.md
+- _posts/2015-07-09-how-to-set-vibrations-on-notifications.de.md
+- _posts/2015-06-11-take-video-screencast-device.en.md
+- _posts/2015-06-11-take-video-screencast-device.de.md
+- _posts/2015-06-10-folder-management-in-blue-mail.en.md
+- _posts/2015-06-10-folder-management-in-blue-mail.de.md
+- _posts/2015-05-04-delete-from-server-pop3.en.md
+- _posts/2015-05-04-delete-from-server-pop3.de.md
+- _posts/2015-05-04-switch-between-split-full-screen.en.md
+- _posts/2015-05-04-switch-between-split-full-screen.de.md
+- _posts/2015-05-04-send-receive-encrypted-messages.en.md
+- _posts/2015-05-04-send-receive-encrypted-messages.de.md
+- _posts/2015-05-04-see-status-sent-messages.en.md
+- _posts/2015-05-04-see-status-sent-messages.de.md
+- _posts/2015-05-04-send-emails.en.md
+- _posts/2015-05-04-send-emails.de.md
+- _posts/2015-04-22-check-type-mail-push-status.en.md
+- _posts/2015-04-22-check-type-mail-push-status.de.md
+- _posts/2015-04-21-show-next-after-deleting.en.md
+- _posts/2015-04-21-show-next-after-deleting.de.md
+- _posts/2015-04-21-forward-emails.en.md
+- _posts/2015-04-21-forward-emails.de.md
+- _posts/2015-04-21-size-auto-download-messages.en.md
+- _posts/2015-04-21-size-auto-download-messages.de.md
+- _posts/2015-04-21-what-are-the-different-symbols-on-the-avatar-image-of-the-sender.en.md
+- _posts/2015-04-21-what-are-the-different-symbols-on-the-avatar-image-of-the-sender.de.md
+- _posts/2015-04-21-time-formats-supported.en.md
+- _posts/2015-04-21-time-formats-supported.de.md
+- _posts/2015-04-21-how-to-clear-cache-remove-old-emails-from-blue-mail.en.md
+- _posts/2015-04-21-how-to-clear-cache-remove-old-emails-from-blue-mail.de.md
+- _posts/2015-04-11-3-dot-menu-compose.en.md
+- _posts/2015-04-11-3-dot-menu-compose.de.md
+- _posts/2015-03-26-my-unread-count-is-incorrect-how-to-reset-the-unread-count-for-badge.en.md
+- _posts/2015-03-26-my-unread-count-is-incorrect-how-to-reset-the-unread-count-for-badge.de.md
+- _posts/2015-03-26-how-to-copy-text-from-the-email-body.en.md
+- _posts/2015-01-01-default-to-assign-an-email.de.md
+- _posts/2015-01-01-vibrations-on-notifications.en.md
+- _posts/2015-01-01-vibrations-on-notifications.de.md
+- _posts/2015-01-01-configure-left-right-swipe-menu.en.md
+- _posts/2015-01-01-configure-left-right-swipe-menu.de.md
+- _posts/2015-01-01-days-to-sync-option.en.md
+- _posts/2015-01-01-days-to-sync-option.de.md
+- _posts/2015-01-01-bottom-bar-icons.en.md
+- _posts/2015-01-01-bottom-bar-icons.de.md
+- _posts/2015-01-01-save-attachments-in-a-folder.en.md
+- _posts/2015-01-01-save-attachments-in-a-folder.de.md
+- _posts/2015-01-01-change-password-gmail-outlook-account.en.md
+- _posts/2015-01-01-change-password-gmail-outlook-account.de.md
+- _posts/2015-01-01-configure-multi-edit-actions.en.md
+- _posts/2015-01-01-configure-multi-edit-actions.de.md
+- _posts/2015-01-01-advanced-account-settings.en.md
+- _posts/2015-01-01-advanced-account-settings.de.md
+- _posts/2014-12-31-mark-an-email-as-read.en.md
+- _posts/2014-12-31-mark-an-email-as-read.de.md
+- _posts/2014-12-29-copy-email-address.en.md
+- _posts/2014-12-29-copy-email-address.de.md
+- _posts/2014-12-29-add-email-address-phonebook-contacts.en.md
+- _posts/2014-12-29-add-email-address-phonebook-contacts.de.md
+- _posts/2014-12-03-update-accounts-details.en.md
+- _posts/2014-12-03-update-accounts-details.de.md
+- _posts/2014-12-03-provide-feedback.en.md
+- _posts/2014-12-03-provide-feedback.de.md
+- _posts/2014-12-03-update-bluemail.en.md
+- _posts/2014-12-03-update-bluemail.de.md
+- _posts/2014-12-03-all-mail-in-gmail-bluemail.en.md
+- _posts/2014-12-03-all-mail-in-gmail-bluemail.de.md
+- _posts/2014-12-03-future-plans-blue-mail.en.md
+- _posts/2014-12-03-future-plans-blue-mail.de.md
+- _posts/2014-12-03-set-fetch-polling-interval.en.md
+- _posts/2014-12-03-set-fetch-polling-interval.de.md
+- _posts/2014-12-03-notification-open-application.en.md
+- _posts/2014-12-03-notification-open-application.de.md
+- _posts/2014-12-03-notifications-actions.en.md
+- _posts/2014-12-03-notifications-actions.de.md
+- _posts/2014-12-03-push-mail-bluemail-not-running.en.md
+- _posts/2014-12-03-push-mail-bluemail-not-running.de.md
+- _posts/2014-12-03-marked-as-done-return-inbox.en.md
+- _posts/2014-12-03-marked-as-done-return-inbox.de.md
+- _posts/2014-12-03-reach-a-zero-inbox.en.md
+- _posts/2014-12-03-reach-a-zero-inbox.de.md
+- _posts/2014-12-03-snooze-notifications-or-reminders.en.md
+- _posts/2014-12-03-snooze-notifications-or-reminders.de.md
+- _posts/2014-12-03-what-are-tasks-blue-mail.en.md
+- _posts/2014-12-03-what-are-tasks-blue-mail.de.md
+- _posts/2014-12-03-later-done-emails-other-clients.en.md
+- _posts/2014-12-03-later-done-emails-other-clients.de.md
+- _posts/2014-12-03-mark-as-later.en.md
+- _posts/2014-12-03-mark-as-later.de.md
+- _posts/2014-12-03-mark-as-done.en.md
+- _posts/2014-12-03-mark-as-done.de.md
+- _posts/2014-12-03-top-bar-left-triangle-menu.en.md
+- _posts/2014-12-03-top-bar-left-triangle-menu.de.md
+- _posts/2014-12-03-custom-signatures.en.md
+- _posts/2014-12-03-custom-signatures.de.md
+- _posts/2014-12-03-customize-sound-notifications.en.md
+- _posts/2014-12-03-customize-sound-notifications.de.md
+- _posts/2014-12-03-change-font-size-blue-mail.en.md
+- _posts/2014-12-03-change-font-size-blue-mail.de.md
+- _posts/2014-12-03-printing-support-blue-mail.en.md
+- _posts/2014-12-03-printing-support-blue-mail.de.md
+- _posts/2014-12-03-pictures-of-services-blue-mail.en.md
+- _posts/2014-12-03-pictures-of-services-blue-mail.de.md
+- _posts/2014-12-03-left-side-circle.en.md
+- _posts/2014-12-03-left-side-circle.de.md
+- _posts/2014-12-03-different-account-to-send-from.en.md
+- _posts/2014-12-03-different-account-to-send-from.de.md
+- _posts/2014-12-03-blue-mail-conversations-support.en.md
+- _posts/2014-12-03-blue-mail-conversations-support.de.md
+- _posts/2014-12-03-automatically-download-attachments.en.md
+- _posts/2014-12-03-automatically-download-attachments.de.md
+- _posts/2014-12-03-save-an-attachment-on-sd.en.md
+- _posts/2014-12-03-save-an-attachment-on-sd.de.md
+- _posts/2014-12-03-view-attachments-blue-mail.en.md
+- _posts/2014-12-03-view-attachments-blue-mail.de.md
+- _posts/2014-12-03-maximum-attachment-size-blue-mail.en.md
+- _posts/2014-12-03-maximum-attachment-size-blue-mail.de.md
+- _posts/2014-12-03-attachments-file-types-bluemail-support.en.md
+- _posts/2014-12-03-attachments-file-types-bluemail-support.de.md
+- _posts/2014-12-03-blue-mail-wifi-offline-mode.en.md
+- _posts/2014-12-03-blue-mail-wifi-offline-mode.de.md
+- _posts/2014-12-03-phone-disconnects-while-sending.en.md
+- _posts/2014-12-03-phone-disconnects-while-sending.de.md
+- _posts/2014-12-03-actions-multiple-emails-blue-mail.en.md
+- _posts/2014-12-03-actions-multiple-emails-blue-mail.de.md
+- _posts/2014-12-03-read-unread-status-per-email.en.md
+- _posts/2014-12-03-read-unread-status-per-email.de.md
+- _posts/2014-12-03-widget-capabilities-blue-mail.en.md
+- _posts/2014-12-03-widget-capabilities-blue-mail.de.md
+- _posts/2014-12-03-logout-sign-out-blue-mail.en.md
+- _posts/2014-12-03-logout-sign-out-blue-mail.de.md
+- _posts/2014-12-03-bcc-support-bluemail.en.md
+- _posts/2014-12-03-bcc-support-bluemail.de.md
+- _posts/2014-12-03-bottom-bar-options-blue-mail.en.md
+- _posts/2014-12-03-bottom-bar-options-blue-mail.de.md
+- _posts/2014-12-03-delete-an-email.en.md
+- _posts/2014-12-03-delete-an-email.de.md
+- _posts/2014-12-03-starred-email-label-email.en.md
+- _posts/2014-12-03-starred-email-label-email.de.md
+- _posts/2014-12-03-refresh-mail-list.en.md
+- _posts/2014-12-03-refresh-mail-list.de.md
+- _posts/2014-12-03-swipe-menu-options-blue-mail.en.md
+- _posts/2014-12-03-swipe-menu-options-blue-mail.de.md
+- _posts/2014-12-03-spam-folder-in-yahoo-bluemail.en.md
+- _posts/2014-12-03-spam-folder-in-yahoo-bluemail.de.md
+- _posts/2015-03-26-how-to-copy-text-from-the-email-body.de.md
+- _posts/2015-03-26-how-can-i-differentiate-a-forwarded-from-a-replied-email.en.md
+- _posts/2015-03-26-how-can-i-differentiate-a-forwarded-from-a-replied-email.de.md
+- _posts/2015-03-12-global-settings.en.md
+- _posts/2015-03-12-global-settings.de.md
+- _posts/2015-03-11-show-compose-button.en.md
+- _posts/2015-03-11-show-compose-button.de.md
+- _posts/2015-03-11-how-to-re-download-an-email.en.md
+- _posts/2015-03-11-how-to-re-download-an-email.de.md
+- _posts/2015-03-11-how-to-add-invitations-to-my-calendar.en.md
+- _posts/2015-03-11-how-to-add-invitations-to-my-calendar.de.md
+- _posts/2015-03-07-folders-pop3-accounts.en.md
+- _posts/2015-03-07-folders-pop3-accounts.de.md
+- _posts/2015-02-26-default-folder-save-attachments.en.md
+- _posts/2015-02-26-default-folder-save-attachments.de.md
+- _posts/2015-02-26-support-gal-exchange.en.md
+- _posts/2015-02-26-support-gal-exchange.de.md
+- _posts/2015-02-22-mark-an-email-as-done.en.md
+- _posts/2015-02-22-mark-an-email-as-done.de.md
+- _posts/2015-02-22-mark-an-email-as-later.en.md
+- _posts/2015-02-22-mark-an-email-as-later.de.md
+- _posts/2015-02-22-filter-tasks-view.en.md
+- _posts/2015-02-22-filter-tasks-view.de.md
+- _posts/2015-02-22-configure-account-manually.en.md
+- _posts/2015-02-22-configure-account-manually.de.md
+- _posts/2015-02-22-signature-image-size.en.md
+- _posts/2015-02-22-signature-image-size.de.md
+- _posts/2015-02-22-mark-email-done-mark-read.en.md
+- _posts/2015-02-22-mark-email-done-mark-read.de.md
+- _posts/2015-02-22-at-a-glance-bluemail.en.md
+- _posts/2015-02-22-at-a-glance-bluemail.de.md
+- _posts/2015-02-21-3-dot-menu-options.en.md
+- _posts/2015-02-21-3-dot-menu-options.de.md
+- _posts/2015-02-21-reply-header-style.en.md
+- _posts/2015-02-21-reply-header-style.de.md
+- _posts/2015-02-21-unmark-email-as-spam.en.md
+- _posts/2015-02-21-unmark-email-as-spam.de.md
+- _posts/2015-02-18-set-default-account-unified-inbox.en.md
+- _posts/2015-02-18-set-default-account-unified-inbox.de.md
+- _posts/2015-02-18-navigate-between-folders.en.md
+- _posts/2015-02-18-navigate-between-folders.de.md
+- _posts/2015-02-18-marks-a-high-priority-email.en.md
+- _posts/2015-02-18-marks-a-high-priority-email.de.md
+- _posts/2015-02-18-send-email-with-high-priority.en.md
+- _posts/2015-02-18-send-email-with-high-priority.de.md
+- _posts/2015-02-18-disable-outgoing-sound.en.md
+- _posts/2015-02-18-disable-outgoing-sound.de.md
+- _posts/2015-02-12-add-exchange-account.en.md
+- _posts/2015-02-12-add-exchange-account.de.md
+- _posts/2015-02-12-edit-account.en.md
+- _posts/2015-02-12-edit-account.de.md
+- _posts/2015-02-12-unread-count-badge-app-icon.en.md
+- _posts/2015-02-12-unread-count-badge-app-icon.de.md
+- _posts/2015-02-12-alternatives-unread-count-badge.en.md
+- _posts/2015-02-12-alternatives-unread-count-badge.de.md
+- _posts/2015-02-11-accounts-status-options.en.md
+- _posts/2015-02-11-accounts-status-options.de.md
+- _posts/2015-02-11-change-language-blue-mail.en.md
+- _posts/2015-02-11-change-language-blue-mail.de.md
+- _posts/2015-02-11-configure-quick-replies.en.md
+- _posts/2015-02-11-configure-quick-replies.de.md
+- _posts/2015-02-10-use-quick-replies.en.md
+- _posts/2015-02-10-use-quick-replies.de.md
+- _posts/2015-02-10-search-on-server.en.md
+- _posts/2015-02-10-search-on-server.de.md
+- _posts/2015-02-10-move-between-emails-volume-keys.en.md
+- _posts/2015-02-10-move-between-emails-volume-keys.de.md
+- _posts/2015-02-03-select-account-badge.en.md
+- _posts/2015-02-03-select-account-badge.de.md
+- _posts/2015-01-27-myself-bcc-automatically.en.md
+- _posts/2015-01-27-myself-bcc-automatically.de.md
+- _posts/2015-01-27-map-folders-to-provider.en.md
+- _posts/2015-01-27-map-folders-to-provider.de.md
+- _posts/2015-01-27-change-account-to-unified-inbox.en.md
+- _posts/2015-01-27-change-account-to-unified-inbox.de.md
+- _posts/2015-01-18-reply-without-quoted-text.en.md
+- _posts/2015-01-18-reply-without-quoted-text.de.md
+- _posts/2015-01-11-connection-problems-dont-sync.en.md
+- _posts/2015-01-11-connection-problems-dont-sync.de.md
+- _posts/2015-01-11-emails-missing-from-blue-mail.en.md
+- _posts/2015-01-11-emails-missing-from-blue-mail.de.md
+- _posts/2015-01-11-sync-folders-labels-imap-account.en.md
+- _posts/2015-01-11-sync-folders-labels-imap-account.de.md
+- _posts/2015-01-07-hide-bottom-bar.en.md
+- _posts/2015-01-07-hide-bottom-bar.de.md
+- _posts/2015-01-07-difference-reply-reply-all-forward.en.md
+- _posts/2015-01-07-difference-reply-reply-all-forward.de.md
+- _posts/2015-01-06-what-is-oauth.en.md
+- _posts/2015-01-06-what-is-oauth.de.md
+- _posts/2015-01-06-unable-to-connect-to-server.en.md
+- _posts/2015-01-06-unable-to-connect-to-server.de.md
+- _posts/2015-01-01-android-wear-bluemail.en.md
+- _posts/2015-01-01-android-wear-bluemail.de.md
+- _posts/2015-01-01-rate-blue-mail-five-stars.en.md
+- _posts/2015-01-01-rate-blue-mail-five-stars.de.md
+- _posts/2015-01-01-default-to-assign-an-email.en.md
+- _posts/2014-12-03-configure-icloud-account-blue-mail.en.md
+- _posts/2014-12-03-gmails-all-mail-folder-bluemail.en.md
+- _posts/2014-12-03-gmails-all-mail-folder-bluemail.de.md
+- _posts/2014-12-03-update-gmail-outlook-password-bluemail.en.md
+- _posts/2014-12-03-update-gmail-outlook-password-bluemail.de.md
+- _posts/2014-12-03-trash-folder-archive-folder-bluemail.en.md
+- _posts/2014-12-03-trash-folder-archive-folder-bluemail.de.md
+- _posts/2014-12-03-outbox-folder-blue-mail.en.md
+- _posts/2014-12-03-outbox-folder-blue-mail.de.md
+- _posts/2014-12-03-junk-spam-folder-blue-mail.en.md
+- _posts/2014-12-03-junk-spam-folder-blue-mail.de.md
+- _posts/2014-12-03-drafts-emails-blue-mail.en.md
+- _posts/2014-12-03-drafts-emails-blue-mail.de.md
+- _posts/2014-12-03-sent-emails-folder-blue-mail.en.md
+- _posts/2014-12-03-sent-emails-folder-blue-mail.de.md
+- _posts/2014-12-03-change-default-account.en.md
+- _posts/2014-12-03-change-default-account.de.md
+- _posts/2014-12-03-unified-inbox-blue-mail.en.md
+- _posts/2014-12-03-unified-inbox-blue-mail.de.md
+- _posts/2014-12-03-accounts-colors-blue-mail.en.md
+- _posts/2014-12-03-accounts-colors-blue-mail.de.md
+- _posts/2014-12-03-multiple-accounts-support-blue-mail.en.md
+- _posts/2014-12-03-multiple-accounts-support-blue-mail.de.md
+- _posts/2014-12-03-update-gmail-outlook-accounts-password.en.md
+- _posts/2014-12-03-update-gmail-outlook-accounts-password.de.md
+- _posts/2014-12-03-delete-an-account-blue-mail.en.md
+- _posts/2014-12-03-delete-an-account-blue-mail.de.md
+- _posts/2014-12-03-sync-options-blue-mail.en.md
+- _posts/2014-12-03-sync-options-blue-mail.de.md
+- _posts/2014-12-03-list-of-providers-blue-mail.en.md
+- _posts/2014-12-03-list-of-providers-blue-mail.de.md
+- _posts/2014-12-03-imap-pop3-provider-support-bluemail.en.md
+- _posts/2014-12-03-imap-pop3-provider-support-bluemail.de.md
+- _posts/2014-12-03-configure-icloud-account-blue-mail.de.md
+- _posts/2014-12-02-providers-support-blue-mail.en.md
+- _posts/2014-12-02-providers-support-blue-mail.de.md
+- _posts/2014-12-02-start-using-blue-mail-app.en.md
+- _posts/2014-12-02-start-using-blue-mail-app.de.md
+- _posts/2014-12-02-read-receipts-blue-mail.en.md
+- _posts/2014-12-02-read-receipts-blue-mail.de.md
+- _posts/2014-12-02-how-to-archive-emails.en.md
+- _posts/2014-12-02-how-to-archive-emails.de.md
+hide_body: false
+fields:
+- name: layout
+  label: Layout
+  type: text
+  hidden: false
+  default: post
+- name: title
+  label: Title
+  type: textarea
+  hidden: false
+  default: ''
+- name: date
+  label: Date
+  type: datetime
+  hidden: false
+  default: ''
+- name: type
+  label: Type
+  type: text
+  hidden: false
+  default: ''
+- name: published
+  label: Published
+  type: boolean
+  hidden: false
+  default: ''
+- name: status
+  label: Status
+  type: text
+  hidden: false
+  default: ''
+- name: categories
+  label: Categories
+  type: tag_list
+  hidden: false
+  default: ''
+- name: tags
+  label: Tags
+  type: tag_list
+  hidden: false
+  default: ''
+- name: lang
+  label: Lang
+  type: text
+  hidden: false
+  default: ''
+- name: meta
+  label: Meta
+  type: text
+  hidden: false
+  default: ''
+- name: Datum
+  label: Datum
+  type: datetime
+  hidden: false
+  default: ''
+- name: Layout
+  label: Layout
+  type: text
+  hidden: false
+  default: ''
+- name: tite
+  label: Tite
+  type: text
+  hidden: false
+  default: ''
+- name: comments
+  label: Comments
+  type: boolean
+  hidden: false
+  default: true
